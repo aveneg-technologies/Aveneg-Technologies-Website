@@ -24,6 +24,8 @@ An encrypted, offline desktop application for cataloguing a watch collection —
 
 [watchvaultarchive.com →](https://watchvaultarchive.com)
 
+[All products →](https://avenegtechnologies.com/products/)
+
 _Contact_
 
 ## Business and legal inquiries.
@@ -33,6 +35,26 @@ Commercial licensing [legal@avenegtechnologies.com](mailto:legal@avenegtechnolog
 General [info@avenegtechnologies.com](mailto:info@avenegtechnologies.com)
 
 [Full contact details, including our business address →](https://avenegtechnologies.com/contact/)
+
+---
+
+Source: https://avenegtechnologies.com/products/
+
+_Products_
+
+# What we publish.
+
+Every product is a separate application with its own website, its own Terms of Service and its own Privacy Policy. All are published by Aveneg Technologies, LLC, and all are built the same way: private, encrypted, offline by design.
+
+### Watch Vault Archive
+
+An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.
+
+[watchvaultarchive.com →](https://watchvaultarchive.com)
+
+[Terms of Service](https://watchvaultarchive.com/terms) [Privacy Policy](https://watchvaultarchive.com/privacy)
+
+Each product is licensed, and handles data, under its own documents, because those can differ from one product to the next. This site’s own [Terms](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
 
 ---
 
@@ -62,11 +84,13 @@ An encrypted, offline desktop application for cataloguing a watch collection —
 
 [watchvaultarchive.com →](https://watchvaultarchive.com)
 
+[All products →](https://avenegtechnologies.com/products/)
+
 _The company_
 
 ## A registered limited liability company.
 
-Aveneg Technologies, LLC is the publisher of Watch Vault Archive, under its own, separate [Terms of Service](https://watchvaultarchive.com/terms) and [Privacy Policy](https://watchvaultarchive.com/privacy). For our business address and other ways to reach us, see [Contact](https://avenegtechnologies.com/contact/).
+Aveneg Technologies, LLC is the publisher of every product on our [Products](https://avenegtechnologies.com/products/) page. Each is licensed under its own Terms of Service and Privacy Policy, linked from its entry there. For our business address and other ways to reach us, see [Contact](https://avenegtechnologies.com/contact/).
 
 ---
 
@@ -111,7 +135,7 @@ _Legal_
 
 Last updated September 20, 2026
 
-These Terms govern your use of avenegtechnologies.com (“this site”), published by Aveneg Technologies, LLC (“the Company,” “we,” “us”). They do not cover any software the Company publishes. Watch Vault Archive is licensed under its own, separate Terms of Service at [watchvaultarchive.com/terms](https://watchvaultarchive.com/terms) — if you are looking for the terms that govern that application, this is not the document.
+These Terms govern your use of avenegtechnologies.com (“this site”), published by Aveneg Technologies, LLC (“the Company,” “we,” “us”). They do not cover any software the Company publishes. Each product is licensed under its own, separate Terms of Service, linked from its entry on the [Products](https://avenegtechnologies.com/products/) page — if you are looking for the terms that govern an application, this is not the document.
 
 ## 1. What this site is
 
@@ -123,11 +147,11 @@ You may view and share pages from this site for lawful purposes. Automated acces
 
 ## 3. Intellectual property
 
-The text, design and mark on this site belong to Aveneg Technologies, LLC. Watch Vault Archive and any other product names referenced here belong to their respective owners; referencing them does not imply endorsement in either direction beyond the actual publisher relationship stated.
+The text, design and mark on this site belong to Aveneg Technologies, LLC. Product names are used here to identify the Company’s own software. Any third-party names referenced belong to their respective owners, and referencing them does not imply endorsement in either direction.
 
 ## 4. Links to other properties
 
-This site links to Watch Vault Archive and may link to other products or resources in the future. Each is governed by its own terms, separate from this document. We are not responsible for the content of external sites we do not operate.
+This site links to the Company’s products and may link to other resources. Each is governed by its own terms, separate from this document. We are not responsible for the content of external sites we do not operate.
 
 ## 5. No warranty
 
@@ -157,9 +181,9 @@ _Legal_
 
 # Privacy Policy
 
-Last updated September 3, 2026
+Last updated September 20, 2026
 
-This policy covers avenegtechnologies.com only — the corporate website you are reading now. It does not cover any software the Company publishes. Watch Vault Archive handles data differently, entirely on your own computer, and has its own, separate Privacy Policy at [watchvaultarchive.com/privacy](https://watchvaultarchive.com/privacy).
+This policy covers avenegtechnologies.com only — the corporate website you are reading now. It does not cover any software the Company publishes. Each product has its own, separate Privacy Policy, linked from its entry on the [Products](https://avenegtechnologies.com/products/) page, that describes how that product handles data.
 
 The short version: this site collects nothing about you automatically. No cookies, no analytics, no tracking scripts. If you never email us, we have no data about you at all.
 

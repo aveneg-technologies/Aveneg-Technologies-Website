@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>About · Aveneg Technologies, LLC</title>
-<meta name="description" content="Aveneg Technologies, LLC builds private, encrypted, offline desktop software for people who keep a careful record of something valuable. Publisher of Watch Vault Archive.">
+<title>Products · Aveneg Technologies, LLC</title>
+<meta name="description" content="Software published by Aveneg Technologies, LLC: private, encrypted, offline desktop applications, each with its own website, Terms of Service and Privacy Policy.">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://avenegtechnologies.com/about/">
+<link rel="canonical" href="https://avenegtechnologies.com/products/">
 <meta name="theme-color" content="#0E0F12">
 
 <link rel="icon" type="image/svg+xml" href="/mark.svg">
@@ -15,26 +15,33 @@
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Aveneg Technologies">
-<meta property="og:title" content="About · Aveneg Technologies, LLC">
-<meta property="og:description" content="Private, encrypted, offline desktop software for people who keep a careful record of something valuable.">
-<meta property="og:url" content="https://avenegtechnologies.com/about/">
+<meta property="og:title" content="Products · Aveneg Technologies, LLC">
+<meta property="og:description" content="Private, encrypted, offline desktop applications, each with its own Terms of Service and Privacy Policy.">
+<meta property="og:url" content="https://avenegtechnologies.com/products/">
 <meta property="og:image" content="https://avenegtechnologies.com/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="About · Aveneg Technologies, LLC">
-<meta name="twitter:description" content="Private, encrypted, offline desktop software for people who keep a careful record of something valuable.">
+<meta name="twitter:title" content="Products · Aveneg Technologies, LLC">
+<meta name="twitter:description" content="Private, encrypted, offline desktop applications, each with its own Terms of Service and Privacy Policy.">
 <meta name="twitter:image" content="https://avenegtechnologies.com/og-image.png">
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "AboutPage",
-  "@id": "https://avenegtechnologies.com/about/#page",
-  "url": "https://avenegtechnologies.com/about/",
-  "name": "About Aveneg Technologies, LLC",
-  "isPartOf": { "@id": "https://avenegtechnologies.com/#site" },
-  "about": { "@id": "https://avenegtechnologies.com/#org" }
+  "@type": "CollectionPage",
+  "@id": "https://avenegtechnologies.com/products/#page",
+  "url": "https://avenegtechnologies.com/products/",
+  "name": "Products · Aveneg Technologies, LLC",
+  "description": "Software published by Aveneg Technologies, LLC: private, encrypted, offline desktop applications, each with its own website, Terms of Service and Privacy Policy.",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://avenegtechnologies.com/#site"
+  },
+  "about": {
+    "@id": "https://avenegtechnologies.com/#org"
+  }
 }
 </script>
 
@@ -136,6 +143,8 @@
   .card h3 { margin: 0 0 8px; font-weight: 500; font-size: 1.0625rem; color: var(--text); }
   .card p { margin: 0 0 14px; }
   .card .btn { margin-top: 4px; }
+  .card .links { font-family: var(--mono); font-size: .8125rem; margin: 16px 0 0; }
+  .card .links a { margin-right: 18px; }
 
   .btn {
     display: inline-flex;
@@ -179,8 +188,8 @@
     </a>
     <nav class="nav">
       <a href="/">Home</a>
-      <a href="/products/">Products</a>
-      <a href="/about/" aria-current="page">About</a>
+      <a href="/products/" aria-current="page">Products</a>
+      <a href="/about/">About</a>
       <a href="/contact/">Contact</a>
     </nav>
   </div>
@@ -188,71 +197,38 @@
 
 <section>
   <div class="wrap">
-    <p class="eyebrow">About</p>
-    <h1>A software company built around one idea.</h1>
+    <p class="eyebrow">Products</p>
+    <h1>What we publish.</h1>
     <p class="lead">
-      Most software today assumes your data belongs somewhere else — on a
-      server you don't control, tied to an account you can't close, held by
-      a company that can be breached, acquired, or shut down without your
-      say. We started Aveneg Technologies, LLC to build the opposite:
-      software that keeps sensitive, valuable records exactly where their
-      owner put them, and nowhere else.
+      Every product is a separate application with its own website, its own
+      Terms of Service and its own Privacy Policy. All are published by
+      Aveneg Technologies, LLC, and all are built the same way: private,
+      encrypted, offline by design.
     </p>
   </div>
 </section>
 
 <section>
   <div class="wrap">
-    <p class="eyebrow">Philosophy</p>
-    <h2>Why offline, why encrypted.</h2>
-    <p>
-      A record of something valuable — a collection, its provenance, its
-      appraisals — is worth protecting like the thing itself. Keeping that
-      record in the cloud multiplies the ways it can be exposed: a
-      provider's breach, a subpoena served on a company instead of a
-      person, a service that quietly shuts down and takes years of entries
-      with it. Offline software removes those risks by removing the
-      server. There is no account to compromise and no copy sitting
-      anywhere but the owner's own computer.
-    </p>
-    <p>
-      Encryption is the other half of it. Every application we build
-      encrypts its data at rest by default, with a key only its owner
-      holds. We can't read it, recover it, or hand it to anyone who asks —
-      because we never have it in the first place.
-    </p>
-  </div>
-</section>
-
-<section>
-  <div class="wrap">
-    <p class="eyebrow">What we publish</p>
-    <h2>One product, built to be the first of several.</h2>
     <div class="card">
       <h3>Watch Vault Archive</h3>
       <p>
         An encrypted, offline desktop application for cataloguing a watch
-        collection — appraisals, service history, provenance and
-        succession, held entirely on the owner's own computer. The same
-        architecture — private, encrypted, offline by design — is built to
-        serve other collector communities the same way, as they come.
+        collection &mdash; appraisals, service history, provenance and
+        succession, held entirely on your own computer.
       </p>
-      <a class="btn" href="https://watchvaultarchive.com">watchvaultarchive.com →</a>
+      <a class="btn" href="https://watchvaultarchive.com">watchvaultarchive.com &rarr;</a>
+      <p class="links">
+        <a href="https://watchvaultarchive.com/terms">Terms of Service</a>
+        <a href="https://watchvaultarchive.com/privacy">Privacy Policy</a>
+      </p>
     </div>
-    <p style="margin-top: 20px;"><a href="/products/">All products →</a></p>
-  </div>
-</section>
-
-<section>
-  <div class="wrap">
-    <p class="eyebrow">The company</p>
-    <h2>A registered limited liability company.</h2>
-    <p>
-      Aveneg Technologies, LLC is the publisher of every product on our
-      <a href="/products/">Products</a> page. Each is licensed under its
-      own Terms of Service and Privacy Policy, linked from its entry there.
-      For our business address and other ways to reach us, see
-      <a href="/contact/">Contact</a>.
+    <p style="margin-top: 24px;">
+      Each product is licensed, and handles data, under its own documents,
+      because those can differ from one product to the next. This
+      site&rsquo;s own <a href="/terms/">Terms</a> and
+      <a href="/privacy/">Privacy Policy</a> cover avenegtechnologies.com
+      only.
     </p>
   </div>
 </section>

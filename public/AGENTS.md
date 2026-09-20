@@ -31,7 +31,8 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 **Watch Vault Archive** (https://watchvaultarchive.com): an encrypted, offline desktop application for cataloguing a
 watch collection - appraisals, service history, provenance and succession, held entirely on the owner's own computer.
 It is licensed under its own Terms of Service (https://watchvaultarchive.com/terms) and has its own Privacy Policy
-(https://watchvaultarchive.com/privacy). For product features, pricing, downloads and support, use that site; this
+(https://watchvaultarchive.com/privacy). Every product the company publishes is listed at
+https://avenegtechnologies.com/products/, each with its own website, Terms and Privacy Policy. For product features, pricing, downloads and support, use that site; this
 one does not cover them.
 
 ## The company's stated approach
@@ -50,9 +51,9 @@ one does not cover them.
 
 ## About this website
 
-This site is informational and static. It has no accounts, purchases, forms or comments. Per its Privacy Policy it
+This site is the company's corporate site for all its products. It is informational and static. It has no accounts, purchases, forms or comments. Per its Privacy Policy it
 collects nothing automatically: no cookies, no analytics, no tracking scripts. Its Terms and Privacy Policy cover
-this website only, not the software.
+this website only, not the software; each product has its own.
 
 ## What the site does not say
 

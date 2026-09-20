@@ -14,12 +14,13 @@
 ## Company
 
 - [Home](https://avenegtechnologies.com/): what the company builds and why
+- [Products](https://avenegtechnologies.com/products/): every product the company publishes, each with its own website, Terms of Service and Privacy Policy
 - [About](https://avenegtechnologies.com/about/): the offline-and-encrypted philosophy and what the company publishes
 - [Contact](https://avenegtechnologies.com/contact/): email addresses and registered business address
 
-## Product
+## Products
 
-- [Watch Vault Archive](https://watchvaultarchive.com): the company's encrypted, offline watch-collection application, on its own site with its own terms and privacy policy
+- [Watch Vault Archive](https://watchvaultarchive.com): the company's encrypted, offline watch-collection application, on its own site with its own [Terms](https://watchvaultarchive.com/terms) and [Privacy Policy](https://watchvaultarchive.com/privacy)
 
 ## Optional
 

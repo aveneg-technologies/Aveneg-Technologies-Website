@@ -23,5 +23,6 @@
 
 ## Optional
 
+- [Sitemap](https://avenegtechnologies.com/sitemap.xml)
 - [Terms of Service](https://avenegtechnologies.com/terms/): covers this website only, not the software
 - [Privacy Policy](https://avenegtechnologies.com/privacy/): this site collects nothing automatically; no cookies, analytics or tracking

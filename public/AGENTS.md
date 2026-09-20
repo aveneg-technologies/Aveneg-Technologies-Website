@@ -68,6 +68,7 @@ https://watchvaultarchive.com:
 
 ## Machine-readable resources
 
+- https://avenegtechnologies.com/sitemap.xml - every page, with last-modified dates.
 - https://avenegtechnologies.com/llms.txt - short index of the site for language models.
 - https://avenegtechnologies.com/llms-full.txt - the full text of every page.
 - https://avenegtechnologies.com/robots.txt - all search and AI agents are allowed.

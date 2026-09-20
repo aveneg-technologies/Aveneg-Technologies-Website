@@ -116,3 +116,5 @@ Allow: /
 
 User-agent: archive.org_bot
 Allow: /
+
+Sitemap: https://avenegtechnologies.com/sitemap.xml

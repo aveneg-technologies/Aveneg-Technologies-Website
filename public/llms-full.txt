@@ -109,7 +109,7 @@ _Legal_
 
 # Terms of Service
 
-Last updated September 3, 2026
+Last updated September 20, 2026
 
 These Terms govern your use of avenegtechnologies.com (“this site”), published by Aveneg Technologies, LLC (“the Company,” “we,” “us”). They do not cover any software the Company publishes. Watch Vault Archive is licensed under its own, separate Terms of Service at [watchvaultarchive.com/terms](https://watchvaultarchive.com/terms) — if you are looking for the terms that govern that application, this is not the document.
 
@@ -119,7 +119,7 @@ This site is informational. It describes the Company and the software it publish
 
 ## 2. Acceptable use
 
-You may view and share pages from this site for lawful, personal or informational purposes. You may not scrape, copy, or republish substantial portions of this site’s content as your own, or use it to imply an affiliation with, or endorsement by, the Company that does not exist.
+You may view and share pages from this site for lawful purposes. Automated access is welcome: search engines, AI assistants and other crawlers may access, index, quote, summarize and learn from this site’s public content, consistent with our robots.txt. You may not present this site’s content as your own, or use it to imply an affiliation with, or endorsement by, the Company that does not exist.
 
 ## 3. Intellectual property
 

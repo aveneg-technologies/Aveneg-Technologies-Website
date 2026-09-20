@@ -1,0 +1,27 @@
+# Aveneg Technologies, LLC
+
+> Software publisher building private, encrypted, offline desktop software for people who keep a careful record of something valuable. Its first and only product is Watch Vault Archive, an offline desktop application for cataloguing a watch collection. Records stay on the owner's own computer: no cloud, no account. This site is the company's corporate site; the product has its own site. Contact is by email only; there is no contact form and no phone number.
+
+- Address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350, United States
+- Commercial licensing and legal: legal@avenegtechnologies.com
+- General inquiries: info@avenegtechnologies.com
+
+## Start here
+
+- [Agent fact sheet](https://avenegtechnologies.com/AGENTS.md): who the company is, what it publishes, how to reach it, and what the site does not say
+- [Full text of the site](https://avenegtechnologies.com/llms-full.txt): the complete text of every page in one file
+
+## Company
+
+- [Home](https://avenegtechnologies.com/): what the company builds and why
+- [About](https://avenegtechnologies.com/about/): the offline-and-encrypted philosophy and what the company publishes
+- [Contact](https://avenegtechnologies.com/contact/): email addresses and registered business address
+
+## Product
+
+- [Watch Vault Archive](https://watchvaultarchive.com): the company's encrypted, offline watch-collection application, on its own site with its own terms and privacy policy
+
+## Optional
+
+- [Terms of Service](https://avenegtechnologies.com/terms/): covers this website only, not the software
+- [Privacy Policy](https://avenegtechnologies.com/privacy/): this site collects nothing automatically; no cookies, analytics or tracking

@@ -1,0 +1,190 @@
+# Aveneg Technologies, LLC — full text of avenegtechnologies.com
+
+> The complete text of every page on https://avenegtechnologies.com, generated from the pages themselves on 2026-09-20. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+
+---
+
+Source: https://avenegtechnologies.com/
+
+_Private · Encrypted · Offline by design_
+
+# Your records never leave the room.
+
+Aveneg Technologies, LLC builds private, encrypted desktop software for people who keep a careful record of something valuable, held entirely on your own computer. No cloud, no account, and no company holding a copy of what you own.
+
+_What we build_
+
+## Software for people who collect.
+
+Watch Vault Archive is the first — encrypted, offline, built around provenance and long-term record-keeping rather than a feed. The same architecture is built to serve other collector communities the same way, as they come.
+
+### Watch Vault Archive
+
+An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.
+
+[watchvaultarchive.com →](https://watchvaultarchive.com)
+
+_Contact_
+
+## Business and legal inquiries.
+
+Commercial licensing [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)
+
+General [info@avenegtechnologies.com](mailto:info@avenegtechnologies.com)
+
+[Full contact details, including our business address →](https://avenegtechnologies.com/contact/)
+
+---
+
+Source: https://avenegtechnologies.com/about/
+
+_About_
+
+# A software company built around one idea.
+
+Most software today assumes your data belongs somewhere else — on a server you don't control, tied to an account you can't close, held by a company that can be breached, acquired, or shut down without your say. We started Aveneg Technologies, LLC to build the opposite: software that keeps sensitive, valuable records exactly where their owner put them, and nowhere else.
+
+_Philosophy_
+
+## Why offline, why encrypted.
+
+A record of something valuable — a collection, its provenance, its appraisals — is worth protecting like the thing itself. Keeping that record in the cloud multiplies the ways it can be exposed: a provider's breach, a subpoena served on a company instead of a person, a service that quietly shuts down and takes years of entries with it. Offline software removes those risks by removing the server. There is no account to compromise and no copy sitting anywhere but the owner's own computer.
+
+Encryption is the other half of it. Every application we build encrypts its data at rest by default, with a key only its owner holds. We can't read it, recover it, or hand it to anyone who asks — because we never have it in the first place.
+
+_What we publish_
+
+## One product, built to be the first of several.
+
+### Watch Vault Archive
+
+An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on the owner's own computer. The same architecture — private, encrypted, offline by design — is built to serve other collector communities the same way, as they come.
+
+[watchvaultarchive.com →](https://watchvaultarchive.com)
+
+_The company_
+
+## A registered limited liability company.
+
+Aveneg Technologies, LLC is the publisher of Watch Vault Archive, under its own, separate [Terms of Service](https://watchvaultarchive.com/terms) and [Privacy Policy](https://watchvaultarchive.com/privacy). For our business address and other ways to reach us, see [Contact](https://avenegtechnologies.com/contact/).
+
+---
+
+Source: https://avenegtechnologies.com/contact/
+
+_Contact_
+
+# Get in touch.
+
+Email is the fastest way to reach us. We don't run a contact form — write directly to the address below for your inquiry.
+
+### Commercial licensing
+
+[legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)
+
+Partnerships, licensing, and legal correspondence.
+
+### General inquiries
+
+[info@avenegtechnologies.com](mailto:info@avenegtechnologies.com)
+
+Everything else — press, questions, anything not listed here.
+
+_Legal information_
+
+## Registered business details.
+
+Aveneg Technologies, LLC  
+8735 Dunwoody Place, Ste R  
+Atlanta, GA 30350  
+United States
+
+Georgia Control No. 26193384
+
+---
+
+Source: https://avenegtechnologies.com/terms/
+
+_Legal_
+
+# Terms of Service
+
+Last updated September 3, 2026
+
+These Terms govern your use of avenegtechnologies.com (“this site”), published by Aveneg Technologies, LLC (“the Company,” “we,” “us”). They do not cover any software the Company publishes. Watch Vault Archive is licensed under its own, separate Terms of Service at [watchvaultarchive.com/terms](https://watchvaultarchive.com/terms) — if you are looking for the terms that govern that application, this is not the document.
+
+## 1. What this site is
+
+This site is informational. It describes the Company and the software it publishes, and provides a way to contact us. It does not offer accounts, purchases, subscriptions, or any place to submit content of your own.
+
+## 2. Acceptable use
+
+You may view and share pages from this site for lawful, personal or informational purposes. You may not scrape, copy, or republish substantial portions of this site’s content as your own, or use it to imply an affiliation with, or endorsement by, the Company that does not exist.
+
+## 3. Intellectual property
+
+The text, design and mark on this site belong to Aveneg Technologies, LLC. Watch Vault Archive and any other product names referenced here belong to their respective owners; referencing them does not imply endorsement in either direction beyond the actual publisher relationship stated.
+
+## 4. Links to other properties
+
+This site links to Watch Vault Archive and may link to other products or resources in the future. Each is governed by its own terms, separate from this document. We are not responsible for the content of external sites we do not operate.
+
+## 5. No warranty
+
+This site is provided “as is,” without warranty of any kind. We do not guarantee the content here is complete, current, or error-free, and availability of the site is not guaranteed.
+
+## 6. Limitation of liability
+
+To the extent permitted by law, the Company is not liable for indirect, incidental, or consequential damages arising from your use of, or inability to use, this site.
+
+## 7. Governing law
+
+These Terms are governed by the laws of the State of Georgia, USA, without regard to conflict of law principles.
+
+## 8. Changes
+
+We may update these Terms from time to time. The date at the top of this page reflects the version currently in effect.
+
+## 9. Contact
+
+Questions about these Terms: [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)
+
+---
+
+Source: https://avenegtechnologies.com/privacy/
+
+_Legal_
+
+# Privacy Policy
+
+Last updated September 3, 2026
+
+This policy covers avenegtechnologies.com only — the corporate website you are reading now. It does not cover any software the Company publishes. Watch Vault Archive handles data differently, entirely on your own computer, and has its own, separate Privacy Policy at [watchvaultarchive.com/privacy](https://watchvaultarchive.com/privacy).
+
+The short version: this site collects nothing about you automatically. No cookies, no analytics, no tracking scripts. If you never email us, we have no data about you at all.
+
+## 1. What we collect from this site
+
+Nothing, by design. This site is static — there are no accounts, no forms, no cookies, and no analytics or tracking scripts of any kind running on it.
+
+Our hosting provider, Cloudflare, generates standard web server logs as an ordinary part of serving any website (for example, IP address and request timing, for security and reliability purposes). We do not access or analyze these logs as a matter of routine, and they are not used to build a profile of you.
+
+## 2. If you email us
+
+If you write to [info@avenegtechnologies.com](mailto:info@avenegtechnologies.com) or [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com), we receive your email address and whatever you send. We use it only to respond to you. We do not add you to a mailing list, sell it, or share it with anyone, other than the infrastructure that delivers the email to us in the first place (see below).
+
+## 3. Third parties
+
+This site is hosted and its email is routed by Cloudflare, Inc., which operates the infrastructure that serves these pages and delivers mail sent to our addresses. Cloudflare’s own privacy policy governs its handling of data in that role.
+
+## 4. Children
+
+This site is not directed to children, and we do not knowingly collect information from anyone under 13.
+
+## 5. Changes
+
+We may update this policy from time to time. The date at the top of this page reflects the version currently in effect.
+
+## 6. Contact
+
+Questions about this policy: [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)

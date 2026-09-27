@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The complete text of every page on https://avenegtechnologies.com, generated from the pages themselves on 2026-09-20. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves on 2026-09-27. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -18,7 +18,7 @@ _What we build_
 
 Watch Vault Archive is the first — encrypted, offline, built around provenance and long-term record-keeping rather than a feed. The same architecture is built to serve other collector communities the same way, as they come.
 
-### Watch Vault Archive
+### Watch Vault Archive™
 
 An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.
 
@@ -46,7 +46,7 @@ _Products_
 
 Every product is a separate application with its own website, its own Terms of Service and its own Privacy Policy. All are published by Aveneg Technologies, LLC, and all are built the same way: private, encrypted, offline by design.
 
-### Watch Vault Archive
+## Watch Vault Archive™
 
 An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.
 
@@ -78,7 +78,7 @@ _What we publish_
 
 ## One product, built to be the first of several.
 
-### Watch Vault Archive
+### Watch Vault Archive™
 
 An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on the owner's own computer. The same architecture — private, encrypted, offline by design — is built to serve other collector communities the same way, as they come.
 
@@ -102,13 +102,13 @@ _Contact_
 
 Email is the fastest way to reach us. We don't run a contact form — write directly to the address below for your inquiry.
 
-### Commercial licensing
+## Commercial licensing
 
 [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)
 
 Partnerships, licensing, and legal correspondence.
 
-### General inquiries
+## General inquiries
 
 [info@avenegtechnologies.com](mailto:info@avenegtechnologies.com)
 

@@ -34,7 +34,7 @@
       "@type": "Organization",
       "@id": "https://avenegtechnologies.com/#org",
       "name": "Aveneg Technologies, LLC",
-      "url": "https://avenegtechnologies.com",
+      "url": "https://avenegtechnologies.com/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://avenegtechnologies.com/icon-512.png",
@@ -54,7 +54,7 @@
         {
           "@type": "ContactPoint",
           "email": "info@avenegtechnologies.com",
-          "contactType": "customer support",
+          "contactType": "general inquiries",
           "availableLanguage": "English"
         },
         {
@@ -69,7 +69,7 @@
       "@type": "WebSite",
       "@id": "https://avenegtechnologies.com/#site",
       "name": "Aveneg Technologies",
-      "url": "https://avenegtechnologies.com",
+      "url": "https://avenegtechnologies.com/",
       "description": "Aveneg Technologies, LLC builds private, offline desktop software for people who keep a careful record of something valuable.",
       "publisher": { "@id": "https://avenegtechnologies.com/#org" },
       "inLanguage": "en"
@@ -108,6 +108,9 @@
   }
   a { color: var(--brass); text-decoration-thickness: 1px; text-underline-offset: 3px; }
   a:hover { color: var(--text); }
+  .skip { position: absolute; left: -9999px; top: 0; }
+  .skip:focus { left: 8px; top: 8px; z-index: 10; background: var(--surface-2); color: var(--text); padding: 8px 12px; border-radius: 4px; }
+  a:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; }
   ::selection { background: var(--brass); color: #14110a; }
 
   .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 clamp(20px, 5vw, 40px); }
@@ -116,7 +119,7 @@
     border-bottom: 1px solid var(--line);
     padding: 22px 0;
   }
-  .head-row { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+  .head-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px; }
   .brand {
     display: inline-flex;
     align-items: center;
@@ -132,10 +135,10 @@
     font-size: 15px;
   }
   .mark b { color: var(--brass); font-weight: 600; }
-  nav.nav { display: flex; gap: 26px; font-family: var(--mono); font-size: .8125rem; }
+  nav.nav { display: flex; flex-wrap: wrap; gap: 8px 26px; font-family: var(--mono); font-size: .8125rem; }
   nav.nav a { color: var(--muted); text-decoration: none; }
   nav.nav a:hover { color: var(--brass); }
-  nav.nav a[aria-current="page"] { color: var(--brass); }
+  nav.nav a[aria-current="page"] { color: var(--brass); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
 
   section { padding: clamp(48px, 8vw, 88px) 0; }
   section + section { border-top: 1px solid var(--line); }
@@ -211,12 +214,13 @@
     max-width: none;
     margin: 0 0 4px;
   }
-  .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; }
-  .footlinks a { color: var(--muted-2); margin-right: 18px; }
+  .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 18px; }
+  .footlinks a { color: var(--muted-2); display: inline-block; padding: 4px 0; }
   .footlinks a:hover { color: var(--brass); }
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
 
 <header class="top">
   <div class="wrap head-row">
@@ -235,6 +239,8 @@
     </nav>
   </div>
 </header>
+
+<main id="main">
 
 <section>
   <div class="wrap">
@@ -288,6 +294,7 @@
     <p style="margin-top: 20px;"><a href="/contact/">Full contact details, including our business address →</a></p>
   </div>
 </section>
+</main>
 
 <footer class="foot">
   <div class="wrap">

@@ -67,20 +67,23 @@
   }
   a { color: var(--brass); text-decoration-thickness: 1px; text-underline-offset: 3px; }
   a:hover { color: var(--text); }
+  .skip { position: absolute; left: -9999px; top: 0; }
+  .skip:focus { left: 8px; top: 8px; z-index: 10; background: var(--surface-2); color: var(--text); padding: 8px 12px; border-radius: 4px; }
+  a:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; }
   ::selection { background: var(--brass); color: #14110a; }
 
   .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 clamp(20px, 5vw, 40px); }
 
   header.top { border-bottom: 1px solid var(--line); padding: 22px 0; }
-  .head-row { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+  .head-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px; }
   .brand { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; }
   .brand-mark { width: 24px; height: 24px; flex: none; }
   .mark { font-family: var(--mono); font-weight: 500; letter-spacing: .02em; color: var(--text); font-size: 15px; }
   .mark b { color: var(--brass); font-weight: 600; }
-  nav.nav { display: flex; gap: 26px; font-family: var(--mono); font-size: .8125rem; }
+  nav.nav { display: flex; flex-wrap: wrap; gap: 8px 26px; font-family: var(--mono); font-size: .8125rem; }
   nav.nav a { color: var(--muted); text-decoration: none; }
   nav.nav a:hover { color: var(--brass); }
-  nav.nav a[aria-current="page"] { color: var(--brass); }
+  nav.nav a[aria-current="page"] { color: var(--brass); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
 
   section { padding: clamp(48px, 8vw, 88px) 0; }
   section + section { border-top: 1px solid var(--line); }
@@ -121,7 +124,7 @@
     border-radius: 6px;
     padding: 26px 28px;
   }
-  .card h3 {
+  .card h2 {
     margin: 0 0 6px;
     font-weight: 500;
     font-size: .8125rem;
@@ -154,12 +157,13 @@
 
   footer.foot { border-top: 1px solid var(--line); padding: 28px 0; }
   footer.foot p { color: var(--muted-2); font-size: .8125rem; max-width: none; margin: 0 0 4px; }
-  .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; }
-  .footlinks a { color: var(--muted-2); margin-right: 18px; }
+  .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 18px; }
+  .footlinks a { color: var(--muted-2); display: inline-block; padding: 4px 0; }
   .footlinks a:hover { color: var(--brass); }
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
 
 <header class="top">
   <div class="wrap head-row">
@@ -179,6 +183,8 @@
   </div>
 </header>
 
+<main id="main">
+
 <section>
   <div class="wrap">
     <p class="eyebrow">Contact</p>
@@ -190,12 +196,12 @@
 
     <div class="grid" style="margin-top: 32px;">
       <div class="card">
-        <h3>Commercial licensing</h3>
+        <h2>Commercial licensing</h2>
         <div class="val"><a href="mailto:legal@avenegtechnologies.com">legal@avenegtechnologies.com</a></div>
         <p class="note">Partnerships, licensing, and legal correspondence.</p>
       </div>
       <div class="card">
-        <h3>General inquiries</h3>
+        <h2>General inquiries</h2>
         <div class="val"><a href="mailto:info@avenegtechnologies.com">info@avenegtechnologies.com</a></div>
         <p class="note">Everything else — press, questions, anything not listed here.</p>
       </div>
@@ -216,6 +222,7 @@
     <p class="legal-id">Georgia Control No. 26193384</p>
   </div>
 </section>
+</main>
 
 <footer class="foot">
   <div class="wrap">

@@ -1,7 +1,7 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-09-20.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-09-27.
 If this file and a page disagree, the page wins.
 
 ## Who this is
@@ -24,6 +24,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | Commercial licensing and legal | legal@avenegtechnologies.com |
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
+| Trademark | The site states that Watch Vault Archive is a trademark of Aveneg Technologies, LLC |
 | Product | Watch Vault Archive, https://watchvaultarchive.com |
 
 ## What the company publishes
@@ -32,8 +33,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 watch collection - appraisals, service history, provenance and succession, held entirely on the owner's own computer.
 It is licensed under its own Terms of Service (https://watchvaultarchive.com/terms) and has its own Privacy Policy
 (https://watchvaultarchive.com/privacy). Every product the company publishes is listed at
-https://avenegtechnologies.com/products/, each with its own website, Terms and Privacy Policy. For product features, pricing, downloads and support, use that site; this
-one does not cover them.
+https://avenegtechnologies.com/products/, each with its own website, Terms and Privacy Policy. This site does not cover product features, pricing, downloads or support.
 
 ## The company's stated approach
 
@@ -46,7 +46,7 @@ one does not cover them.
 
 - **Email only.** legal@avenegtechnologies.com for partnerships, licensing and legal correspondence;
   info@avenegtechnologies.com for everything else, including press and questions.
-- There is no contact form, no phone number and no online chat on this site.
+- This site does not offer a contact form, a phone number or online chat.
 - Registered business address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350.
 
 ## About this website
@@ -61,7 +61,7 @@ Please do not assert these; say the site does not state them and point to the co
 https://watchvaultarchive.com:
 
 - A phone number.
-- Prices, licence terms or downloads for Watch Vault Archive (they live on watchvaultarchive.com).
+- Prices, license terms or downloads for Watch Vault Archive (they live on watchvaultarchive.com).
 - Names of owners, founders or staff.
 - Headcount, revenue, funding or founding date.
 - Any product other than Watch Vault Archive, or a release date for one.

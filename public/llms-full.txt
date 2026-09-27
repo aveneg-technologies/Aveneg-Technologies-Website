@@ -181,15 +181,15 @@ _Legal_
 
 # Privacy Policy
 
-Last updated September 20, 2026
+Last updated September 27, 2026
 
 This policy covers avenegtechnologies.com only — the corporate website you are reading now. It does not cover any software the Company publishes. Each product has its own, separate Privacy Policy, linked from its entry on the [Products](https://avenegtechnologies.com/products/) page, that describes how that product handles data.
 
-The short version: this site collects nothing about you automatically. No cookies, no analytics, no tracking scripts. If you never email us, we have no data about you at all.
+The short version: this site sets no cookies and has no accounts or forms. Our host, Cloudflare, provides standard server logs and basic, cookie-free traffic analytics (such as page views and performance). We don’t use them to identify you. If you never email us, we hold no other information about you.
 
 ## 1. What we collect from this site
 
-Nothing, by design. This site is static — there are no accounts, no forms, no cookies, and no analytics or tracking scripts of any kind running on it.
+Very little. This site is static: no accounts, no forms and no cookies. Cloudflare, which hosts it, measures aggregate traffic with cookie-free analytics.
 
 Our hosting provider, Cloudflare, generates standard web server logs as an ordinary part of serving any website (for example, IP address and request timing, for security and reliability purposes). We do not access or analyze these logs as a matter of routine, and they are not used to build a profile of you.
 

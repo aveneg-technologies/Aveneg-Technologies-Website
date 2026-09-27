@@ -52,7 +52,7 @@ https://avenegtechnologies.com/products/, each with its own website, Terms and P
 ## About this website
 
 This site is the company's corporate site for all its products. It is informational and static. It has no accounts, purchases, forms or comments. Per its Privacy Policy it
-collects nothing automatically: no cookies, no analytics, no tracking scripts. Its Terms and Privacy Policy cover
+sets no cookies; its host, Cloudflare, provides standard server logs and cookie-free traffic analytics. Its Terms and Privacy Policy cover
 this website only, not the software; each product has its own.
 
 ## What the site does not say

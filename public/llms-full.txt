@@ -6,7 +6,7 @@
 
 Source: https://avenegtechnologies.com/
 
-_Private · Encrypted · Offline by design_
+_Private · Offline by design_
 
 # Your records never leave the room.
 
@@ -26,7 +26,7 @@ An encrypted, offline desktop application for cataloguing a watch collection —
 
 ### Watch Vault Tracker
 
-An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Free for watch collectors. In development. Coming to iPhone, Winter 2027.
+An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don't collect any information about your collection: your records and photographs stay on your phone. Free for watch collectors. In development. Coming to iPhone, Winter 2027.
 
 [watchvaulttracker.com →](https://watchvaulttracker.com)
 
@@ -62,7 +62,7 @@ An encrypted, offline desktop application for cataloguing a watch collection —
 
 ## Watch Vault Tracker
 
-An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept.
+An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don't collect any information about your collection: your records and photographs stay on your phone.
 
 Free for watch collectors: every feature is free, with no subscription, no advertising and no trial. There is a place to leave an optional tip; a tip unlocks nothing. In development. Coming to iPhone, Winter 2027.
 
@@ -88,7 +88,7 @@ _Philosophy_
 
 ## Why offline, why encrypted.
 
-A record of something valuable — a collection, its provenance, its appraisals — is worth protecting like the thing itself. Keeping that record in the cloud multiplies the ways it can be exposed: a provider's breach, a subpoena served on a company instead of a person, a service that quietly shuts down and takes years of entries with it. Offline software removes those risks by removing the server. There is no account to compromise and no copy sitting anywhere but the owner's own computer.
+A record of something valuable — a collection, its provenance, its appraisals — is worth protecting like the thing itself. Keeping that record in the cloud multiplies the ways it can be exposed: a provider's breach, a subpoena served on a company instead of a person, a service that quietly shuts down and takes years of entries with it. Offline software removes those risks by removing the server. There is no account to compromise and no copy sitting anywhere but the owner's own device.
 
 Encryption is the other half of it. Watch Vault Archive encrypts its data at rest by default, with a key only its owner holds. We can't read it, recover it, or hand it to anyone who asks — because we never have it in the first place.
 
@@ -104,7 +104,7 @@ An encrypted, offline desktop application for cataloguing a watch collection —
 
 ### Watch Vault Tracker
 
-An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Free for watch collectors. In development. Coming to iPhone, Winter 2027.
+An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don't collect any information about your collection: your records and photographs stay on your phone. Free for watch collectors. In development. Coming to iPhone, Winter 2027.
 
 [watchvaulttracker.com →](https://watchvaulttracker.com)
 

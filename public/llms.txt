@@ -23,7 +23,7 @@
 - [Watch Vault Archive](https://watchvaultarchive.com): the company's encrypted, offline watch-collection application, on its own site
 - [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms): the terms that govern the application
 - [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy): how the application handles data
-- [Watch Vault Tracker](https://watchvaulttracker.com): an iPhone app, in development and coming Winter 2027, that records the watches a collector wears; free for watch collectors, on its own site
+- [Watch Vault Tracker](https://watchvaulttracker.com): an iPhone app, in development and coming Winter 2027, that records the watches a collector wears; free for watch collectors, collects no information about the collection, on its own site
 - [Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms): the terms published for the Tracker's website; the app's own terms are promised before release
 - [Watch Vault Tracker Privacy Policy](https://watchvaulttracker.com/privacy): how the Tracker's website and app handle data
 

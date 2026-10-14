@@ -39,7 +39,8 @@ https://avenegtechnologies.com/products/, each with its own website, Terms and P
 collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are
 kept. The product's own site says it is free for watch collectors, with every feature free and no subscription,
 advertising or trial, and that the app has a place to leave an optional tip, which unlocks nothing. Coming to
-iPhone, Winter 2027. Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy (https://watchvaulttracker.com/privacy) are its own.
+iPhone, Winter 2027. The product's site says the company collects no information about the collector's
+collection and that records and photographs stay on the phone. Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy (https://watchvaulttracker.com/privacy) are its own.
 
 Watch Vault Archive records what a collector owns; Watch Vault Tracker records what a collector wears. They are
 separate products, and neither requires the other.
@@ -47,7 +48,7 @@ separate products, and neither requires the other.
 ## The company's stated approach
 
 - Offline: no server holds the owner's records, so there is no account to compromise and no copy anywhere but the
-  owner's computer.
+  owner's device.
 - Encrypted: Watch Vault Archive encrypts its data at rest by default, with a key only the owner holds. The company
   says it cannot read or recover that data or hand it to anyone.
 

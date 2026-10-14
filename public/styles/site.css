@@ -187,8 +187,9 @@ svg {
 /* 4. COMPONENTS
    ========================================================================== */
 
-/* 4.1 Lockup. One construction for the house and both marques:
-       a 40px ring mark, two lines of mono capitals, one brass word. */
+/* 4.1 Lockup. Each is 40px high: a ring mark, then the name over a sub-line.
+       The house lockup and the Tracker's are the owner's outlined artwork and
+       are never redrawn; the Archive's is built the way its own site builds it. */
 
 .lockup {
   display: inline-flex;
@@ -236,10 +237,6 @@ svg {
   white-space: nowrap;
 }
 
-.lockup-sub-house {
-  color: var(--brass);
-}
-
 .lockup-sub-product {
   color: var(--muted);
 }
@@ -247,6 +244,29 @@ svg {
 .lockup-art {
   width: auto;
   height: 2.5rem;
+}
+
+/* The house lockup (src/partials/lockup-house.html). Its colours are set here,
+   not in the artwork, so it prints dark on white paper with everything else. */
+
+.lockup-house {
+  aspect-ratio: 653.1 / 137.4;
+}
+
+.house-ring {
+  stroke: var(--brass);
+}
+
+.house-brass {
+  fill: var(--brass);
+}
+
+.house-name {
+  fill: var(--lockup);
+}
+
+.house-sub {
+  fill: var(--muted);
 }
 
 

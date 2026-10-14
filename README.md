@@ -35,6 +35,20 @@ When a fact about the company or a product changes, change it in the page **and*
 
 ## Pictures and ornament
 
+- **The company logo** is the owner's own artwork (drawn 2026-10-13): a brass disc with the
+  letter A cut out of it inside a ring, AVENEG over TECHNOLOGIES. Its shapes are never redrawn;
+  to change the logo, replace the paths from new artwork. It lives in four places:
+  - `src/partials/lockup-house.html`: the masthead and the colophon both include it. Its colours
+    come from the stylesheet (`.house-ring`, `.house-brass`, `.house-name`, `.house-sub`), so it
+    follows the site's tokens and prints dark on white paper.
+  - `public/img/aveneg-technologies-lockup.svg`: the same lockup as a file, in the colours for a
+    dark ground (name `#D6D5D3`, sub-line `#A8ABB2`, brass `#C6A15B`), matching how the product
+    lockups are coloured. The share card uses it.
+  - `public/img/aveneg-technologies-lockup-light.svg`: the colours the artwork was drawn in, for
+    a white or light ground (documents, letterhead). No page uses it.
+  - `public/mark.svg`: the mark alone, the browser-tab icon. `favicon-32.png`,
+    `apple-touch-icon.png` and `icon-512.png` are rendered from it (the last two on the ink
+    ground); `icon-512.png` is also the `logo` in the home page's JSON-LD.
 - `public/img/dial.svg` is drawn by `tools/gen_dial.py public/img/dial.svg`.
 - `public/og-image.png` is rendered from `tools/og-image.html` (the command is at the top of that file).
 - `public/img/watch-vault-archive.webp` is the Archive's own published product image, unmodified.

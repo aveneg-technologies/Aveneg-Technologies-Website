@@ -31,7 +31,8 @@ A page source is an HTML fragment that starts with a comment of `key: value` lin
 
 Any <script type="application/ld+json"> block in the fragment is moved into <head>.
 The rest becomes the page's <main>. `{{include:lockup-archive}}` in a page pulls in
-src/partials/lockup-archive.html, so each product logo is written once.
+src/partials/lockup-archive.html, so each product logo is written once. The masthead and
+the colophon pull in lockup-house.html, the company's own logo, the same way.
 
 Standard library only, and no syntax newer than Python 3.8: macOS's own python3 can run it.
 """
@@ -296,6 +297,10 @@ def build(root):
     for name in ("head", "head-noindex", "masthead", "colophon"):
         if name not in partials:
             raise SystemExit("src/partials/%s.html is missing" % name)
+    for name in ("masthead", "colophon"):
+        # The house lockup is written once (lockup-house.html) and used in both.
+        partials[name] = INCLUDE.sub(
+            lambda m, name=name: include(m.group(1), "src/partials/%s.html" % name), partials[name])
     pages = [parse_page(p) for p in sorted((SRC / "pages").glob("*.html"))]
     seen = {}
     for meta in pages:

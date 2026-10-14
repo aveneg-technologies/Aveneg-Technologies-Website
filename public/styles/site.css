@@ -1,0 +1,1504 @@
+/* ==========================================================================
+   Aveneg Technologies : site.css
+   One stylesheet for every page.
+
+   1. Tokens
+   2. Base
+   3. Layout
+   4. Components
+      4.1  Lockup            4.7  Plate, entries and pictures
+      4.2  Notice bar        4.8  Ledger
+      4.3  Masthead          4.9  Correspondence
+      4.4  Type              4.10 Rows (label left, text right)
+      4.5  Buttons, links    4.11 Product page
+      4.6  Hero              4.12 Colophon
+      4.13 Register          4.14 Page not found
+      4.15 Legal documents
+   5. Print
+
+   House rules. Single-class selectors. Written small screen first: a wider
+   layout adds to a narrower one. Where the narrow form is a different object
+   rather than a smaller one (the pictures, the ledger, the dial) the two
+   forms sit in media blocks that never overlap, so nothing is undone.
+   Breakpoints: 45em (720) and 60em (960). One radius: 3px. Sizes in rem.
+   No fixed heights on anything that holds text.
+   The one exception to single-class selectors is 4.15: the legal pages are
+   long prose whose text is never edited for styling, so its plain elements
+   are styled through their .doc parent.
+   ========================================================================== */
+
+
+/* 1. TOKENS
+   ========================================================================== */
+
+:root {
+  color-scheme: dark;
+
+  /* Colour: the family palette, unchanged */
+  --ink: #0E0F12;
+  --surface: #16181D;
+  --surface-2: #1E2128;
+  --surface-3: #23262E;
+  --line: #2A2E37;
+  --line-2: #363B45;
+  --text: #E7E4DC;
+  --prose: #B9BCC2;
+  --muted: #A8ABB2;
+  --muted-2: #9297A2;
+  --brass: #C6A15B;
+  --brass-dim: #A28442;
+  --brass-lit: #D3B273;
+  --brass-ink: #15120B;
+  --lockup: #D6D5D3;
+
+  /* Faces: system stacks only */
+  --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --mono: ui-monospace, "SF Mono", "Cascadia Code", "JetBrains Mono", "Roboto Mono", Menlo, Consolas, monospace;
+
+  /* Type scale, phone to desktop */
+  --fs-display: clamp(2.25rem, 1.2rem + 4.4vw, 3.5rem);      /* 36 to 56, serif */
+  --fs-title: clamp(1.75rem, 1.45rem + 1.2vw, 2.125rem);     /* 28 to 34, serif */
+  --fs-line: clamp(1.25rem, 1.15rem + 0.4vw, 1.375rem);      /* 20 to 22 */
+  --fs-lead: clamp(1.1875rem, 1.09rem + 0.4vw, 1.3125rem);   /* 19 to 21 */
+  --fs-body: 1.125rem;                                       /* 18 */
+  --fs-fact: 1.0625rem;                                      /* 17 */
+  --fs-small: 0.9375rem;                                     /* 15 */
+  --fs-label: 0.875rem;                                      /* 14, mono capitals */
+  --track: 0.16em;
+  --track-tight: 0.12em;
+
+  /* Space scale: 4 8 12 16 24 32 48 64 */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-5: 1.5rem;
+  --s-6: 2rem;
+  --s-7: 3rem;
+  --s-8: 4rem;
+
+  /* Measures */
+  --wrap: 67.5rem;                                 /* 1080, gutters included */
+  --gutter: clamp(1.25rem, 5vw, 2.5rem);           /* 20 to 40 */
+  --col-gap: 1.5rem;
+  --pad: clamp(1.25rem, 4vw, 2.5rem);              /* inside the plate, 20 to 40 */
+  --section: clamp(4rem, 2.5rem + 6vw, 6.5rem);    /* 64 to 104 */
+  --tap: 3rem;                                     /* 48 */
+  --radius: 3px;
+}
+
+
+/* 2. BASE
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--ink);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: var(--fs-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+:focus-visible {
+  outline: 2px solid var(--text);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: var(--brass);
+  color: var(--brass-ink);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip {
+  position: absolute;
+  top: var(--s-2);
+  left: var(--gutter);
+  z-index: 10;
+  padding: var(--s-3) var(--s-4);
+  border-radius: var(--radius);
+  background: var(--text);
+  color: var(--ink);
+  font-size: var(--fs-fact);
+  font-weight: 500;
+  transform: translateY(-300%);
+}
+
+.skip:focus {
+  transform: none;
+}
+
+
+/* 3. LAYOUT
+   ========================================================================== */
+
+.wrap {
+  max-width: var(--wrap);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.section {
+  padding-block: var(--section);
+}
+
+.section-ruled {
+  border-top: 1px solid var(--line);
+}
+
+.section-head {
+  margin-bottom: clamp(2rem, 1.5rem + 2vw, 3rem);
+}
+
+
+/* 4. COMPONENTS
+   ========================================================================== */
+
+/* 4.1 Lockup. One construction for the house and both marques:
+       a 40px ring mark, two lines of mono capitals, one brass word. */
+
+.lockup {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s-3);
+  text-decoration: none;
+}
+
+.lockup-mark {
+  flex: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  color: var(--brass);
+}
+
+.lockup-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.1875rem;
+}
+
+.lockup-name {
+  font-family: var(--mono);
+  font-size: 1.0625rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--lockup);
+}
+
+.lockup-accent {
+  font-weight: 600;
+  color: var(--brass);
+}
+
+.lockup-sub {
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  line-height: 1;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.lockup-sub-house {
+  color: var(--brass);
+}
+
+.lockup-sub-product {
+  color: var(--muted);
+}
+
+.lockup-art {
+  width: auto;
+  height: 2.5rem;
+}
+
+
+/* 4.2 Notice bar */
+
+.notice {
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.notice-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--s-2) var(--s-4);
+  padding-block: 0.625rem;
+}
+
+.tag {
+  padding: 0.3125rem 0.5rem;
+  border: 1px solid var(--brass-dim);
+  border-radius: var(--radius);
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  line-height: 1;
+  letter-spacing: var(--track-tight);
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--brass);
+}
+
+.notice-text {
+  margin: 0;
+  font-size: var(--fs-small);
+  line-height: 1.4;
+  color: var(--prose);
+}
+
+@media (min-width: 45em) {
+  .notice-inner {
+    justify-content: center;
+  }
+}
+
+
+/* 4.3 Masthead. Phone: lockup row, then three equal 48px cells.
+       From 720: one row, nav at the right. The current page carries a
+       2px brass bar on the masthead's lower edge. */
+
+.masthead {
+  border-bottom: 1px solid var(--line);
+}
+
+.masthead-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: var(--s-5);
+}
+
+.masthead-brand {
+  margin-block: var(--s-2);
+  padding-block: var(--s-2);
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--tap);
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--muted);
+}
+
+.nav-link:hover {
+  color: var(--text);
+}
+
+.nav-link[aria-current="page"] {
+  color: var(--text);
+  box-shadow: inset 0 -2px 0 var(--brass);
+}
+
+.nav-link:focus-visible {
+  outline-offset: -0.375rem;
+}
+
+@media (max-width: 44.99em) {
+  .nav {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    flex: 1 0 100%;
+    margin-inline: calc(var(--gutter) * -1);
+    padding-inline: var(--gutter);
+    border-top: 1px solid var(--line);
+  }
+}
+
+@media (min-width: 45em) {
+  .nav {
+    display: flex;
+    align-self: stretch;
+    gap: var(--s-2);
+    margin-right: calc(var(--s-3) * -1);
+  }
+
+  .nav-link {
+    padding-inline: var(--s-3);
+  }
+}
+
+
+/* 4.4 Type */
+
+.eyebrow {
+  display: flex;
+  gap: var(--s-1) 0.9em;
+  margin: 0 0 var(--s-5);
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  line-height: 1.5;
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.eyebrow-beat {
+  white-space: nowrap;
+}
+
+.eyebrow-dot {
+  margin-left: 0.9em;
+  color: var(--muted-2);
+}
+
+.eyebrow-accent {
+  color: var(--brass);
+}
+
+@media (max-width: 44.99em) {
+  .eyebrow {
+    flex-direction: column;
+  }
+
+  .eyebrow-dot {
+    display: none;
+  }
+}
+
+.display {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: var(--fs-display);
+  font-weight: 400;
+  line-height: 1.08;
+  letter-spacing: -0.012em;
+  text-wrap: balance;
+}
+
+.lead {
+  max-width: 34rem;
+  margin: var(--s-5) 0 0;
+  font-size: var(--fs-lead);
+  line-height: 1.55;
+  color: var(--prose);
+  text-wrap: pretty;
+}
+
+.label {
+  margin: 0 0 var(--s-4);
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  line-height: 1.5;
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.title {
+  max-width: 46rem;
+  margin: 0;
+  font-family: var(--serif);
+  font-size: var(--fs-title);
+  font-weight: 400;
+  line-height: 1.18;
+  letter-spacing: -0.005em;
+  text-wrap: balance;
+}
+
+.aside-line {
+  max-width: 38rem;
+  margin: var(--s-5) 0 0;
+  color: var(--prose);
+}
+
+.footnote {
+  max-width: 46rem;
+  margin: var(--s-5) 0 0;
+  font-size: var(--fs-small);
+  color: var(--prose);
+}
+
+
+/* 4.5 Buttons and links.
+       .button is the shape; one of two skins sets the colour. The quiet
+       skin's border is #9297A2 so the edge clears 3:1 on any ground. */
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--tap);
+  padding: var(--s-3) 1.375rem;
+  border: 1px solid;
+  border-radius: var(--radius);
+  font-size: var(--fs-fact);
+  font-weight: 500;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+}
+
+.button-brass {
+  border-color: var(--brass);
+  background: var(--brass);
+  color: var(--brass-ink);
+}
+
+.button-brass:hover {
+  border-color: var(--brass-lit);
+  background: var(--brass-lit);
+}
+
+.button-quiet {
+  border-color: var(--muted-2);
+  background: var(--surface-2);
+  color: var(--text);
+}
+
+.button-quiet:hover {
+  border-color: var(--text);
+  background: var(--surface-3);
+}
+
+.actions {
+  display: grid;
+  gap: var(--s-3);
+  max-width: 22rem;
+  margin-top: var(--s-6);
+}
+
+@media (min-width: 45em) {
+  .actions {
+    display: flex;
+    max-width: none;
+  }
+}
+
+.link {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--brass);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22em;
+}
+
+.link:hover {
+  color: var(--brass);
+}
+
+/* A text link standing on its own line gets a full-height target */
+.link-tap {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+}
+
+
+/* 4.6 Hero. The statement on the left; from 720 the dial on the right,
+       running off the page so only its left side shows. On phones there
+       is no dial. */
+
+.hero {
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+}
+
+.hero-inner {
+  position: relative;
+  padding-block: clamp(3rem, 2rem + 5vw, 4.75rem);
+}
+
+.hero-copy {
+  max-width: 40rem;
+}
+
+@media (max-width: 44.99em) {
+  .hero-dial {
+    display: none;
+  }
+}
+
+@media (min-width: 45em) and (max-width: 59.99em) {
+  .hero-copy {
+    max-width: 30rem;
+  }
+
+  .hero-dial {
+    position: absolute;
+    top: 50%;
+    left: 76%;
+    width: auto;
+    max-width: none;
+    height: 140%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+}
+
+@media (min-width: 60em) {
+  .hero-inner {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    column-gap: var(--col-gap);
+    align-items: center;
+    min-height: 30rem;
+  }
+
+  .hero-copy {
+    grid-column: span 7;
+  }
+
+  .hero-dial {
+    position: absolute;
+    top: 50%;
+    left: 66%;
+    width: auto;
+    max-width: none;
+    height: 152%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+}
+
+
+/* 4.7 Plate, entries and pictures.
+       One bordered plate, two entries, a hairline between (the plate's own
+       ground showing through a 1px gap).
+       From 960 the entries sit side by side and share their rows (subgrid),
+       so lockups, pictures, lines, facts and links stay level whatever the
+       copy does. From 720 to 960 each entry is text left, picture right. */
+
+.plate {
+  display: grid;
+  gap: 1px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--line);
+}
+
+.entry {
+  display: grid;
+  align-content: start;
+  padding: var(--s-6) var(--pad) var(--pad);
+  background: var(--surface);
+}
+
+.entry-name {
+  margin: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: 1;
+}
+
+.status {
+  display: flex;
+  gap: 0 0.6em;
+  margin: var(--s-4) 0 0;
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  line-height: 1.6;
+  letter-spacing: var(--track-tight);
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--muted-2);
+}
+
+@media (max-width: 59.99em) {
+  .status {
+    flex-direction: column;
+  }
+
+  .status-dot {
+    display: none;
+  }
+}
+
+.stage {
+  position: relative;
+  overflow: hidden;
+  background: var(--ink);
+}
+
+.shot {
+  overflow: hidden;
+  border: 1px solid var(--line-2);
+}
+
+.shot-img {
+  max-width: none;
+  filter: brightness(1.25);
+}
+
+.caption {
+  margin-top: var(--s-3);
+  font-size: var(--fs-small);
+  line-height: 1.5;
+  color: var(--prose);
+}
+
+.entry-line {
+  margin: var(--s-6) 0 0;
+  font-size: var(--fs-line);
+  line-height: 1.3;
+  color: var(--text);
+  text-wrap: balance;
+}
+
+.entry-text {
+  max-width: 36rem;
+  margin: var(--s-2) 0 0;
+  color: var(--prose);
+  text-wrap: pretty;
+}
+
+.facts {
+  max-width: 36rem;
+  margin: var(--s-5) 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.fact {
+  display: grid;
+  grid-template-columns: var(--fact-term, 5rem) 1fr;
+  column-gap: var(--s-4);
+  align-items: baseline;
+  padding-block: var(--s-3);
+  border-bottom: 1px solid var(--line);
+}
+
+.fact-term {
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  color: var(--muted-2);
+}
+
+.fact-value {
+  margin: 0;
+  font-size: var(--fs-fact);
+  line-height: 1.45;
+  color: var(--text);
+}
+
+.entry-link {
+  max-width: 22rem;
+  margin-top: var(--s-6);
+}
+
+/* Phones. Pictures sit in the flow and are shown complete.
+   Archive: the left 40% of the published image, three rows of the list.
+   Source 1024 x 942; window x 15 to 430, y 604 to 914: rows four to six.
+   (Rows one to three carry invented makers whose names collide with real
+   watch brands, so the window starts at row four.)
+   Tracker: the whole phone. */
+@media (max-width: 44.99em) {
+  .figure {
+    margin: var(--s-5) calc(var(--pad) * -1) 0;
+  }
+
+  .stage {
+    padding: var(--pad);
+    border-block: 1px solid var(--line);
+  }
+
+  .caption-inset {
+    padding-inline: var(--pad);
+  }
+
+  .shot {
+    max-width: 26rem;
+    margin-inline: auto;
+    aspect-ratio: 415 / 310;
+    border-radius: var(--radius);
+  }
+
+  .shot-img {
+    width: 246.75%;
+    margin-top: -145.54%;
+    margin-left: -3.61%;
+  }
+
+  .phone {
+    width: min(15rem, 100%);
+    margin-inline: auto;
+    border-radius: 13.2% / 6.6%;
+  }
+}
+
+/* From 720. Pictures become objects standing in a stage and running off
+   its lower edge. Archive: the list pane of the published image,
+   window x 15 to 513 from y 604 down. Tracker: the phone from its top. */
+@media (min-width: 45em) {
+  .stage {
+    min-height: 20rem;
+  }
+
+  .shot {
+    position: absolute;
+    bottom: 0;
+    left: var(--pad);
+    aspect-ratio: 498 / 300;
+    border-bottom: 0;
+    border-radius: var(--radius) var(--radius) 0 0;
+  }
+
+  .shot-img {
+    width: 205.62%;
+    margin-top: -121.29%;
+    margin-left: -3.01%;
+  }
+
+  .phone {
+    position: absolute;
+    top: 3.5rem;
+    left: calc(50% - 7.5rem);
+    width: 15rem;
+    max-width: none;
+    border-radius: 13.2% / 6.6%;
+  }
+
+  .entry-link {
+    justify-self: start;
+  }
+}
+
+/* 720 to 960: one entry per row; text left, the stage a column at the
+   right running the full height of the entry. The Archive window is held
+   at nine tenths of its natural size and runs off the right edge as well. */
+@media (min-width: 45em) and (max-width: 59.99em) {
+  .entry {
+    grid-template-columns: minmax(0, 1fr) clamp(16rem, 40%, 19rem);
+    column-gap: var(--pad);
+  }
+
+  .figure {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    grid-row: 1 / span 6;
+    grid-column: 2;
+    margin: calc(var(--s-6) * -1) calc(var(--pad) * -1) calc(var(--pad) * -1) 0;
+    border-left: 1px solid var(--line);
+  }
+
+  .stage {
+    border-bottom: 1px solid var(--line);
+  }
+
+  .shot {
+    top: 50%;
+    bottom: auto;
+    width: 28rem;
+    aspect-ratio: 498 / 308;
+    border-bottom: 1px solid var(--line-2);
+    transform: translateY(-50%);
+  }
+
+  .caption-inset {
+    margin-bottom: var(--s-3);
+    padding-inline: var(--s-5);
+  }
+}
+
+@media (min-width: 60em) {
+  .plate {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .entry {
+    grid-row: span 7;
+    grid-template-rows: subgrid;
+    row-gap: 0;
+  }
+
+  .figure {
+    margin: var(--s-5) calc(var(--pad) * -1) 0;
+  }
+
+  .stage {
+    border-block: 1px solid var(--line);
+  }
+
+  .shot {
+    right: var(--pad);
+  }
+
+  .caption-inset {
+    padding-inline: var(--pad);
+  }
+}
+
+
+/* 4.8 Ledger. A real table. From 720 it is ruled columns. On phones each
+       row becomes a block: the question, then each product's answer on its
+       own line, led by the product's name. The header row is hidden from
+       sight only. */
+
+.ledger {
+  width: 100%;
+  border-top: 1px solid var(--line-2);
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.ledger-col {
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  font-weight: 400;
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.ledger-question {
+  font-size: var(--fs-fact);
+  font-weight: 400;
+  line-height: 1.45;
+  color: var(--prose);
+}
+
+.ledger-cell {
+  line-height: 1.45;
+  color: var(--text);
+}
+
+@media (min-width: 45em) {
+  .ledger {
+    table-layout: fixed;
+  }
+
+  .ledger-corner {
+    width: 25.6%;
+    border-bottom: 1px solid var(--line-2);
+  }
+
+  .ledger-col {
+    padding: var(--s-4) var(--col-gap) var(--s-4) 0;
+    border-bottom: 1px solid var(--line-2);
+    vertical-align: bottom;
+  }
+
+  .ledger-question {
+    padding: 1.25rem var(--col-gap) 1.25rem 0;
+    border-bottom: 1px solid var(--line);
+    vertical-align: baseline;
+  }
+
+  .ledger-cell {
+    padding: 1.25rem var(--col-gap) 1.25rem 0;
+    border-bottom: 1px solid var(--line);
+    vertical-align: baseline;
+  }
+}
+
+@media (max-width: 44.99em) {
+  .ledger,
+  .ledger-body,
+  .ledger-row,
+  .ledger-question {
+    display: block;
+  }
+
+  .ledger-head {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .ledger-row {
+    padding-block: var(--s-4);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .ledger-question {
+    padding: 0 0 var(--s-2);
+  }
+
+  .ledger-cell {
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    column-gap: var(--s-4);
+    align-items: baseline;
+    padding: var(--s-1) 0;
+  }
+
+  .ledger-cell::before {
+    content: attr(data-product);
+    font-family: var(--mono);
+    font-size: var(--fs-label);
+    letter-spacing: var(--track);
+    text-transform: uppercase;
+    color: var(--muted-2);
+  }
+}
+
+
+/* 4.9 Correspondence: two addresses under a hairline each.
+       Home: purpose, then address. Contact: label, address, note. */
+
+.contacts {
+  display: grid;
+  gap: var(--s-5) var(--col-gap);
+}
+
+.contact {
+  margin: 0;
+  padding-top: var(--s-4);
+  border-top: 1px solid var(--line-2);
+}
+
+.contact-purpose {
+  display: block;
+  font-size: var(--fs-small);
+  color: var(--prose);
+}
+
+.contact-address {
+  display: inline-block;
+  margin-top: var(--s-1);
+  padding-block: 0.6875rem;
+  font-size: clamp(1.0625rem, 0.8rem + 1.4vw, 1.25rem);
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--brass);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.28em;
+}
+
+.contact-address:hover {
+  color: var(--brass);
+}
+
+.contact-label {
+  margin: 0;
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  color: var(--brass);
+}
+
+.contact-note {
+  margin: 0;
+  font-size: var(--fs-fact);
+  color: var(--prose);
+}
+
+.contacts-more {
+  margin: var(--s-4) 0 0;
+}
+
+.routing {
+  margin: var(--s-7) 0 0;
+  padding-top: var(--s-5);
+  border-top: 1px solid var(--line);
+  color: var(--prose);
+}
+
+@media (min-width: 45em) {
+  .contacts {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+
+/* 4.10 Rows: brass label left, text right (About, Products) */
+
+.rows {
+  display: grid;
+  row-gap: var(--s-6);
+}
+
+.row {
+  display: grid;
+  row-gap: var(--s-3);
+  padding-top: var(--s-5);
+  border-top: 1px solid var(--line);
+}
+
+.row-label {
+  margin: 0;
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  color: var(--brass);
+}
+
+.row-lead {
+  margin: 0;
+  font-size: var(--fs-line);
+  line-height: 1.3;
+  color: var(--text);
+}
+
+.row-text {
+  max-width: 38rem;
+  margin: var(--s-2) 0 0;
+  color: var(--prose);
+  text-wrap: pretty;
+}
+
+.marques {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--s-5) var(--s-7);
+  max-width: 38rem;
+  margin-top: var(--s-6);
+  padding-block: var(--s-5);
+  border-block: 1px solid var(--line);
+}
+
+.row-more {
+  margin: var(--s-3) 0 0;
+}
+
+@media (min-width: 45em) {
+  .row {
+    grid-template-columns: repeat(12, 1fr);
+    column-gap: var(--col-gap);
+  }
+
+  .row-label {
+    grid-column: span 3;
+    padding-top: 0.35rem;
+  }
+
+  .row-body {
+    grid-column: span 9;
+  }
+}
+
+
+/* 4.11 Product page: a page head, then one full-width entry per product,
+        copy and picture changing sides. It reuses the entry parts above. */
+
+.page-head {
+  padding-block: clamp(3rem, 2rem + 5vw, 4.75rem);
+  border-bottom: 1px solid var(--line);
+}
+
+.product {
+  display: grid;
+  gap: var(--s-7) var(--col-gap);
+}
+
+.product-copy {
+  display: grid;
+  align-content: start;
+}
+
+.product-art {
+  margin: 0;
+}
+
+.closing {
+  max-width: 38rem;
+  margin: 0;
+  color: var(--prose);
+  text-wrap: pretty;
+}
+
+.view {
+  overflow: hidden;
+  border: 1px solid var(--line-2);
+  border-radius: var(--radius);
+}
+
+.view-img {
+  max-width: none;
+}
+
+.phone-whole {
+  width: min(18.75rem, 100%);
+  border-radius: 13.2% / 6.6%;
+}
+
+.doclinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--s-5);
+  margin: var(--s-3) 0 0;
+  font-size: var(--fs-small);
+}
+
+/* Phones: the same window as Home, the left 40% of the Archive image and
+   rows four to six of its list. Source window x 15 to 430, y 604 to 914. */
+@media (max-width: 44.99em) {
+  .view {
+    max-width: 26rem;
+    aspect-ratio: 415 / 310;
+  }
+
+  .view-img {
+    width: 246.75%;
+    margin-top: -145.54%;
+    margin-left: -3.61%;
+  }
+}
+
+/* From 720: the whole image, less its black margin.
+   Source window x 15 to 1007, y 15 to 927. */
+@media (min-width: 45em) {
+  .view {
+    aspect-ratio: 992 / 912;
+  }
+
+  .view-img {
+    width: 103.23%;
+    margin-top: -1.51%;
+    margin-left: -1.51%;
+  }
+}
+
+@media (min-width: 60em) {
+  .product {
+    grid-template-columns: repeat(12, 1fr);
+    align-items: start;
+  }
+
+  .col-4 {
+    grid-column: span 4;
+  }
+
+  .col-5 {
+    grid-column: span 5;
+  }
+
+  .col-7 {
+    grid-column: span 7;
+  }
+
+  .col-8 {
+    grid-column: span 8;
+  }
+
+  .col-first {
+    order: -1;
+  }
+}
+
+
+/* 4.12 Colophon */
+
+.colophon {
+  padding-block: var(--s-8) var(--s-6);
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.colophon-grid {
+  display: grid;
+  gap: var(--s-6) var(--col-gap);
+}
+
+.colophon-brand {
+  padding-block: var(--s-1);
+}
+
+.colophon-address {
+  margin-top: var(--s-4);
+  font-size: var(--fs-fact);
+  font-style: normal;
+  line-height: 1.6;
+  color: var(--prose);
+}
+
+.colophon-head {
+  margin: 0 0 var(--s-1);
+  font-family: var(--mono);
+  font-size: var(--fs-label);
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: var(--track);
+  text-transform: uppercase;
+  color: var(--muted-2);
+}
+
+.colophon-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.colophon-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+  font-size: var(--fs-fact);
+  line-height: 1.3;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.colophon-link:hover {
+  color: var(--brass);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.25em;
+}
+
+.colophon-base {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: var(--s-2) var(--s-6);
+  margin-top: var(--s-7);
+  padding-top: var(--s-5);
+  border-top: 1px solid var(--line);
+}
+
+.colophon-fine {
+  margin: 0;
+  font-size: var(--fs-small);
+  line-height: 1.5;
+  color: var(--prose);
+}
+
+.colophon-credit {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--brass);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22em;
+}
+
+.colophon-credit:hover {
+  color: var(--brass);
+}
+
+@media (min-width: 45em) and (max-width: 59.99em) {
+  .colophon-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .colophon-house {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (min-width: 60em) {
+  .colophon-grid {
+    grid-template-columns: 4fr 2fr 3fr 3fr;
+  }
+}
+
+
+/* 4.13 Register: the company particulars, as ruled rows with a wider label
+        column. On phones each row stacks: label above value. */
+
+.facts-wide {
+  --fact-term: 11rem;
+  max-width: 46rem;
+}
+
+.fact-address {
+  font-style: normal;
+}
+
+@media (max-width: 44.99em) {
+  .fact-stack {
+    grid-template-columns: 1fr;
+    row-gap: var(--s-1);
+  }
+}
+
+
+/* 4.14 Page not found: the statement, and the whole dial beside it */
+
+.lost {
+  border-bottom: 1px solid var(--line);
+}
+
+.lost-inner {
+  display: grid;
+  gap: var(--s-7);
+  align-items: center;
+  padding-block: clamp(3rem, 2rem + 6vw, 6rem);
+}
+
+.lost-dial {
+  width: 15rem;
+}
+
+@media (max-width: 44.99em) {
+  .lost-dial {
+    display: none;
+  }
+}
+
+@media (min-width: 45em) {
+  .lost-inner {
+    grid-template-columns: minmax(0, 1fr) 15rem;
+  }
+}
+
+
+/* 4.15 Legal documents: one 720 column of prose. The text of these pages is
+        never touched for styling, so its plain elements are styled here
+        through .doc (the one place this stylesheet uses element selectors). */
+
+.doc {
+  max-width: 45rem;
+  margin-inline: auto;
+  padding: clamp(3rem, 2rem + 5vw, 4.75rem) var(--gutter) var(--section);
+}
+
+.doc h1 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(2.125rem, 1.6rem + 2.4vw, 2.875rem);
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+
+.doc .label {
+  margin: 0 0 var(--s-4);
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.doc .updated {
+  margin: var(--s-3) 0 var(--s-6);
+  font-size: var(--fs-small);
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.doc h2 {
+  margin: var(--s-7) 0 var(--s-3);
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: var(--text);
+}
+
+.doc p,
+.doc li {
+  line-height: 1.7;
+  color: var(--prose);
+}
+
+.doc p {
+  margin: 0 0 var(--s-4);
+}
+
+.doc ul {
+  margin: 0 0 var(--s-4);
+  padding-left: 1.25rem;
+}
+
+.doc strong {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.doc a {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--brass);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22em;
+  overflow-wrap: anywhere;
+}
+
+.doc a:hover {
+  color: var(--brass);
+}
+
+.note {
+  margin: var(--s-6) 0;
+  padding: var(--s-5);
+  border: 1px solid var(--line-2);
+  border-left: 2px solid var(--brass);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.doc .note p {
+  margin: 0;
+  color: var(--text);
+}
+
+
+/* 5. PRINT
+   ========================================================================== */
+
+@media print {
+  :root {
+    --ink: #fff;
+    --surface: #fff;
+    --surface-2: #fff;
+    --surface-3: #fff;
+    --line: #bbb;
+    --line-2: #999;
+    --text: #111;
+    --prose: #222;
+    --muted: #444;
+    --muted-2: #555;
+    --brass: #6b5320;
+    --brass-dim: #6b5320;
+    --lockup: #111;
+  }
+
+  .notice,
+  .nav,
+  .skip,
+  .hero-dial,
+  .lost-dial,
+  .actions {
+    display: none;
+  }
+
+  .doc a {
+    text-decoration: none;
+  }
+}

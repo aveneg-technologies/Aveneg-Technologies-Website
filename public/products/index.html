@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Products · Aveneg Technologies, LLC</title>
-<meta name="description" content="Software published by Aveneg Technologies, LLC: private, offline applications, each with its own website, Terms of Service and Privacy Policy.">
+<meta name="description" content="The two products Aveneg Technologies, LLC is building for watch collectors: Watch Vault Archive, for Mac and Windows, and Watch Vault Tracker, for iPhone.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://avenegtechnologies.com/products/">
 <meta name="theme-color" content="#0E0F12">
@@ -12,18 +12,19 @@
 <link rel="icon" type="image/svg+xml" href="/mark.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/styles/site.css">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Aveneg Technologies">
 <meta property="og:title" content="Products · Aveneg Technologies, LLC">
-<meta property="og:description" content="Private, offline applications, each with its own Terms of Service and Privacy Policy.">
+<meta property="og:description" content="The two products Aveneg Technologies, LLC is building for watch collectors: Watch Vault Archive, for Mac and Windows, and Watch Vault Tracker, for iPhone.">
 <meta property="og:url" content="https://avenegtechnologies.com/products/">
 <meta property="og:image" content="https://avenegtechnologies.com/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Products · Aveneg Technologies, LLC">
-<meta name="twitter:description" content="Private, offline applications, each with its own Terms of Service and Privacy Policy.">
+<meta name="twitter:description" content="The two products Aveneg Technologies, LLC is building for watch collectors: Watch Vault Archive, for Mac and Windows, and Watch Vault Tracker, for iPhone.">
 <meta name="twitter:image" content="https://avenegtechnologies.com/og-image.png">
 
 <script type="application/ld+json">
@@ -35,22 +36,14 @@
       "@id": "https://avenegtechnologies.com/products/#page",
       "url": "https://avenegtechnologies.com/products/",
       "name": "Products · Aveneg Technologies, LLC",
-      "description": "Software published by Aveneg Technologies, LLC: private, offline applications, each with its own website, Terms of Service and Privacy Policy.",
+      "description": "The two products Aveneg Technologies, LLC is building for watch collectors: Watch Vault Archive, for Mac and Windows, and Watch Vault Tracker, for iPhone.",
       "dateModified": "2026-10-13",
       "inLanguage": "en",
-      "isPartOf": {
-        "@id": "https://avenegtechnologies.com/#site"
-      },
-      "about": {
-        "@id": "https://avenegtechnologies.com/#org"
-      },
+      "isPartOf": { "@id": "https://avenegtechnologies.com/#site" },
+      "about": { "@id": "https://avenegtechnologies.com/#org" },
       "mainEntity": [
-        {
-          "@id": "https://avenegtechnologies.com/products/#watch-vault-archive"
-        },
-        {
-          "@id": "https://avenegtechnologies.com/products/#watch-vault-tracker"
-        }
+        { "@id": "https://avenegtechnologies.com/products/#watch-vault-archive" },
+        { "@id": "https://avenegtechnologies.com/products/#watch-vault-tracker" }
       ]
     },
     {
@@ -58,282 +51,175 @@
       "@id": "https://avenegtechnologies.com/products/#watch-vault-archive",
       "name": "Watch Vault Archive",
       "url": "https://watchvaultarchive.com",
-      "description": "An encrypted, offline desktop application for cataloging a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.",
-      "publisher": {
-        "@id": "https://avenegtechnologies.com/#org"
-      }
+      "operatingSystem": "macOS, Windows",
+      "creativeWorkStatus": "In development",
+      "description": "Desktop software for Mac and Windows that documents what a collector owns: appraisals, service history, provenance and succession. Encrypted at rest with a key only its owner holds, offline, with records held on the owner’s own computer. In development. Coming Winter 2027.",
+      "publisher": { "@id": "https://avenegtechnologies.com/#org" }
     },
     {
       "@type": "SoftwareApplication",
       "@id": "https://avenegtechnologies.com/products/#watch-vault-tracker",
       "name": "Watch Vault Tracker",
       "url": "https://watchvaulttracker.com",
-      "description": "An iPhone app that records the watches a collector wears: open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs stay on your phone. Free for watch collectors. In development. Coming to iPhone, Winter 2027.",
-      "publisher": {
-        "@id": "https://avenegtechnologies.com/#org"
-      }
+      "operatingSystem": "iOS",
+      "creativeWorkStatus": "In development",
+      "description": "An iPhone app that records the watches a collector wears: open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs stay on your phone. Free for watch collectors. In development. Coming Winter 2027.",
+      "publisher": { "@id": "https://avenegtechnologies.com/#org" }
     }
   ]
 }
 </script>
 
-<style>
-  :root {
-    --ink: #0E0F12;
-    --surface: #16181D;
-    --surface-2: #1E2128;
-    --line: #2A2E37;
-    --line-2: #363B45;
-    --text: #E7E4DC;
-    --muted: #A8ABB2;
-    --muted-2: #9297A2;
-    --prose: #B9BCC2;
-    --brass: #C6A15B;
-    --brass-dim: #A28442;
-    --brass-wash: rgba(198, 161, 91, .10);
-    --mono: ui-monospace, "SF Mono", "Cascadia Code", "JetBrains Mono", "Roboto Mono", Menlo, Consolas, monospace;
-    --sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    --wrap: 780px;
-    color-scheme: dark;
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    background: var(--ink);
-    color: var(--text);
-    font-family: var(--sans);
-    line-height: 1.55;
-    -webkit-font-smoothing: antialiased;
-  }
-  a { color: var(--brass); text-decoration-thickness: 1px; text-underline-offset: 3px; }
-  a:hover { color: var(--text); }
-  .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
-  .skip { position: absolute; left: -9999px; top: 0; }
-  .skip:focus { left: 8px; top: 8px; z-index: 10; background: var(--surface-2); color: var(--text); padding: 8px 12px; border-radius: 4px; }
-  a:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; }
-  ::selection { background: var(--brass); color: #14110a; }
-
-  .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 clamp(20px, 5vw, 40px); }
-
-  header.top {
-    border-bottom: 1px solid var(--line);
-    padding: 22px 0;
-  }
-  .head-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px; }
-  .brand {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    text-decoration: none;
-  }
-  .brand-mark { width: 24px; height: 24px; flex: none; }
-  .mark {
-    font-family: var(--mono);
-    font-weight: 500;
-    letter-spacing: .02em;
-    color: var(--text);
-    font-size: 15px;
-  }
-  .mark b { color: var(--brass); font-weight: 600; }
-  nav.nav { display: flex; flex-wrap: wrap; gap: 8px 26px; font-family: var(--mono); font-size: .8125rem; }
-  nav.nav a { color: var(--muted); text-decoration: none; }
-  nav.nav a:hover { color: var(--brass); }
-  nav.nav a[aria-current="page"] { color: var(--brass); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
-
-  section { padding: clamp(48px, 8vw, 88px) 0; }
-  section + section { border-top: 1px solid var(--line); }
-
-  .eyebrow {
-    font-family: var(--mono);
-    font-size: 12px;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: var(--muted-2);
-    margin: 0 0 14px;
-  }
-  .eyebrow b { color: var(--brass); font-weight: 500; }
-  h1 {
-    font-weight: 400;
-    line-height: 1.15;
-    font-size: clamp(2rem, 5vw, 2.75rem);
-    margin: 0 0 18px;
-    text-wrap: balance;
-  }
-  h2 {
-    font-weight: 400;
-    line-height: 1.2;
-    font-size: 1.5rem;
-    margin: 0 0 16px;
-  }
-  p { color: var(--prose); margin: 0 0 16px; max-width: 62ch; }
-  p.lead { color: var(--muted); font-size: 1.0625rem; max-width: 56ch; }
-  p:last-child { margin-bottom: 0; }
-
-  .card {
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 6px;
-    padding: 28px 30px;
-    margin-top: 8px;
-  }
-  .card h2 { margin: 0 0 8px; font-weight: 500; font-size: 1.0625rem; color: var(--text); }
-  .card p { margin: 0 0 14px; }
-  .card .btn { margin-top: 4px; }
-  .card .links { font-family: var(--mono); font-size: .8125rem; margin: 16px 0 0; display: flex; flex-wrap: wrap; gap: 4px 18px; }
-  .card .links a { display: inline-block; padding: 4px 0; }
-
-  .card + .card { margin-top: 16px; }
-
-  .btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    background: var(--surface-2);
-    border: 1px solid var(--line-2);
-    color: var(--text);
-    padding: 9px 15px;
-    border-radius: 4px;
-    font-size: .9375rem;
-    text-decoration: none;
-  }
-  .btn:hover { border-color: var(--brass-dim); color: var(--text); background: #262a33; }
-
-  footer.foot {
-    border-top: 1px solid var(--line);
-    padding: 28px 0;
-  }
-  footer.foot p {
-    color: var(--muted-2);
-    font-size: .8125rem;
-    max-width: none;
-    margin: 0 0 4px;
-  }
-  .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 18px; }
-  .footlinks a { color: var(--muted-2); display: inline-block; padding: 4px 0; }
-  .footlinks a:hover { color: var(--brass); }
-
-  /* shared v2: one canonical layout across every page */
-  :root { --wrap: 780px; }
-  body { line-height: 1.55; }
-  header.top { padding: 16px 0; }
-  .brand-mark { width: 28px; height: 28px; }
-  .mark { font-size: 16px; font-weight: 600; letter-spacing: .04em; }
-  nav.nav { font-size: .875rem; gap: 2px 24px; }
-  nav.nav a { display: inline-block; padding: 8px 0; }
-  .eyebrow { font-size: 13px; margin: 0 0 14px; }
-  .card { padding: 28px 30px; margin-top: 0; }
-  .card + .card { margin-top: 16px; }
-  .card .card-title { margin: 0 0 10px; font-weight: 500; font-size: 1.25rem; line-height: 1.25; color: var(--text); text-transform: none; letter-spacing: 0; }
-  .card .links { display: flex; flex-wrap: wrap; gap: 0 18px; }
-  .card .links a { display: inline-block; padding: 8px 0; margin: 0; }
-  .status { font-family: var(--mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted-2); margin: 0 0 8px; }
-  footer.foot { padding: 28px 0; margin-top: 0; }
-  .footlinks { font-size: .875rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 0 18px; }
-  .footlinks a { padding: 10px 0; }
-  section { padding: clamp(40px, 6vw, 64px) 0; }
-  main p { font-size: 1.0625rem; }
-  p.lead { font-size: 1.125rem; }
-  section.hero + section { border-top: 0; padding-top: 0; }
-</style>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 
-<header class="top">
-  <div class="wrap head-row">
-    <a class="brand" href="/">
-      <svg class="brand-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
-        <circle cx="16" cy="16" r="15.2" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <path fill="currentColor" d="M16 7.2 L24.4 24.4 H20.8 L19.1 20.7 H12.9 L11.2 24.4 H7.6 Z M16 12.3 L13.9 17.4 H18.1 Z"/>
-      </svg>
-      <span class="mark">Aveneg <b>Technologies</b></span>
-    </a>
-    <nav class="nav">
-      <a href="/">Home</a>
-      <a href="/products/" aria-current="page">Products</a>
-      <a href="/about/">About</a>
-      <a href="/contact/">Contact</a>
-    </nav>
+<header>
+  <div class="notice">
+    <div class="wrap notice-inner">
+      <span class="tag">Coming Winter&nbsp;2027</span>
+      <p class="notice-text">Watch Vault Archive&trade; and Watch Vault Tracker are in development.</p>
+    </div>
+  </div>
+  <div class="masthead">
+    <div class="wrap masthead-inner">
+      <a class="lockup masthead-brand" href="/" aria-label="Aveneg Technologies, home">
+        <svg class="lockup-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+          <circle cx="16" cy="16" r="15.2" fill="none" stroke="currentColor" stroke-width="1.2"/>
+          <path fill="currentColor" d="M16 7.2 L24.4 24.4 H20.8 L19.1 20.7 H12.9 L11.2 24.4 H7.6 Z M16 12.3 L13.9 17.4 H18.1 Z"/>
+        </svg>
+        <span class="lockup-text"><span class="lockup-name">Aveneg</span> <span class="lockup-sub lockup-sub-house">Technologies</span></span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a class="nav-link" href="/products/" aria-current="page">Products</a>
+        <a class="nav-link" href="/about/">About</a>
+        <a class="nav-link" href="/contact/">Contact</a>
+      </nav>
+    </div>
   </div>
 </header>
 
 <main id="main">
-
-<section class="hero">
+<section class="page-head">
   <div class="wrap">
-    <p class="eyebrow">Products</p>
-    <h1>What we publish.</h1>
-    <p class="lead">
-      Aveneg Technologies, LLC builds two applications. Watch Vault Archive
-      records what a collector owns, and Watch Vault Tracker records what a
-      collector wears. Each has its own website, Terms of Service and
-      Privacy Policy, each keeps your records on your own device, and
-      neither requires the other.
-    </p>
+    <p class="label">Products</p>
+    <h1 class="display">What we publish.</h1>
+    <p class="lead">Aveneg Technologies is building two products for watch collectors. They are separate products, and neither requires the other.</p>
   </div>
 </section>
 
-<section>
-  <div class="wrap">
-    <div class="card">
-      <p class="status">In development · Winter 2027</p>
-      <h2 class="card-title">Watch Vault Archive&trade;</h2>
-      <p>
-        An encrypted, offline desktop application for cataloging a watch
-        collection &mdash; appraisals, service history, provenance and
-        succession, held entirely on your own computer.
-      </p>
-      <a class="btn" href="https://watchvaultarchive.com">Visit watchvaultarchive.com &rarr;</a>
-      <p class="links">
-        <a href="https://watchvaultarchive.com/terms">Terms of Service<span class="sr-only"> for Watch Vault Archive</span></a>
-        <a href="https://watchvaultarchive.com/privacy">Privacy Policy<span class="sr-only"> for Watch Vault Archive</span></a>
-      </p>
+<section class="section">
+  <div class="wrap product">
+    <div class="product-copy col-5">
+      <h2 class="entry-name">
+        <span class="lockup">
+  <svg class="lockup-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.4 31.4" aria-hidden="true" focusable="false">
+    <circle cx="15.7" cy="15.7" r="14.9" fill="none" stroke="currentColor" stroke-opacity=".99" stroke-width="1.2" stroke-miterlimit="1.2"/>
+    <path fill="currentColor" fill-opacity=".75" d="M19.1,4.2l-2.9,7.9c.8.1,1.6.6,2.2,1.3,1.1,1.5.8,3.7-.7,4.8-1.5,1.1-3.7.8-4.8-.7-1.1-1.5-.8-3.7.7-4.8.5-.4,1.2-.6,1.8-.7l-2.6-8C7.7,5.3,3.8,10,3.8,15.5s5.3,11.9,11.9,11.9,11.9-5.3,11.9-11.9-3.6-9.9-8.4-11.4Z"/>
+  </svg>
+  <span class="lockup-text"><span class="lockup-name">Watch <b class="lockup-accent">Vault</b></span> <span class="lockup-sub lockup-sub-product">Archive&trade;</span></span>
+</span>
+      </h2>
+      <p class="status"><span>In development</span><span class="visually-hidden">, </span> <span class="status-dot" aria-hidden="true">·</span> <span>coming Winter&nbsp;2027</span></p>
+      <p class="entry-line">Watch Vault Archive is desktop software that documents what a collector owns.</p>
+      <p class="entry-text">It is built for record-keeping over the long term. Its records are encrypted at rest with a key only their owner holds, and the software works offline. Aveneg Technologies cannot read, recover or hand over that data.</p>
+      <dl class="facts">
+        <div class="fact"><dt class="fact-term">For</dt><dd class="fact-value">Mac and Windows</dd></div>
+        <div class="fact"><dt class="fact-term">Records</dt><dd class="fact-value">Appraisals, service history, provenance and succession</dd></div>
+        <div class="fact"><dt class="fact-term">Kept</dt><dd class="fact-value">On your own computer</dd></div>
+        <div class="fact"><dt class="fact-term">Privacy</dt><dd class="fact-value">No account with us. No copy held by Aveneg.</dd></div>
+      </dl>
+      <a class="button button-brass entry-link" href="https://watchvaultarchive.com">Visit watchvaultarchive.com</a>
+      <p class="doclinks"><a class="link link-tap" href="https://watchvaultarchive.com/terms">Watch Vault Archive Terms of Service</a> <a class="link link-tap" href="https://watchvaultarchive.com/privacy">Watch Vault Archive Privacy Policy</a></p>
     </div>
+    <figure class="product-art col-7">
+      <div class="view">
+        <img class="view-img" src="/img/watch-vault-archive.webp" width="1024" height="942" alt="The Watch Vault Archive application: a list of watches on the left, and one watch&rsquo;s record open on the right showing its identification and acquisition details.">
+      </div>
+      <figcaption class="caption">Illustrative data, not a real collection.</figcaption>
+    </figure>
+  </div>
+</section>
 
-    <div class="card">
-      <p class="status">In development · Winter 2027</p>
-      <h2 class="card-title">Watch Vault Tracker</h2>
-      <p>
-        An iPhone app that records the watches a collector wears. Open it, tap
-        the photograph of the watch on your wrist, and the watch, the date
-        and the time are kept. We don’t collect any information about your collection: your records and photographs stay on your phone.
-      </p>
-      <p>
-        Free for watch collectors: every feature is free, with no
-        subscription, no advertising and no trial. There is a place to
-        leave an optional tip; a tip unlocks nothing.
-      </p>
-      <a class="btn" href="https://watchvaulttracker.com">Visit watchvaulttracker.com &rarr;</a>
-      <p class="links">
-        <a href="https://watchvaulttracker.com/terms">Terms of Service<span class="sr-only"> for Watch Vault Tracker</span></a>
-        <a href="https://watchvaulttracker.com/privacy">Privacy Policy<span class="sr-only"> for Watch Vault Tracker</span></a>
-      </p>
+<section class="section section-ruled">
+  <div class="wrap product">
+    <div class="product-copy col-8">
+      <h2 class="entry-name">
+        <img class="lockup-art" src="/img/watch-vault-tracker-lockup.svg" width="189" height="40" alt="Watch Vault Tracker">
+      </h2>
+      <p class="status"><span>In development</span><span class="visually-hidden">, </span> <span class="status-dot" aria-hidden="true">·</span> <span>coming Winter&nbsp;2027</span></p>
+      <p class="entry-line">Watch Vault Tracker is an iPhone app that records the watches a collector wears.</p>
+      <p class="entry-text">Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don&rsquo;t collect any information about your collection: your records and photographs stay on your phone. Every feature is free, with no subscription, no advertising and no trial; there is a place to leave an optional tip, and a tip unlocks nothing.</p>
+      <dl class="facts">
+        <div class="fact"><dt class="fact-term">For</dt><dd class="fact-value">iPhone</dd></div>
+        <div class="fact"><dt class="fact-term">Records</dt><dd class="fact-value">Each watch worn, with its date and time</dd></div>
+        <div class="fact"><dt class="fact-term">Kept</dt><dd class="fact-value">On your phone</dd></div>
+        <div class="fact"><dt class="fact-term">Privacy</dt><dd class="fact-value">No account with us. No copy held by Aveneg.</dd></div>
+        <div class="fact"><dt class="fact-term">Cost</dt><dd class="fact-value">Free for watch collectors</dd></div>
+      </dl>
+      <a class="button button-brass entry-link" href="https://watchvaulttracker.com">Visit watchvaulttracker.com</a>
+      <p class="doclinks"><a class="link link-tap" href="https://watchvaulttracker.com/terms">Watch Vault Tracker Terms of Service</a> <a class="link link-tap" href="https://watchvaulttracker.com/privacy">Watch Vault Tracker Privacy Policy</a></p>
     </div>
-    <p style="margin-top: 24px;">
-      Each product is licensed, and handles data, under its own documents,
-      because those can differ from one product to the next. This
-      site&rsquo;s own <a href="/terms/">Terms</a> and
-      <a href="/privacy/">Privacy Policy</a> cover avenegtechnologies.com
-      only.
-    </p>
+    <figure class="product-art col-4 col-first">
+      <img class="phone-whole" src="/img/watch-vault-tracker.webp" width="318" height="638" alt="The Watch Vault Tracker Today screen on an iPhone: a grid of drawn watches under the line &ldquo;Tap the watch you&rsquo;re wearing&rdquo;, with the first watch ticked.">
+      <figcaption class="caption">An illustration, not a screenshot. The watches are drawn; in the app they are your own photographs.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="section section-ruled">
+  <div class="wrap">
+    <p class="closing">Each product is licensed under its own documents, published on its own site, and those documents can differ from one product to the next. This website&rsquo;s own <a class="link" href="/terms/">Terms of Service</a> and <a class="link" href="/privacy/">Privacy Policy</a> cover avenegtechnologies.com only.</p>
   </div>
 </section>
 </main>
 
-<footer class="foot">
+<footer class="colophon">
   <div class="wrap">
-    <p class="footlinks">
-      <a href="/">Home</a>
-      <a href="/products/">Products</a>
-      <a href="/about/">About</a>
-      <a href="/contact/">Contact</a>
-      <a href="/terms/">Terms of Service</a>
-      <a href="/privacy/">Privacy Policy</a>
-    </p>
-    <p>© 2026 Aveneg Technologies, LLC</p>
-    <p>Watch Vault Archive is a trademark of Aveneg Technologies, LLC.</p>
-    <p>8735 Dunwoody Place, Ste R, Atlanta, GA 30350</p>
-    <p>Website by <a href="https://wayedesigngroup.com/" target="_blank" rel="noopener noreferrer">Waye Design Group<span aria-hidden="true"> &#8599;</span><span class="sr-only"> (opens in a new tab)</span></a></p>
+    <div class="colophon-grid">
+      <div class="colophon-house">
+        <a class="lockup colophon-brand" href="/" aria-label="Aveneg Technologies, home">
+          <svg class="lockup-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+            <circle cx="16" cy="16" r="15.2" fill="none" stroke="currentColor" stroke-width="1.2"/>
+            <path fill="currentColor" d="M16 7.2 L24.4 24.4 H20.8 L19.1 20.7 H12.9 L11.2 24.4 H7.6 Z M16 12.3 L13.9 17.4 H18.1 Z"/>
+          </svg>
+          <span class="lockup-text"><span class="lockup-name">Aveneg</span> <span class="lockup-sub lockup-sub-house">Technologies</span></span>
+        </a>
+        <address class="colophon-address">
+          Aveneg Technologies, LLC<br>
+          8735 Dunwoody Place, Ste R<br>
+          Atlanta, GA 30350
+        </address>
+      </div>
+      <nav class="colophon-col" aria-labelledby="colophon-company">
+        <h2 class="colophon-head" id="colophon-company">Company</h2>
+        <ul class="colophon-list">
+          <li><a class="colophon-link" href="/">Home</a></li>
+          <li><a class="colophon-link" href="/products/" aria-current="page">Products</a></li>
+          <li><a class="colophon-link" href="/about/">About</a></li>
+          <li><a class="colophon-link" href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+      <nav class="colophon-col" aria-labelledby="colophon-products">
+        <h2 class="colophon-head" id="colophon-products">Product websites</h2>
+        <ul class="colophon-list">
+          <li><a class="colophon-link" href="https://watchvaultarchive.com">watchvaultarchive.com</a></li>
+          <li><a class="colophon-link" href="https://watchvaulttracker.com">watchvaulttracker.com</a></li>
+        </ul>
+      </nav>
+      <nav class="colophon-col" aria-labelledby="colophon-legal">
+        <h2 class="colophon-head" id="colophon-legal">Legal</h2>
+        <ul class="colophon-list">
+          <li><a class="colophon-link" href="/terms/">Website Terms of Service</a></li>
+          <li><a class="colophon-link" href="/privacy/">Website Privacy Policy</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="colophon-base">
+      <p class="colophon-fine">&copy; 2026 Aveneg Technologies, LLC</p>
+      <p class="colophon-fine">Watch Vault Archive is a trademark of Aveneg Technologies, LLC.</p>
+      <p class="colophon-fine">Website by <a class="colophon-credit" href="https://wayedesigngroup.com/" target="_blank" rel="noopener noreferrer">Waye Design Group<span aria-hidden="true"> &#8599;</span><span class="visually-hidden"> (opens in a new tab)</span></a></p>
+    </div>
   </div>
 </footer>
 

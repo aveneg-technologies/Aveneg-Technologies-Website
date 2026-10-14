@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC
 
-> Software publisher building private, offline software for people who keep a careful record of something valuable. It is building two products, both in development and coming Winter 2027: Watch Vault Archive, an encrypted, offline desktop application for cataloging a watch collection, and Watch Vault Tracker, an iPhone app in development that records the watches a collector wears and is free for watch collectors. Records stay on the owner's own computer or phone: no cloud, no account. This site is the company's corporate site; each product has its own site. Contact is by email only; there is no contact form and no phone number.
+> Aveneg Technologies, LLC is a privacy-first software publisher. It is building two products for watch collectors, both in development, coming Winter 2027; neither has been released. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline. Watch Vault Tracker is an iPhone app that records the watches a collector wears; it is free for watch collectors. Each keeps its records on the owner's own device, and the company holds no copy. Contact is by email only.
 
 - Address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350, United States
 - Commercial licensing and legal: legal@avenegtechnologies.com
@@ -8,22 +8,22 @@
 
 ## Start here
 
-- [Agent fact sheet](https://avenegtechnologies.com/AGENTS.md): who the company is, what it publishes, how to reach it, and what the site does not say
-- [Full text of the site](https://avenegtechnologies.com/llms-full.txt): the complete text of every page in one file
+- [Agent fact sheet](https://avenegtechnologies.com/AGENTS.md): who the company is, what it is building, how to reach it, and what the site does not say
+- [Full text of the site](https://avenegtechnologies.com/llms-full.txt): the main content of every page in one file
 
 ## Company
 
-- [Home](https://avenegtechnologies.com/): what the company builds and why
-- [Products](https://avenegtechnologies.com/products/): every product the company publishes, each with its own website, Terms of Service and Privacy Policy
-- [About](https://avenegtechnologies.com/about/): the offline-and-encrypted philosophy and what the company publishes
-- [Contact](https://avenegtechnologies.com/contact/): email addresses and registered business address
+- [Home](https://avenegtechnologies.com/): what the company makes, and where each product keeps a collector's records
+- [Products](https://avenegtechnologies.com/products/): both products, each with its own website, Terms of Service and Privacy Policy
+- [About](https://avenegtechnologies.com/about/): why the company keeps records with their owner, how it builds, and what it publishes
+- [Contact](https://avenegtechnologies.com/contact/): email addresses, address and company particulars
 
 ## Products
 
-- [Watch Vault Archive](https://watchvaultarchive.com): the company's encrypted, offline watch-collection application, in development and coming Winter 2027, on its own site
-- [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms): the terms that govern the application
-- [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy): how the application handles data
-- [Watch Vault Tracker](https://watchvaulttracker.com): an iPhone app, in development and coming Winter 2027, that records the watches a collector wears; free for watch collectors, collects no information about the collection, on its own site
+- [Watch Vault Archive](https://watchvaultarchive.com): encrypted, offline desktop software for Mac and Windows that documents what a collector owns; in development, coming Winter 2027; on its own site
+- [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms): the terms published on the Archive's own site
+- [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy): how the Archive handles data
+- [Watch Vault Tracker](https://watchvaulttracker.com): an iPhone app that records the watches a collector wears; free for watch collectors; in development, coming Winter 2027; on its own site
 - [Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms): the terms published for the Tracker's website; the app's own terms are promised before release
 - [Watch Vault Tracker Privacy Policy](https://watchvaulttracker.com/privacy): how the Tracker's website and app handle data
 

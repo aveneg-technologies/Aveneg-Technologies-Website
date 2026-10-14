@@ -1,50 +1,81 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves on 2026-10-13. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-13. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
 Source: https://avenegtechnologies.com/
 
-_Private · Offline by design_
+_Privacy first, on your own devices, no copy held_
 
 # Your records never leave the room.
 
-Aveneg Technologies, LLC builds private, offline software for watch collectors: Watch Vault Archive for cataloging a collection, and Watch Vault Tracker for recording what you wear. Your records are held entirely on your own computer or phone. No cloud, no account, and no company holding a copy of what you own.
+Aveneg Technologies makes software for watch collectors. Watch Vault Archive and Watch Vault Tracker keep your records on your own computer or phone.
 
-_What we build_
+[See the products](https://avenegtechnologies.com/products/) [About the company](https://avenegtechnologies.com/about/)
 
-## Two products for watch collectors.
+_What we publish_
 
-Watch Vault Archive records what a collector owns. It is encrypted, offline, and built around provenance and long-term record-keeping. Watch Vault Tracker, coming Winter 2027, will record what a collector wears. The same architecture is built to serve other collector communities the same way, as they come.
-
-_In development · Winter 2027_
+## Two products, each with its own site.
 
 ### Watch Vault Archive™
 
-An encrypted, offline desktop application for cataloging a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.
+_In development, coming Winter 2027_
 
-[Visit watchvaultarchive.com →](https://watchvaultarchive.com)
+Part of the Watch Vault Archive watch list: three watches, each shown with a photograph, its maker and its model.
 
-_In development · Winter 2027_
+Illustrative data, not a real collection.
+
+Documents the watches a collector owns.
+
+Desktop software for a collection’s appraisals, service history, provenance and succession. Aveneg cannot read, recover or hand over what you record in it.
+
+- For: Mac and Windows
+
+[Visit watchvaultarchive.com](https://watchvaultarchive.com)
 
 ### Watch Vault Tracker
 
-An iPhone app that records the watches a collector wears. We don’t collect any information about your collection: your records and photographs stay on your phone. Free for watch collectors.
+_In development, coming Winter 2027_
 
-[Visit watchvaulttracker.com →](https://watchvaulttracker.com)
+The Watch Vault Tracker Today screen on an iPhone: a grid of drawn watches under the line “Tap the watch you’re wearing”, with the first watch ticked.
 
-[All products →](https://avenegtechnologies.com/products/)
+An illustration, not a screenshot.
 
-_Contact_
+Records the watches a collector wears.
 
-## Business and legal inquiries.
+Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Every feature is free for watch collectors: no subscription, no advertising, no trial.
 
-Commercial licensing [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)
+- For: iPhone
 
-General [info@avenegtechnologies.com](mailto:info@avenegtechnologies.com)
+[Visit watchvaulttracker.com](https://watchvaulttracker.com)
 
-[Contact and business address →](https://avenegtechnologies.com/contact/)
+The two are separate products, and neither requires the other.
+
+_Privacy first_
+
+## No cloud, no account, and no company holding a copy of what you own.
+
+Where your records are, product by product.
+
+| Question | Watch Vault Archive | Watch Vault Tracker |
+|---|---|---|
+| Records kept | On your own computer | On your phone |
+| Account with us | None | None |
+| Copy held by Aveneg | None | None |
+| In addition | Encrypted at rest, with a key only you hold. | We don’t collect any information about your collection. |
+
+This website sets no cookies and has no accounts or forms. Its [Privacy Policy](https://avenegtechnologies.com/privacy/) gives the detail.
+
+_Correspondence_
+
+## By email only.
+
+Licensing, partnerships and legal correspondence [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)
+
+Everything else [info@avenegtechnologies.com](mailto:info@avenegtechnologies.com)
+
+[Contact and company particulars](https://avenegtechnologies.com/contact/)
 
 ---
 
@@ -54,31 +85,52 @@ _Products_
 
 # What we publish.
 
-Aveneg Technologies, LLC builds two applications. Watch Vault Archive records what a collector owns, and Watch Vault Tracker records what a collector wears. Each has its own website, Terms of Service and Privacy Policy, each keeps your records on your own device, and neither requires the other.
-
-_In development · Winter 2027_
+Aveneg Technologies is building two products for watch collectors. They are separate products, and neither requires the other.
 
 ## Watch Vault Archive™
 
-An encrypted, offline desktop application for cataloging a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.
+_In development, coming Winter 2027_
 
-[Visit watchvaultarchive.com →](https://watchvaultarchive.com)
+Watch Vault Archive is desktop software that documents what a collector owns.
 
-[Terms of Service for Watch Vault Archive](https://watchvaultarchive.com/terms) [Privacy Policy for Watch Vault Archive](https://watchvaultarchive.com/privacy)
+It is built for record-keeping over the long term. Its records are encrypted at rest with a key only their owner holds, and the software works offline. Aveneg Technologies cannot read, recover or hand over that data.
 
-_In development · Winter 2027_
+- For: Mac and Windows
+- Records: Appraisals, service history, provenance and succession
+- Kept: On your own computer
+- Privacy: No account with us. No copy held by Aveneg.
+
+[Visit watchvaultarchive.com](https://watchvaultarchive.com)
+
+[Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms) [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy)
+
+The Watch Vault Archive application: a list of watches on the left, and one watch’s record open on the right showing its identification and acquisition details.
+
+Illustrative data, not a real collection.
 
 ## Watch Vault Tracker
 
-An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs stay on your phone.
+_In development, coming Winter 2027_
 
-Free for watch collectors: every feature is free, with no subscription, no advertising and no trial. There is a place to leave an optional tip; a tip unlocks nothing.
+Watch Vault Tracker is an iPhone app that records the watches a collector wears.
 
-[Visit watchvaulttracker.com →](https://watchvaulttracker.com)
+Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs stay on your phone. Every feature is free, with no subscription, no advertising and no trial; there is a place to leave an optional tip, and a tip unlocks nothing.
 
-[Terms of Service for Watch Vault Tracker](https://watchvaulttracker.com/terms) [Privacy Policy for Watch Vault Tracker](https://watchvaulttracker.com/privacy)
+- For: iPhone
+- Records: Each watch worn, with its date and time
+- Kept: On your phone
+- Privacy: No account with us. No copy held by Aveneg.
+- Cost: Free for watch collectors
 
-Each product is licensed, and handles data, under its own documents, because those can differ from one product to the next. This site’s own [Terms](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
+[Visit watchvaulttracker.com](https://watchvaulttracker.com)
+
+[Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms) [Watch Vault Tracker Privacy Policy](https://watchvaulttracker.com/privacy)
+
+The Watch Vault Tracker Today screen on an iPhone: a grid of drawn watches under the line “Tap the watch you’re wearing”, with the first watch ticked.
+
+An illustration, not a screenshot. The watches are drawn; in the app they are your own photographs.
+
+Each product is licensed under its own documents, published on its own site, and those documents can differ from one product to the next. This website’s own [Terms of Service](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
 
 ---
 
@@ -88,31 +140,29 @@ _About_
 
 # A software company built around one idea.
 
-Most software today assumes your data belongs somewhere else — on a server you don’t control, tied to an account you can’t close, held by a company that can be breached, acquired, or shut down without your say. We started Aveneg Technologies, LLC to build the opposite: software that keeps sensitive, valuable records exactly where their owner put them, and nowhere else.
+The idea is that a record of something valuable stays where its owner put it, and nowhere else.
 
-_Philosophy_
+## Why
 
-## Why offline, why encrypted.
+A record of something valuable is worth protecting like the thing itself. Held on a company’s server, it can be exposed in ways its owner never sees: a breach at the provider, a demand served on the company instead of the person, a service that closes and takes years of entries with it. Software that keeps the record on the owner’s own device removes those risks by removing the server.
 
-A record of something valuable — a collection, its provenance, its appraisals — is worth protecting like the thing itself. Keeping that record in the cloud multiplies the ways it can be exposed: a provider’s breach, a subpoena served on a company instead of a person, a service that quietly shuts down and takes years of entries with it. Offline software removes those risks by removing the server. There is no account to compromise and no copy sitting anywhere but the owner’s own device.
+## How we build
 
-Encryption is the other half of it. Watch Vault Archive encrypts its data at rest by default, with a key only its owner holds. We can’t read it, recover it, or hand it to anyone who asks — because we never have it in the first place.
+Privacy comes first. In every product the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection.
 
-_What we publish_
+## What we publish
 
-## What we publish.
+The company is building two products for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears. They are separate products, and neither requires the other.
 
-Watch Vault Archive records what a collector owns, and Watch Vault Tracker records what a collector wears. Each has its own website, Terms of Service and Privacy Policy, listed on the [Products](https://avenegtechnologies.com/products/) page.
+[See the products](https://avenegtechnologies.com/products/)
 
-The same architecture — private, encrypted, offline by design — is built to serve other collector communities the same way, as they come.
+## What comes next
 
-[See all products →](https://avenegtechnologies.com/products/)
+The products today are for watch collectors. The same approach will serve other collector communities later.
 
-_The company_
+## Particulars
 
-## A registered limited liability company.
-
-Aveneg Technologies, LLC is the publisher of every product on our [Products](https://avenegtechnologies.com/products/) page. Each is licensed under its own Terms of Service and Privacy Policy, linked from its entry there. For our business address and other ways to reach us, see [Contact](https://avenegtechnologies.com/contact/).
+Aveneg Technologies, LLC is the publisher of both products. The company’s address, registration and email addresses are on the [Contact](https://avenegtechnologies.com/contact/) page.
 
 ---
 
@@ -122,9 +172,9 @@ _Contact_
 
 # Contact Aveneg Technologies.
 
-Email is the fastest way to reach us. We don’t run a contact form; write directly to the address that fits your inquiry.
+The company corresponds by email. This website has no contact form; write directly to the address that fits your inquiry.
 
-## Commercial licensing
+## Licensing and legal
 
 [legal@avenegtechnologies.com](mailto:legal@avenegtechnologies.com)
 
@@ -134,20 +184,21 @@ Licensing, partnerships and legal correspondence.
 
 [info@avenegtechnologies.com](mailto:info@avenegtechnologies.com)
 
-Everything else, including press and questions.
+Everything else, including press.
 
-For questions about using a product, see that product’s own website: [Watch Vault Archive](https://watchvaultarchive.com) or [Watch Vault Tracker](https://watchvaulttracker.com). Our registered address and Georgia control number are below.
+For a question about a product, see that product’s own site: [watchvaultarchive.com](https://watchvaultarchive.com) or [watchvaulttracker.com](https://watchvaulttracker.com).
 
-_Legal information_
+## Company particulars
 
-## Registered business details.
+- Legal name: Aveneg Technologies, LLC
+- Business: Software publisher
 
-Aveneg Technologies, LLC  
 8735 Dunwoody Place, Ste R  
 Atlanta, GA 30350  
 United States
 
-Georgia Control No. 26193384
+- Registration: Georgia Control No. 26193384
+- Trademark: Watch Vault Archive is a trademark of Aveneg Technologies, LLC.
 
 ---
 

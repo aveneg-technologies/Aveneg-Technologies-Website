@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>About · Aveneg Technologies, LLC</title>
-<meta name="description" content="Aveneg Technologies, LLC builds private, offline software for people who keep a careful record of something valuable. Publisher of Watch Vault Archive and Watch Vault Tracker.">
+<meta name="description" content="About Aveneg Technologies, LLC: why we build private, offline software, and what we publish.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://avenegtechnologies.com/about/">
 <meta name="theme-color" content="#0E0F12">
@@ -170,6 +170,29 @@
   .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 18px; }
   .footlinks a { color: var(--muted-2); display: inline-block; padding: 4px 0; }
   .footlinks a:hover { color: var(--brass); }
+
+  /* shared v2: one canonical layout across every page */
+  :root { --wrap: 780px; }
+  body { line-height: 1.55; }
+  header.top { padding: 16px 0; }
+  .brand-mark { width: 28px; height: 28px; }
+  .mark { font-size: 16px; font-weight: 600; letter-spacing: .04em; }
+  nav.nav { font-size: .875rem; gap: 2px 24px; }
+  nav.nav a { display: inline-block; padding: 8px 0; }
+  .eyebrow { font-size: 13px; margin: 0 0 14px; }
+  .card { padding: 28px 30px; margin-top: 0; }
+  .card + .card { margin-top: 16px; }
+  .card .card-title { margin: 0 0 10px; font-weight: 500; font-size: 1.25rem; line-height: 1.25; color: var(--text); text-transform: none; letter-spacing: 0; }
+  .card .links { display: flex; flex-wrap: wrap; gap: 0 18px; }
+  .card .links a { display: inline-block; padding: 8px 0; margin: 0; }
+  .status { font-family: var(--mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted-2); margin: 0 0 8px; }
+  footer.foot { padding: 28px 0; margin-top: 0; }
+  .footlinks { font-size: .875rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 0 18px; }
+  .footlinks a { padding: 10px 0; }
+  section { padding: clamp(40px, 6vw, 64px) 0; }
+  main p { font-size: 1.0625rem; }
+  p.lead { font-size: 1.125rem; }
+  section.hero + section { border-top: 0; padding-top: 0; }
 </style>
 </head>
 <body>
@@ -201,7 +224,7 @@
     <h1>A software company built around one idea.</h1>
     <p class="lead">
       Most software today assumes your data belongs somewhere else — on a
-      server you don't control, tied to an account you can't close, held by
+      server you don’t control, tied to an account you can’t close, held by
       a company that can be breached, acquired, or shut down without your
       say. We started Aveneg Technologies, LLC to build the opposite:
       software that keeps sensitive, valuable records exactly where their
@@ -218,15 +241,15 @@
       A record of something valuable — a collection, its provenance, its
       appraisals — is worth protecting like the thing itself. Keeping that
       record in the cloud multiplies the ways it can be exposed: a
-      provider's breach, a subpoena served on a company instead of a
+      provider’s breach, a subpoena served on a company instead of a
       person, a service that quietly shuts down and takes years of entries
       with it. Offline software removes those risks by removing the
       server. There is no account to compromise and no copy sitting
-      anywhere but the owner's own device.
+      anywhere but the owner’s own device.
     </p>
     <p>
       Encryption is the other half of it. Watch Vault Archive encrypts its
-      data at rest by default, with a key only its owner holds. We can't
+      data at rest by default, with a key only its owner holds. We can’t
       read it, recover it, or hand it to anyone who asks — because we never
       have it in the first place.
     </p>
@@ -236,30 +259,18 @@
 <section>
   <div class="wrap">
     <p class="eyebrow">What we publish</p>
-    <h2>Two products, built to be the first of several.</h2>
-    <div class="card">
-      <h3>Watch Vault Archive&trade;</h3>
-      <p>
-        An encrypted, offline desktop application for cataloguing a watch
-        collection — appraisals, service history, provenance and
-        succession, held entirely on the owner's own computer. The same
-        architecture — private, encrypted, offline by design — is built to
-        serve other collector communities the same way, as they come.
-      </p>
-      <a class="btn" href="https://watchvaultarchive.com">watchvaultarchive.com →</a>
-    </div>
-
-    <div class="card">
-      <h3>Watch Vault Tracker</h3>
-      <p>
-        An iPhone app that records the watches a collector wears. Open it, tap
-        the photograph of the watch on your wrist, and the watch, the date
-        and the time are kept. We don't collect any information about your collection: your records and photographs stay on your phone. Free for watch collectors.
-        In development. Coming to iPhone, Winter 2027.
-      </p>
-      <a class="btn" href="https://watchvaulttracker.com">watchvaulttracker.com →</a>
-    </div>
-    <p style="margin-top: 20px;"><a href="/products/">All products →</a></p>
+    <h2>What we publish.</h2>
+    <p>
+      Watch Vault Archive records what a collector owns, and Watch Vault
+      Tracker records what a collector wears. Each has its own website, Terms
+      of Service and Privacy Policy, listed on the
+      <a href="/products/">Products</a> page.
+    </p>
+    <p>
+      The same architecture — private, encrypted, offline by design — is
+      built to serve other collector communities the same way, as they come.
+    </p>
+    <p style="margin-top: 20px;"><a class="btn" href="/products/">See all products →</a></p>
   </div>
 </section>
 

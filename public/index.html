@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Aveneg Technologies, LLC</title>
-<meta name="description" content="Aveneg Technologies, LLC builds private, offline software for people who keep a careful record of something valuable. Publisher of Watch Vault Archive and Watch Vault Tracker.">
+<title>Aveneg Technologies, LLC · Private, offline software for watch collectors</title>
+<meta name="description" content="Aveneg Technologies, LLC builds Watch Vault Archive and Watch Vault Tracker: private, offline software for watch collectors.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://avenegtechnologies.com/">
 <meta name="theme-color" content="#0E0F12">
@@ -15,14 +15,14 @@
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Aveneg Technologies">
-<meta property="og:title" content="Aveneg Technologies, LLC">
+<meta property="og:title" content="Aveneg Technologies, LLC · Private, offline software for watch collectors">
 <meta property="og:description" content="Private, offline software for people who keep a careful record of something valuable. Publisher of Watch Vault Archive and Watch Vault Tracker.">
 <meta property="og:url" content="https://avenegtechnologies.com/">
 <meta property="og:image" content="https://avenegtechnologies.com/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Aveneg Technologies, LLC">
+<meta name="twitter:title" content="Aveneg Technologies, LLC · Private, offline software for watch collectors">
 <meta name="twitter:description" content="Private, offline software for people who keep a careful record of something valuable. Publisher of Watch Vault Archive and Watch Vault Tracker.">
 <meta name="twitter:image" content="https://avenegtechnologies.com/og-image.png">
 
@@ -218,6 +218,30 @@
   .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 18px; }
   .footlinks a { color: var(--muted-2); display: inline-block; padding: 4px 0; }
   .footlinks a:hover { color: var(--brass); }
+
+  /* shared v2: one canonical layout across every page */
+  :root { --wrap: 780px; }
+  body { line-height: 1.55; }
+  header.top { padding: 16px 0; }
+  .brand-mark { width: 28px; height: 28px; }
+  .mark { font-size: 16px; font-weight: 600; letter-spacing: .04em; }
+  nav.nav { font-size: .875rem; gap: 2px 24px; }
+  nav.nav a { display: inline-block; padding: 8px 0; }
+  .eyebrow { font-size: 13px; margin: 0 0 14px; }
+  .card { padding: 28px 30px; margin-top: 0; }
+  .card + .card { margin-top: 16px; }
+  .card .card-title { margin: 0 0 10px; font-weight: 500; font-size: 1.25rem; line-height: 1.25; color: var(--text); text-transform: none; letter-spacing: 0; }
+  .card .links { display: flex; flex-wrap: wrap; gap: 0 18px; }
+  .card .links a { display: inline-block; padding: 8px 0; margin: 0; }
+  .status { font-family: var(--mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted-2); margin: 0 0 8px; }
+  footer.foot { padding: 28px 0; margin-top: 0; }
+  .footlinks { font-size: .875rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 0 18px; }
+  .footlinks a { padding: 10px 0; }
+  section { padding: clamp(40px, 6vw, 64px) 0; }
+  main p { font-size: 1.0625rem; }
+  p.lead { font-size: 1.125rem; }
+  section.hero + section { border-top: 0; padding-top: 0; }
+  @media (min-width: 1024px) { h1 { font-size: 3rem; } }
 </style>
 </head>
 <body>
@@ -248,10 +272,11 @@
     <p class="eyebrow">Private · <b>Offline by design</b></p>
     <h1>Your records never leave the room.</h1>
     <p class="lead">
-      Aveneg Technologies, LLC builds private, offline software for people
-      who keep a careful record of something valuable, held entirely on your
-      own computer or phone. No cloud, no account, and no company holding a
-      copy of what you own.
+      Aveneg Technologies, LLC builds private, offline software for watch
+      collectors: Watch Vault Archive for cataloging a collection, and Watch
+      Vault Tracker for recording what you wear. Your records are held
+      entirely on your own computer or phone. No cloud, no account, and no
+      company holding a copy of what you own.
     </p>
   </div>
 </section>
@@ -259,36 +284,37 @@
 <section>
   <div class="wrap">
     <p class="eyebrow">What we build</p>
-    <h2>Software for people who collect.</h2>
+    <h2>Two products for watch collectors.</h2>
     <p>
-      Watch Vault Archive records what a collector owns — encrypted,
-      offline, built around provenance and long-term record-keeping rather
-      than a feed. Watch Vault Tracker, in development, records what a
-      collector wears. The same architecture is built to serve other
-      collector communities the same way, as they come.
+      Watch Vault Archive records what a collector owns. It is encrypted,
+      offline, and built around provenance and long-term record-keeping.
+      Watch Vault Tracker, coming Winter 2027, will record what a collector
+      wears. The same architecture is built to serve other collector
+      communities the same way, as they come.
     </p>
 
     <div class="card">
-      <h3>Watch Vault Archive&trade;</h3>
+      <p class="status">In development · Winter 2027</p>
+      <h3 class="card-title">Watch Vault Archive&trade;</h3>
       <p>
-        An encrypted, offline desktop application for cataloguing a watch
+        An encrypted, offline desktop application for cataloging a watch
         collection — appraisals, service history, provenance and succession,
         held entirely on your own computer.
       </p>
-      <a class="btn" href="https://watchvaultarchive.com">watchvaultarchive.com →</a>
+      <a class="btn" href="https://watchvaultarchive.com">Visit watchvaultarchive.com →</a>
     </div>
 
     <div class="card">
-      <h3>Watch Vault Tracker</h3>
+      <p class="status">In development · Winter 2027</p>
+      <h3 class="card-title">Watch Vault Tracker</h3>
       <p>
-        An iPhone app that records the watches a collector wears. Open it, tap
-        the photograph of the watch on your wrist, and the watch, the date
-        and the time are kept. We don't collect any information about your collection: your records and photographs stay on your phone. Free for watch collectors.
-        In development. Coming to iPhone, Winter 2027.
+        An iPhone app that records the watches a collector wears. We don’t
+        collect any information about your collection: your records and
+        photographs stay on your phone. Free for watch collectors.
       </p>
-      <a class="btn" href="https://watchvaulttracker.com">watchvaulttracker.com →</a>
+      <a class="btn" href="https://watchvaulttracker.com">Visit watchvaulttracker.com →</a>
     </div>
-    <p style="margin-top: 20px;"><a href="/products/">All products →</a></p>
+    <p style="margin-top: 20px;"><a class="btn" href="/products/">All products →</a></p>
   </div>
 </section>
 
@@ -304,7 +330,7 @@
         <a href="mailto:info@avenegtechnologies.com">info@avenegtechnologies.com</a>
       </div>
     </div>
-    <p style="margin-top: 20px;"><a href="/contact/">Full contact details, including our business address →</a></p>
+    <p style="margin-top: 20px;"><a href="/contact/">Contact and business address →</a></p>
   </div>
 </section>
 </main>
@@ -312,6 +338,7 @@
 <footer class="foot">
   <div class="wrap">
     <p class="footlinks">
+      <a href="/">Home</a>
       <a href="/products/">Products</a>
       <a href="/about/">About</a>
       <a href="/contact/">Contact</a>

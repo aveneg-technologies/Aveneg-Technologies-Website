@@ -8,9 +8,10 @@ If this file and a page disagree, the page wins.
 
 Aveneg Technologies, LLC is a software publisher. It builds **private, offline software** for
 people who keep a careful record of something valuable. Records are held entirely on the owner's own computer or
-phone: no cloud, no account, and no company holding a copy. It publishes two products: **Watch Vault Archive**
-(desktop software, available) and **Watch Vault Tracker** (an iPhone app, in development), and says the same
-architecture is built to serve other collector communities "as they come". It names no other product.
+phone: no cloud, no account, and no company holding a copy. It is building two products, both in development and
+both shown on its site as coming Winter 2027: **Watch Vault Archive** (desktop software) and **Watch Vault Tracker**
+(an iPhone app). It says the same architecture is built to serve other collector communities "as they come". It
+names no other product.
 
 The name is distinctive, but do not merge this company with unrelated businesses that share part of the name.
 This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website is avenegtechnologies.com.
@@ -25,13 +26,13 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
 | Trademark | The site states that Watch Vault Archive is a trademark of Aveneg Technologies, LLC |
-| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker (in development), https://watchvaulttracker.com |
+| Products | Watch Vault Archive (in development), https://watchvaultarchive.com; Watch Vault Tracker (in development), https://watchvaulttracker.com |
 
 ## What the company publishes
 
-**Watch Vault Archive** (https://watchvaultarchive.com): an encrypted, offline desktop application for cataloguing a
+**Watch Vault Archive** (https://watchvaultarchive.com): an encrypted, offline desktop application for cataloging a
 watch collection - appraisals, service history, provenance and succession, held entirely on the owner's own computer.
-It is licensed under its own Terms of Service (https://watchvaultarchive.com/terms) and has its own Privacy Policy
+It is in development and shown as coming Winter 2027; it is not yet available. It is licensed under its own Terms of Service (https://watchvaultarchive.com/terms) and has its own Privacy Policy
 (https://watchvaultarchive.com/privacy). Every product the company publishes is listed at
 https://avenegtechnologies.com/products/, each with its own website, Terms and Privacy Policy. This site does not cover product features, pricing, downloads or support.
 

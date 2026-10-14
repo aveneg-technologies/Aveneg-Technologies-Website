@@ -98,6 +98,28 @@
   .footlinks { font-family: var(--mono); font-size: .8125rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 18px; }
   .footlinks a { color: var(--muted-2); display: inline-block; padding: 4px 0; }
   .footlinks a:hover { color: var(--brass); }
+
+  /* shared v2: one canonical layout across every page */
+  :root { --wrap: 780px; }
+  body { line-height: 1.55; }
+  header.top { padding: 16px 0; }
+  .brand-mark { width: 28px; height: 28px; }
+  .mark { font-size: 16px; font-weight: 600; letter-spacing: .04em; }
+  nav.nav { font-size: .875rem; gap: 2px 24px; }
+  nav.nav a { display: inline-block; padding: 8px 0; }
+  .eyebrow { font-size: 13px; margin: 0 0 14px; }
+  .card { padding: 28px 30px; margin-top: 0; }
+  .card + .card { margin-top: 16px; }
+  .card .card-title { margin: 0 0 10px; font-weight: 500; font-size: 1.25rem; line-height: 1.25; color: var(--text); text-transform: none; letter-spacing: 0; }
+  .card .links { display: flex; flex-wrap: wrap; gap: 0 18px; }
+  .card .links a { display: inline-block; padding: 8px 0; margin: 0; }
+  .status { font-family: var(--mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted-2); margin: 0 0 8px; }
+  footer.foot { padding: 28px 0; margin-top: 0; }
+  .footlinks { font-size: .875rem; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 0 18px; }
+  .footlinks a { padding: 10px 0; }
+  .code { font-family: var(--mono); font-size: 5rem; line-height: 1; color: var(--brass); margin: 0 0 12px; }
+  .btn.primary { background: var(--brass); border-color: var(--brass); color: #14110A; }
+  .btn.primary:hover { background: #d4b068; color: #14110A; }
 </style>
 </head>
 <body>
@@ -123,16 +145,16 @@
 
 <main id="main">
   <div class="wrap">
-    <p class="eyebrow">Error <b>404</b></p>
+    <p class="code" aria-hidden="true">404</p>
+    <p class="eyebrow">Page not found</p>
     <h1>This page isn&rsquo;t here.</h1>
     <p class="lead">
-      The address you followed doesn&rsquo;t match anything on this site. It
-      may have been moved, or the link may have been cut short on its way to
-      you.
+      The address you followed doesn&rsquo;t match any page on this site.
+      The page may have moved, or the link may be incomplete.
     </p>
 
     <p class="btn-row">
-      <a class="btn" href="/">Home</a>
+      <a class="btn primary" href="/">Home</a>
       <a class="btn" href="/products/">Products</a>
       <a class="btn" href="/about/">About</a>
       <a class="btn" href="/contact/">Contact</a>

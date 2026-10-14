@@ -450,7 +450,7 @@ svg {
 .footnote {
   max-width: 46rem;
   margin: var(--s-5) 0 0;
-  font-size: var(--fs-small);
+  font-size: var(--fs-fact);
   color: var(--prose);
 }
 

@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC
 
-> Software publisher building private, encrypted, offline desktop software for people who keep a careful record of something valuable. Its first and only product is Watch Vault Archive, an offline desktop application for cataloguing a watch collection. Records stay on the owner's own computer: no cloud, no account. This site is the company's corporate site; the product has its own site. Contact is by email only; there is no contact form and no phone number.
+> Software publisher building private, offline software for people who keep a careful record of something valuable. It publishes two products: Watch Vault Archive, an encrypted, offline desktop application for cataloguing a watch collection, and Watch Vault Tracker, an iPhone app in development that records the watches a collector wears and is free for watch collectors. Records stay on the owner's own computer or phone: no cloud, no account. This site is the company's corporate site; each product has its own site. Contact is by email only; there is no contact form and no phone number.
 
 - Address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350, United States
 - Commercial licensing and legal: legal@avenegtechnologies.com
@@ -23,6 +23,9 @@
 - [Watch Vault Archive](https://watchvaultarchive.com): the company's encrypted, offline watch-collection application, on its own site
 - [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms): the terms that govern the application
 - [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy): how the application handles data
+- [Watch Vault Tracker](https://watchvaulttracker.com): an iPhone app, in development and coming Winter 2027, that records the watches a collector wears; free for watch collectors, on its own site
+- [Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms): the terms published for the Tracker's website; the app's own terms are promised before release
+- [Watch Vault Tracker Privacy Policy](https://watchvaulttracker.com/privacy): how the Tracker's website and app handle data
 
 ## Optional
 

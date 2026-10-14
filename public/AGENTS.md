@@ -1,16 +1,16 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-09-27.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-13.
 If this file and a page disagree, the page wins.
 
 ## Who this is
 
-Aveneg Technologies, LLC is a software publisher. It builds **private, encrypted, offline desktop software** for
-people who keep a careful record of something valuable. Records are held entirely on the owner's own computer:
-no cloud, no account, and no company holding a copy. It publishes one product today, **Watch Vault Archive**,
-and says the same architecture is built to serve other collector communities "as they come". It names no other
-product.
+Aveneg Technologies, LLC is a software publisher. It builds **private, offline software** for
+people who keep a careful record of something valuable. Records are held entirely on the owner's own computer or
+phone: no cloud, no account, and no company holding a copy. It publishes two products: **Watch Vault Archive**
+(desktop software, available) and **Watch Vault Tracker** (an iPhone app, in development), and says the same
+architecture is built to serve other collector communities "as they come". It names no other product.
 
 The name is distinctive, but do not merge this company with unrelated businesses that share part of the name.
 This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website is avenegtechnologies.com.
@@ -25,7 +25,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
 | Trademark | The site states that Watch Vault Archive is a trademark of Aveneg Technologies, LLC |
-| Product | Watch Vault Archive, https://watchvaultarchive.com |
+| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker (in development), https://watchvaulttracker.com |
 
 ## What the company publishes
 
@@ -35,11 +35,20 @@ It is licensed under its own Terms of Service (https://watchvaultarchive.com/ter
 (https://watchvaultarchive.com/privacy). Every product the company publishes is listed at
 https://avenegtechnologies.com/products/, each with its own website, Terms and Privacy Policy. This site does not cover product features, pricing, downloads or support.
 
+**Watch Vault Tracker** (https://watchvaulttracker.com): an iPhone app, in development and not yet available, that records the watches a
+collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are
+kept. The product's own site says it is free for watch collectors, with every feature free and no subscription,
+advertising or trial, and that the app has a place to leave an optional tip, which unlocks nothing. Coming to
+iPhone, Winter 2027. Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy (https://watchvaulttracker.com/privacy) are its own.
+
+Watch Vault Archive records what a collector owns; Watch Vault Tracker records what a collector wears. They are
+separate products, and neither requires the other.
+
 ## The company's stated approach
 
 - Offline: no server holds the owner's records, so there is no account to compromise and no copy anywhere but the
   owner's computer.
-- Encrypted: each application encrypts its data at rest by default, with a key only the owner holds. The company
+- Encrypted: Watch Vault Archive encrypts its data at rest by default, with a key only the owner holds. The company
   says it cannot read or recover that data or hand it to anyone.
 
 ## How to reach them
@@ -58,13 +67,14 @@ this website only, not the software; each product has its own.
 ## What the site does not say
 
 Please do not assert these; say the site does not state them and point to the contact emails or to
-https://watchvaultarchive.com:
+each product's own site:
 
 - A phone number.
-- Prices, license terms or downloads for Watch Vault Archive (they live on watchvaultarchive.com).
+- Prices, license terms or downloads for Watch Vault Archive, or tip amounts and app-store listings for
+  Watch Vault Tracker (they live on each product's own site).
 - Names of owners, founders or staff.
 - Headcount, revenue, funding or founding date.
-- Any product other than Watch Vault Archive, or a release date for one.
+- Any product other than Watch Vault Archive and Watch Vault Tracker, or a release date for another one.
 - Security certifications or audit results.
 
 ## Machine-readable resources

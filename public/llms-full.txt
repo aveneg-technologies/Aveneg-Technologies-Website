@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves on 2026-09-27. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves on 2026-10-13. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -10,19 +10,25 @@ _Private · Encrypted · Offline by design_
 
 # Your records never leave the room.
 
-Aveneg Technologies, LLC builds private, encrypted desktop software for people who keep a careful record of something valuable, held entirely on your own computer. No cloud, no account, and no company holding a copy of what you own.
+Aveneg Technologies, LLC builds private, offline software for people who keep a careful record of something valuable, held entirely on your own computer or phone. No cloud, no account, and no company holding a copy of what you own.
 
 _What we build_
 
 ## Software for people who collect.
 
-Watch Vault Archive is the first — encrypted, offline, built around provenance and long-term record-keeping rather than a feed. The same architecture is built to serve other collector communities the same way, as they come.
+Watch Vault Archive records what a collector owns — encrypted, offline, built around provenance and long-term record-keeping rather than a feed. Watch Vault Tracker, in development, records what a collector wears. The same architecture is built to serve other collector communities the same way, as they come.
 
 ### Watch Vault Archive™
 
 An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.
 
 [watchvaultarchive.com →](https://watchvaultarchive.com)
+
+### Watch Vault Tracker
+
+An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Free for watch collectors. In development. Coming to iPhone, Winter 2027.
+
+[watchvaulttracker.com →](https://watchvaulttracker.com)
 
 [All products →](https://avenegtechnologies.com/products/)
 
@@ -44,7 +50,7 @@ _Products_
 
 # What we publish.
 
-Every product is a separate application with its own website, its own Terms of Service and its own Privacy Policy. All are published by Aveneg Technologies, LLC, and all are built the same way: private, encrypted, offline by design.
+Every product is a separate application with its own website, its own Terms of Service and its own Privacy Policy. All are published by Aveneg Technologies, LLC, and both are private and offline by design, keeping your records on your own device.
 
 ## Watch Vault Archive™
 
@@ -53,6 +59,18 @@ An encrypted, offline desktop application for cataloguing a watch collection —
 [watchvaultarchive.com →](https://watchvaultarchive.com)
 
 [Terms of Service](https://watchvaultarchive.com/terms) [Privacy Policy](https://watchvaultarchive.com/privacy)
+
+## Watch Vault Tracker
+
+An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept.
+
+Free for watch collectors: every feature is free, with no subscription, no advertising and no trial. There is a place to leave an optional tip; a tip unlocks nothing. In development. Coming to iPhone, Winter 2027.
+
+[watchvaulttracker.com →](https://watchvaulttracker.com)
+
+[Terms of Service](https://watchvaulttracker.com/terms) [Privacy Policy](https://watchvaulttracker.com/privacy)
+
+Watch Vault Archive records what a collector owns; Watch Vault Tracker records what a collector wears. They are separate products, and neither requires the other.
 
 Each product is licensed, and handles data, under its own documents, because those can differ from one product to the next. This site’s own [Terms](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
 
@@ -72,17 +90,23 @@ _Philosophy_
 
 A record of something valuable — a collection, its provenance, its appraisals — is worth protecting like the thing itself. Keeping that record in the cloud multiplies the ways it can be exposed: a provider's breach, a subpoena served on a company instead of a person, a service that quietly shuts down and takes years of entries with it. Offline software removes those risks by removing the server. There is no account to compromise and no copy sitting anywhere but the owner's own computer.
 
-Encryption is the other half of it. Every application we build encrypts its data at rest by default, with a key only its owner holds. We can't read it, recover it, or hand it to anyone who asks — because we never have it in the first place.
+Encryption is the other half of it. Watch Vault Archive encrypts its data at rest by default, with a key only its owner holds. We can't read it, recover it, or hand it to anyone who asks — because we never have it in the first place.
 
 _What we publish_
 
-## One product, built to be the first of several.
+## Two products, built to be the first of several.
 
 ### Watch Vault Archive™
 
 An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on the owner's own computer. The same architecture — private, encrypted, offline by design — is built to serve other collector communities the same way, as they come.
 
 [watchvaultarchive.com →](https://watchvaultarchive.com)
+
+### Watch Vault Tracker
+
+An iPhone app that records the watches a collector wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Free for watch collectors. In development. Coming to iPhone, Winter 2027.
+
+[watchvaulttracker.com →](https://watchvaulttracker.com)
 
 [All products →](https://avenegtechnologies.com/products/)
 

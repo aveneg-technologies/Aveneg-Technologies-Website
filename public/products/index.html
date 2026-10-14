@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Products · Aveneg Technologies, LLC</title>
-<meta name="description" content="Software published by Aveneg Technologies, LLC: private, encrypted, offline desktop applications, each with its own website, Terms of Service and Privacy Policy.">
+<meta name="description" content="Software published by Aveneg Technologies, LLC: private, offline applications, each with its own website, Terms of Service and Privacy Policy.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://avenegtechnologies.com/products/">
 <meta name="theme-color" content="#0E0F12">
@@ -16,14 +16,14 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Aveneg Technologies">
 <meta property="og:title" content="Products · Aveneg Technologies, LLC">
-<meta property="og:description" content="Private, encrypted, offline desktop applications, each with its own Terms of Service and Privacy Policy.">
+<meta property="og:description" content="Private, offline applications, each with its own Terms of Service and Privacy Policy.">
 <meta property="og:url" content="https://avenegtechnologies.com/products/">
 <meta property="og:image" content="https://avenegtechnologies.com/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Products · Aveneg Technologies, LLC">
-<meta name="twitter:description" content="Private, encrypted, offline desktop applications, each with its own Terms of Service and Privacy Policy.">
+<meta name="twitter:description" content="Private, offline applications, each with its own Terms of Service and Privacy Policy.">
 <meta name="twitter:image" content="https://avenegtechnologies.com/og-image.png">
 
 <script type="application/ld+json">
@@ -35,8 +35,8 @@
       "@id": "https://avenegtechnologies.com/products/#page",
       "url": "https://avenegtechnologies.com/products/",
       "name": "Products · Aveneg Technologies, LLC",
-      "description": "Software published by Aveneg Technologies, LLC: private, encrypted, offline desktop applications, each with its own website, Terms of Service and Privacy Policy.",
-      "dateModified": "2026-09-20",
+      "description": "Software published by Aveneg Technologies, LLC: private, offline applications, each with its own website, Terms of Service and Privacy Policy.",
+      "dateModified": "2026-10-13",
       "inLanguage": "en",
       "isPartOf": {
         "@id": "https://avenegtechnologies.com/#site"
@@ -44,9 +44,14 @@
       "about": {
         "@id": "https://avenegtechnologies.com/#org"
       },
-      "mainEntity": {
-        "@id": "https://avenegtechnologies.com/products/#watch-vault-archive"
-      }
+      "mainEntity": [
+        {
+          "@id": "https://avenegtechnologies.com/products/#watch-vault-archive"
+        },
+        {
+          "@id": "https://avenegtechnologies.com/products/#watch-vault-tracker"
+        }
+      ]
     },
     {
       "@type": "SoftwareApplication",
@@ -54,6 +59,16 @@
       "name": "Watch Vault Archive",
       "url": "https://watchvaultarchive.com",
       "description": "An encrypted, offline desktop application for cataloguing a watch collection — appraisals, service history, provenance and succession, held entirely on your own computer.",
+      "publisher": {
+        "@id": "https://avenegtechnologies.com/#org"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://avenegtechnologies.com/products/#watch-vault-tracker",
+      "name": "Watch Vault Tracker",
+      "url": "https://watchvaulttracker.com",
+      "description": "An iPhone app that records the watches a collector wears: open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Free for watch collectors. In development. Coming to iPhone, Winter 2027.",
       "publisher": {
         "@id": "https://avenegtechnologies.com/#org"
       }
@@ -167,6 +182,8 @@
   .card .links { font-family: var(--mono); font-size: .8125rem; margin: 16px 0 0; display: flex; flex-wrap: wrap; gap: 4px 18px; }
   .card .links a { display: inline-block; padding: 4px 0; }
 
+  .card + .card { margin-top: 16px; }
+
   .btn {
     display: inline-flex;
     align-items: center;
@@ -226,8 +243,8 @@
     <p class="lead">
       Every product is a separate application with its own website, its own
       Terms of Service and its own Privacy Policy. All are published by
-      Aveneg Technologies, LLC, and all are built the same way: private,
-      encrypted, offline by design.
+      Aveneg Technologies, LLC, and both are private and offline by design,
+      keeping your records on your own device.
     </p>
   </div>
 </section>
@@ -247,7 +264,32 @@
         <a href="https://watchvaultarchive.com/privacy">Privacy Policy</a>
       </p>
     </div>
+
+    <div class="card">
+      <h2>Watch Vault Tracker</h2>
+      <p>
+        An iPhone app that records the watches a collector wears. Open it, tap
+        the photograph of the watch on your wrist, and the watch, the date
+        and the time are kept.
+      </p>
+      <p>
+        Free for watch collectors: every feature is free, with no
+        subscription, no advertising and no trial. There is a place to
+        leave an optional tip; a tip unlocks nothing. In development.
+        Coming to iPhone, Winter 2027.
+      </p>
+      <a class="btn" href="https://watchvaulttracker.com">watchvaulttracker.com &rarr;</a>
+      <p class="links">
+        <a href="https://watchvaulttracker.com/terms">Terms of Service</a>
+        <a href="https://watchvaulttracker.com/privacy">Privacy Policy</a>
+      </p>
+    </div>
     <p style="margin-top: 24px;">
+      Watch Vault Archive records what a collector owns; Watch Vault Tracker
+      records what a collector wears. They are separate products, and
+      neither requires the other.
+    </p>
+    <p style="margin-top: 16px;">
       Each product is licensed, and handles data, under its own documents,
       because those can differ from one product to the next. This
       site&rsquo;s own <a href="/terms/">Terms</a> and

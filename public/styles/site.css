@@ -1401,12 +1401,13 @@ svg {
 }
 
 
-/* 4.15 Legal documents: one 720 column of prose. The text of these pages is
-        never touched for styling, so its plain elements are styled here
-        through .doc (the one place this stylesheet uses element selectors). */
+/* 4.15 Legal documents: one column of prose, 36rem of text (about 75
+        characters a line at 18px, the guide's ceiling). The text of these
+        pages is never touched for styling, so its plain elements are styled
+        here through .doc (the one place this stylesheet uses element selectors). */
 
 .doc {
-  max-width: 45rem;
+  max-width: calc(36rem + 2 * var(--gutter));
   margin-inline: auto;
   padding: clamp(3rem, 2rem + 5vw, 4.75rem) var(--gutter) var(--section);
 }

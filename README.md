@@ -39,7 +39,10 @@ When a fact about the company or a product changes, change it in the page **and*
 - `public/og-image.png` is rendered from `tools/og-image.html` (the command is at the top of that file).
 - `public/img/watch-vault-archive.webp` is the Archive's own published product image, unmodified.
   The Home page shows list rows four to six of it (see the note in section 4.7 of the stylesheet).
-- `public/img/watch-vault-tracker.webp` is the Tracker site's phone illustration, captured at 2x.
+- `public/img/watch-vault-tracker.webp` is the Tracker site's hero phone (its Today screen),
+  captured whole at 2x (680 x 1427) from that site's own build. Re-take it when their hero
+  phone changes; its corner is 56px on a 340 x 713 phone, which is the `16.5% / 7.85%` radius
+  in the stylesheet.
 - `public/img/watch-vault-tracker-lockup.svg` is the Tracker's lockup artwork: replace the file
   from the Tracker's own artwork, never redraw a shape.
 

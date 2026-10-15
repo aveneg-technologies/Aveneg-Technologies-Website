@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-13. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-14. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -10,7 +10,7 @@ _Privacy first, on your own devices, no copy held_
 
 # Your records never leave the room.
 
-Aveneg Technologies makes software for watch collectors. Watch Vault Archive and Watch Vault Tracker keep your records on your own computer or phone.
+Aveneg Technologies makes software for watch collectors. Watch Vault Archive and Watch Vault Tracker keep your records on your own computer, iPhone or iPad.
 
 [See the products](https://avenegtechnologies.com/products/) [About the company](https://avenegtechnologies.com/about/)
 
@@ -46,7 +46,7 @@ Records the watches a collector wears.
 
 Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Every feature is free for watch collectors: no subscription, no advertising, no trial.
 
-- For: iPhone
+- For: iPhone and iPad
 
 [Visit watchvaulttracker.com](https://watchvaulttracker.com)
 
@@ -60,7 +60,7 @@ Where your records are, product by product.
 
 | Question | Watch Vault Archive | Watch Vault Tracker |
 |---|---|---|
-| Records kept | On your own computer | On your phone |
+| Records kept | On your own computer | On your iPhone or iPad |
 | Account with us | None | None |
 | Copy held by Aveneg | None | None |
 | In addition | Encrypted at rest, with a key only you hold. | We don’t collect any information about your collection. |
@@ -112,13 +112,13 @@ Illustrative data, not a real collection.
 
 _In development, coming Winter 2027_
 
-Watch Vault Tracker is an iPhone app that records the watches a collector wears.
+Watch Vault Tracker is an iPhone and iPad app that records the watches a collector wears.
 
-Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs stay on your phone. Every feature is free, with no subscription, no advertising and no trial; there is a place to leave an optional tip, and a tip unlocks nothing.
+Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs are kept on your iPhone or iPad. Every feature is free, with no subscription, no advertising and no trial; there is a place to leave an optional tip, and a tip unlocks nothing.
 
-- For: iPhone
+- For: iPhone and iPad
 - Records: Each watch worn, with its date and time
-- Kept: On your phone
+- Kept: On your iPhone or iPad
 - Privacy: No account with us. No copy held by Aveneg.
 - Cost: Free for watch collectors
 

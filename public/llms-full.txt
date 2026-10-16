@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-14. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-15. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -36,7 +36,7 @@ Desktop software for a collection’s appraisals, service history, provenance an
 
 ### Watch Vault Tracker
 
-_In development, coming Winter 2027_
+_In development, coming Early 2027_
 
 The Watch Vault Tracker Today screen on an iPhone: a grid of drawn watches under the line “Tap the watch you’re wearing”, with the first watch ticked.
 
@@ -110,7 +110,7 @@ Illustrative data, not a real collection.
 
 ## Watch Vault Tracker
 
-_In development, coming Winter 2027_
+_In development, coming Early 2027_
 
 Watch Vault Tracker is an iPhone and iPad app that records the watches a collector wears.
 

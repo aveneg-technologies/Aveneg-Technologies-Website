@@ -29,8 +29,7 @@ When a fact about the company or a product changes, change it in the page **and*
 ## Rules the copy follows
 
 - The company is privacy first. "Encrypted" is said only of Watch Vault Archive.
-- Both products are in development: Watch Vault Tracker coming Early 2027, Watch Vault Archive
-  Winter 2027. Neither is available.
+- Both products are in development, coming Early 2027. Neither is available.
 - No personal names, no phone number, no price, no tip amounts.
 - The legal text on Terms and Privacy is changed only on purpose, with its "Last updated" date.
 

@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-16. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-18. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -20,7 +20,7 @@ _What we publish_
 
 ### Watch Vault Archive™
 
-_In development, coming Winter 2027_
+_In development, coming Early 2027_
 
 Part of the Watch Vault Archive watch list: three watches, each shown with a photograph, its maker and its model.
 
@@ -89,7 +89,7 @@ Aveneg Technologies is building two products for watch collectors. They are sepa
 
 ## Watch Vault Archive™
 
-_In development, coming Winter 2027_
+_In development, coming Early 2027_
 
 Watch Vault Archive is desktop software that documents what a collector owns.
 

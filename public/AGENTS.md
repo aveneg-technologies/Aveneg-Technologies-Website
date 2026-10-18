@@ -1,14 +1,14 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-16.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-18.
 If this file and a page disagree, the page wins.
 
 ## Who this is
 
 Aveneg Technologies, LLC is a privacy-first software publisher. Its products keep a collector's records on the
 collector's own computer, iPhone or iPad, and the company holds no copy. It is building two products for watch
-collectors, both in development and coming in 2027: Watch Vault Archive, encrypted desktop software for Mac and
+collectors, both in development, coming Early 2027: Watch Vault Archive, encrypted desktop software for Mac and
 Windows that documents what a collector owns, and Watch Vault Tracker, an app for iPhone, iPad and Mac, free for watch collectors,
 that records the watches a collector wears. Neither has been released, and neither requires the other. It names
 no other product.
@@ -28,14 +28,14 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
 | Trademark | The site states that Watch Vault Archive is a trademark of Aveneg Technologies, LLC |
-| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com. Both in development: the Tracker coming Early 2027, the Archive Winter 2027 |
+| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com. Both in development, coming Early 2027 |
 
 ## What the company is building
 
 **Watch Vault Archive** (https://watchvaultarchive.com): desktop software for Mac and Windows that documents what
 a collector owns: appraisals, service history, provenance and succession. Its records are encrypted at rest with
 a key only their owner holds, the software works offline, and the records are held on the owner's own computer.
-The company says it cannot read, recover or hand over that data. In development, coming Winter 2027; not
+The company says it cannot read, recover or hand over that data. In development, coming Early 2027; not
 released. Its Terms of Service (https://watchvaultarchive.com/terms) and Privacy Policy
 (https://watchvaultarchive.com/privacy) are on its own site.
 
@@ -84,7 +84,7 @@ product's own site:
 - A phone number.
 - A price for Watch Vault Archive, or tip amounts for Watch Vault Tracker.
 - Where or how either product can be obtained: neither has been released.
-- Any release date more exact than "Early 2027" (Watch Vault Tracker) or "Winter 2027" (Watch Vault Archive).
+- Any release date more exact than "Early 2027".
 - Any platform beyond Mac and Windows (Archive) and iPhone, iPad and Mac (Tracker; on a Mac with Apple silicon
   it runs as the iPad app, with no features of its own). Neither product is for Android.
 - Whether Watch Vault Tracker encrypts its records.

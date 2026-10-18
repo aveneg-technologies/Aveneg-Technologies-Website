@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC
 
-> Aveneg Technologies, LLC is a privacy-first software publisher. It is building two products for watch collectors, both in development and coming in 2027 (Watch Vault Tracker Early 2027, Watch Vault Archive Winter 2027); neither has been released. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline. Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears; it is free for watch collectors. Each keeps its records on the owner's own device, and the company holds no copy. Contact is by email only.
+> Aveneg Technologies, LLC is a privacy-first software publisher. It is building two products for watch collectors, both in development, coming Early 2027; neither has been released. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline. Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears; it is free for watch collectors. Each keeps its records on the owner's own device, and the company holds no copy. Contact is by email only.
 
 - Address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350, United States
 - Commercial licensing and legal: legal@avenegtechnologies.com
@@ -20,7 +20,7 @@
 
 ## Products
 
-- [Watch Vault Archive](https://watchvaultarchive.com): encrypted, offline desktop software for Mac and Windows that documents what a collector owns; in development, coming Winter 2027; on its own site
+- [Watch Vault Archive](https://watchvaultarchive.com): encrypted, offline desktop software for Mac and Windows that documents what a collector owns; in development, coming Early 2027; on its own site
 - [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms): the terms published on the Archive's own site
 - [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy): how the Archive handles data
 - [Watch Vault Tracker](https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector wears; free for watch collectors; in development, coming Early 2027; on its own site

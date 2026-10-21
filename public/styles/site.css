@@ -1475,13 +1475,12 @@ svg {
   color: var(--brass);
 }
 
+/* A callout, as the family builds it (guide section 10): no box, a 3px rule
+   down the left, 24px between the rule and the text. */
 .note {
   margin: var(--s-6) 0;
-  padding: var(--s-5);
-  border: 1px solid var(--line-2);
-  border-left: 2px solid var(--brass);
-  border-radius: var(--radius);
-  background: var(--surface);
+  padding: var(--s-1) 0 var(--s-1) var(--s-5);
+  border-left: 3px solid var(--brass);
 }
 
 .doc .note p {

@@ -31,6 +31,11 @@ When a fact about the company or a product changes, change it in the page **and*
 - The company is privacy first. "Encrypted" is said only of Watch Vault Archive.
 - Both products are in development, coming Early 2027. Neither is available.
 - No personal names, no phone number, no price, no tip amounts.
+- Trademark (Brad, 2026-10-23): the brand is "Watch Vault"; the TM goes after "Vault", never
+  after the product name ("Watch Vault™ Archive"). In the lockups, a superscript TM after
+  VAULT and nothing after ARCHIVE or TRACKER. In running text only the first prominent
+  mention of each product on a page carries it. ™ only, never ®. No trademark sentence
+  anywhere. Aveneg Technologies' own name and logo carry no mark.
 - The legal text on Terms and Privacy is changed only on purpose, with its "Last updated" date.
 
 ## Pictures and ornament
@@ -57,11 +62,6 @@ When a fact about the company or a product changes, change it in the page **and*
   captured whole at 2x (680 x 1427) from that site's own build. Re-take it when their hero
   phone changes; its corner is 56px on a 340 x 713 phone, which is the `16.5% / 7.85%` radius
   in the stylesheet.
-- `public/img/watch-vault-tracker-lockup.svg` is the Tracker's lockup artwork: replace the file
-  from the Tracker's own artwork, never redraw a shape.
-
-## Security header
-
-`public/_headers` sends a Content-Security-Policy that allows only this site's own stylesheet
-and images, plus Cloudflare's Web Analytics script. Inline `style=""` attributes and `<style>`
-blocks are blocked by it, so keep all styling in `site.css`.
+- `src/partials/lockup-tracker.html` is the Tracker's lockup artwork, copied from the Tracker
+  site's own page (its TM included); its colours come from the stylesheet (`.lk-*`). Replace
+  it from the Tracker's page when theirs changes; never redraw a shape.

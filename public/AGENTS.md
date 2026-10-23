@@ -1,7 +1,7 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-18.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-23.
 If this file and a page disagree, the page wins.
 
 ## Who this is
@@ -27,7 +27,6 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | Licensing, partnerships and legal | legal@avenegtechnologies.com |
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
-| Trademark | The site states that Watch Vault Archive is a trademark of Aveneg Technologies, LLC |
 | Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com. Both in development, coming Early 2027 |
 
 ## What the company is building

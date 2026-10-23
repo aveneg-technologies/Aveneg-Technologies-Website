@@ -241,6 +241,48 @@ svg {
   color: var(--muted);
 }
 
+/* The trademark goes after "Vault" and only there: a superscript TM in the
+   text colour, about half the wordmark's cap height, weight 500, no tracking. */
+.lockup-tm {
+  margin-left: 0.1em;
+  font-family: var(--sans);
+  font-size: 0.5em;
+  font-weight: 500;
+  letter-spacing: 0;
+  vertical-align: top;
+  color: var(--text);
+}
+
+/* The Tracker lockup is the Tracker site's own artwork (src/partials/lockup-tracker.html). */
+.lockup-tracker {
+  aspect-ratio: 716 / 142;
+}
+
+.lk-ring {
+  fill: none;
+  stroke: var(--brass);
+}
+
+.lk-brass {
+  fill: var(--brass);
+}
+
+.lk-word {
+  fill: var(--lockup);
+}
+
+.lk-sub {
+  fill: var(--muted);
+}
+
+.lk-tm {
+  fill: var(--text);
+  font-family: var(--sans);
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
 .lockup-art {
   width: auto;
   height: 2.5rem;

@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-18. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-23. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -10,7 +10,7 @@ _Privacy first, on your own devices, no copy held_
 
 # Your records never leave the room.
 
-Aveneg Technologies makes software for watch collectors. Watch Vault Archive and Watch Vault Tracker keep your records on your own computer, iPhone or iPad.
+Aveneg Technologies makes software for watch collectors. Watch Vault™ Archive and Watch Vault™ Tracker keep your records on your own computer, iPhone or iPad.
 
 [See the products](https://avenegtechnologies.com/products/) [About the company](https://avenegtechnologies.com/about/)
 
@@ -18,7 +18,7 @@ _What we publish_
 
 ## Two products, each with its own site.
 
-### Watch Vault Archive™
+### Watch Vault Archive
 
 _In development, coming Early 2027_
 
@@ -87,7 +87,7 @@ _Products_
 
 Aveneg Technologies is building two products for watch collectors. They are separate products, and neither requires the other.
 
-## Watch Vault Archive™
+## Watch Vault Archive
 
 _In development, coming Early 2027_
 
@@ -148,7 +148,7 @@ A record of something valuable is worth protecting like the thing itself. Held o
 
 ## How we build
 
-Privacy comes first. In every product the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection.
+Privacy comes first. In every product the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault™ Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault™ Tracker, the company collects no information about a collection.
 
 ## What we publish
 
@@ -198,7 +198,6 @@ Atlanta, GA 30350
 United States
 
 - Registration: Georgia Control No. 26193384
-- Trademark: Watch Vault Archive is a trademark of Aveneg Technologies, LLC.
 
 ---
 

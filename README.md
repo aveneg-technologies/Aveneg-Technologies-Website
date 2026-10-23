@@ -33,8 +33,8 @@ When a fact about the company or a product changes, change it in the page **and*
 - No personal names, no phone number, no price, no tip amounts.
 - Trademark (Brad, 2026-10-23): the brand is "Watch Vault"; the TM goes after "Vault", never
   after the product name ("Watch Vault™ Archive"). In the lockups, a superscript TM after
-  VAULT and nothing after ARCHIVE or TRACKER. In running text only the first prominent
-  mention of each product on a page carries it. ™ only, never ®. No trademark sentence
+  VAULT and nothing after ARCHIVE or TRACKER. "Logo only" (Brad, 2026-10-23): running text
+  never carries it, first mentions included. ™ only, never ®. No trademark sentence
   anywhere. Aveneg Technologies' own name and logo carry no mark.
 - The legal text on Terms and Privacy is changed only on purpose, with its "Last updated" date.
 

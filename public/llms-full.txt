@@ -54,9 +54,9 @@ Open it, tap the photograph of the watch on your wrist, and the watch, the date 
 
 _Coming soon_
 
-The Watch Vault Media Settings screen on an iPhone: appearance, text size, the sources switched on, and optional tips.
+The Watch Vault Media Latest screen on an iPhone: topic buttons along the top, then today’s stories, newest first, each with its publisher’s picture, headline and short summary.
 
-A screenshot of the app’s Settings.
+A screenshot. Stories and pictures belong to their publishers.
 
 Gathers the watch news a collector reads.
 
@@ -164,9 +164,9 @@ It gathers the latest stories and videos from sites and channels chosen for watc
 
 [Watch Vault Media Terms of Service](https://watchvaultmedia.com/terms) [Watch Vault Media Privacy Policy](https://watchvaultmedia.com/privacy)
 
-The Watch Vault Media Settings screen on an iPhone: appearance, text size, the sources switched on, and optional tips.
+The Watch Vault Media Latest screen on an iPhone: topic buttons along the top, then today’s stories, newest first, each with its publisher’s picture, headline and short summary.
 
-A screenshot of the app’s Settings.
+A screenshot. Stories and pictures belong to their publishers.
 
 Each product is licensed under its own documents, published on its own site, and those documents can differ from one product to the next. This website’s own [Terms of Service](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
 

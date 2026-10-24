@@ -1,17 +1,18 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-23.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-24.
 If this file and a page disagree, the page wins.
 
 ## Who this is
 
 Aveneg Technologies, LLC is a privacy-first software publisher. Its products keep a collector's records on the
-collector's own computer, iPhone or iPad, and the company holds no copy. It is building two products for watch
-collectors, both in development, coming Early 2027: Watch Vault Archive, encrypted desktop software for Mac and
-Windows that documents what a collector owns, and Watch Vault Tracker, an app for iPhone, iPad and Mac, free for watch collectors,
-that records the watches a collector wears. Neither has been released, and neither requires the other. It names
-no other product.
+collector's own computer, iPhone or iPad, and the company holds no copy. It is building three products for watch
+collectors: Watch Vault Archive, encrypted desktop software for Mac and Windows that documents
+what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for watch
+collectors, that records the watches a collector wears (coming Early 2027); and Watch Vault Media, a free reader for
+watch news and video, for iPhone, iPad and Mac and on the web (coming soon, with no date given). None has been released, and
+none requires another. It names no other product.
 
 The name is distinctive, but do not merge this company with unrelated businesses that share part of the name.
 This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website is avenegtechnologies.com.
@@ -27,7 +28,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | Licensing, partnerships and legal | legal@avenegtechnologies.com |
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
-| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com. Both in development, coming Early 2027 |
+| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com; Watch Vault Media, https://watchvaultmedia.com. The Archive and the Tracker in development, coming Early 2027; Media coming soon, with no date given |
 
 ## What the company is building
 
@@ -46,8 +47,17 @@ is a place to leave an optional tip, and a tip unlocks nothing. In development, 
 Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy
 (https://watchvaulttracker.com/privacy) are on its own site.
 
-The Archive documents what a collector owns; the Tracker records what a collector wears. They are separate
-products, and neither requires the other. Both are listed at https://avenegtechnologies.com/products/.
+**Watch Vault Media** (https://watchvaultmedia.com): a reader for watch news and video, for iPhone, iPad and Mac,
+and on the web at https://watchvaultmedia.app. It gathers the latest stories and videos from sites and channels
+chosen for watch collectors into one list, newest first; each story is linked to its publisher, never republished.
+It needs no account and has no tracking, analytics or advertising; saved stories and settings stay on the device.
+On iPhone it has Home Screen and Lock Screen widgets. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing. Coming soon; not
+released; no release date is given. Its Terms of Service (https://watchvaultmedia.com/terms) and Privacy Policy
+(https://watchvaultmedia.com/privacy) are on its own site.
+
+The Archive documents what a collector owns; the Tracker records what a collector wears; Media gathers the watch
+news a collector reads. They are separate products, and none requires another. All three are listed at
+https://avenegtechnologies.com/products/.
 
 ## The company's stated approach
 
@@ -55,9 +65,11 @@ products, and neither requires the other. Both are listed at https://avenegtechn
   accounts and holds no copy. The site's own line for this is: "No cloud, no account, and no company holding a
   copy of what you own."
 - The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner
-  holds. With Watch Vault Tracker, the company collects no information about a collection.
-- "Encrypted" is said of Watch Vault Archive only. The site does not describe the company, or Watch Vault
-  Tracker, as encrypted. Do not say the Tracker is encrypted, and do not say it is not: the site says neither.
+  holds. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media
+  needs no account, and nothing in it records what its reader opens.
+- "Encrypted" is said of Watch Vault Archive only. The site does not describe the company, Watch Vault
+  Tracker or Watch Vault Media as encrypted. Do not say either of them is encrypted, and do not say it is not:
+  the site says neither.
 - The products today are for watch collectors. The site says the same approach will serve other collector
   communities later, and names no future product.
 
@@ -83,13 +95,14 @@ product's own site:
 - A phone number.
 - A price for Watch Vault Archive, or tip amounts for Watch Vault Tracker.
 - Where or how either product can be obtained: neither has been released.
-- Any release date more exact than "Early 2027".
-- Any platform beyond Mac and Windows (Archive) and iPhone, iPad and Mac (Tracker; on a Mac with Apple silicon
-  it runs as the iPad app, with no features of its own). Neither product is for Android.
+- Any release date more exact than "Early 2027" (Archive and Tracker), or any release date for Watch Vault Media.
+- Any platform beyond Mac and Windows (Archive), iPhone, iPad and Mac (Tracker) and iPhone, iPad, Mac and the web
+  (Media). On a Mac with Apple silicon the Tracker and Media run as their iPad apps, with no features of their
+  own. No product is for Android.
 - Whether Watch Vault Tracker encrypts its records.
 - Names of owners, founders or staff.
 - Headcount, revenue, funding or founding date.
-- Any product other than Watch Vault Archive and Watch Vault Tracker.
+- Any product other than Watch Vault Archive, Watch Vault Tracker and Watch Vault Media.
 - Security certifications or audit results.
 
 ## Machine-readable resources

@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC
 
-> Aveneg Technologies, LLC is a privacy-first software publisher. It is building two products for watch collectors, both in development, coming Early 2027; neither has been released. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline. Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears; it is free for watch collectors. Each keeps its records on the owner's own device, and the company holds no copy. Contact is by email only.
+> Aveneg Technologies, LLC is a privacy-first software publisher. It is building three products for watch collectors; none has been released. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline; coming Early 2027. Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears; it is free for watch collectors; coming Early 2027. Watch Vault Media is a free reader for watch news and video, for iPhone, iPad and Mac and on the web; it needs no account and has no tracking; coming soon. Each keeps what it holds on the owner's own device, and the company holds no copy. Contact is by email only.
 
 - Address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350, United States
 - Commercial licensing and legal: legal@avenegtechnologies.com
@@ -14,7 +14,7 @@
 ## Company
 
 - [Home](https://avenegtechnologies.com/): what the company makes, and where each product keeps a collector's records
-- [Products](https://avenegtechnologies.com/products/): both products, each with its own website, Terms of Service and Privacy Policy
+- [Products](https://avenegtechnologies.com/products/): all three products, each with its own website, Terms of Service and Privacy Policy
 - [About](https://avenegtechnologies.com/about/): why the company keeps records with their owner, how it builds, and what it publishes
 - [Contact](https://avenegtechnologies.com/contact/): email addresses, address and company particulars
 
@@ -26,6 +26,9 @@
 - [Watch Vault Tracker](https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector wears; free for watch collectors; in development, coming Early 2027; on its own site
 - [Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms): the terms published for the Tracker's website; the app's own terms are promised before release
 - [Watch Vault Tracker Privacy Policy](https://watchvaulttracker.com/privacy): how the Tracker's website and app handle data
+- [Watch Vault Media](https://watchvaultmedia.com): a reader for watch news and video, for iPhone, iPad and Mac and on the web (watchvaultmedia.app); stories are linked, never republished; free; no account, no tracking; coming soon; on its own site
+- [Watch Vault Media Terms of Service](https://watchvaultmedia.com/terms): the terms published on the Media site
+- [Watch Vault Media Privacy Policy](https://watchvaultmedia.com/privacy): how the Media app, its web version and its website handle data
 
 ## Optional
 

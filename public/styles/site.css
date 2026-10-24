@@ -258,6 +258,11 @@ svg {
   aspect-ratio: 716 / 142;
 }
 
+/* The Media lockup is the Media site's own artwork (src/partials/lockup-media.html). */
+.lockup-media {
+  aspect-ratio: 733.68 / 139;
+}
+
 .lk-ring {
   fill: none;
   stroke: var(--brass);
@@ -660,11 +665,12 @@ svg {
 
 
 /* 4.7 Plate, entries and pictures.
-       One bordered plate, two entries, a hairline between (the plate's own
-       ground showing through a 1px gap).
-       From 960 the entries sit side by side and share their rows (subgrid),
-       so lockups, pictures, lines, facts and links stay level whatever the
-       copy does. From 720 to 960 each entry is text left, picture right. */
+       One bordered plate, one entry per product, a hairline between (the
+       plate's own ground showing through a 1px gap). On phones each entry
+       is one column with its picture in the flow. From 720 each entry is a
+       row: text left, the picture in a column at the right. Three products
+       made the rows the layout at every width; side by side they would not
+       fit 1000px. */
 
 .plate {
   display: grid;
@@ -862,10 +868,10 @@ svg {
   }
 }
 
-/* 720 to 960: one entry per row; text left, the stage a column at the
-   right running the full height of the entry. The Archive window is held
-   at nine tenths of its natural size and runs off the right edge as well. */
-@media (min-width: 45em) and (max-width: 59.99em) {
+/* From 720: one entry per row; text left, the stage a column at the right
+   running the full height of the entry. The Archive window is held at nine
+   tenths of its natural size and runs off the right edge as well. */
+@media (min-width: 45em) {
   .entry {
     grid-template-columns: minmax(0, 1fr) clamp(16rem, 40%, 19rem);
     column-gap: var(--pad);
@@ -899,33 +905,6 @@ svg {
   }
 }
 
-@media (min-width: 60em) {
-  .plate {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .entry {
-    grid-row: span 7;
-    grid-template-rows: subgrid;
-    row-gap: 0;
-  }
-
-  .figure {
-    margin: var(--s-5) calc(var(--pad) * -1) 0;
-  }
-
-  .stage {
-    border-block: 1px solid var(--line);
-  }
-
-  .shot {
-    right: var(--pad);
-  }
-
-  .caption-inset {
-    padding-inline: var(--pad);
-  }
-}
 
 
 /* 4.8 Ledger. A real table. From 720 it is ruled columns. On phones each

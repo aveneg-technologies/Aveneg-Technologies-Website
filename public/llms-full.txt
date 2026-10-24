@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-23. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-24. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -16,7 +16,7 @@ Aveneg Technologies makes software for watch collectors. Watch Vault Archive and
 
 _What we publish_
 
-## Two products, each with its own site.
+## Three products, each with its own site.
 
 ### Watch Vault Archive
 
@@ -50,7 +50,23 @@ Open it, tap the photograph of the watch on your wrist, and the watch, the date 
 
 [Visit watchvaulttracker.com](https://watchvaulttracker.com)
 
-The two are separate products, and neither requires the other.
+### Watch Vault Media
+
+_Coming soon_
+
+The Watch Vault Media Settings screen on an iPhone: appearance, text size, the sources switched on, and optional tips.
+
+A screenshot of the app’s Settings.
+
+Gathers the watch news a collector reads.
+
+The latest stories and videos from sites and channels chosen for watch collectors, in one list, newest first. Each story opens where its publisher put it. Every feature is free: no account, no advertising, no tracking.
+
+- For: iPhone, iPad, Mac and the web
+
+[Visit watchvaultmedia.com](https://watchvaultmedia.com)
+
+The three are separate products, and none requires another.
 
 _Privacy first_
 
@@ -58,12 +74,12 @@ _Privacy first_
 
 Where your records are, product by product.
 
-| Question | Watch Vault Archive | Watch Vault Tracker |
-|---|---|---|
-| Records kept | On your own computer | On your iPhone, iPad or Mac |
-| Account with us | None | None |
-| Copy held by Aveneg | None | None |
-| In addition | Encrypted at rest, with a key only you hold. | We don’t collect any information about your collection. |
+| Question | Watch Vault Archive | Watch Vault Tracker | Watch Vault Media |
+|---|---|---|---|
+| Records kept | On your own computer | On your iPhone, iPad or Mac | On your iPhone, iPad or Mac |
+| Account with us | None | None | None |
+| Copy held by Aveneg | None | None | None |
+| In addition | Encrypted at rest, with a key only you hold. | We don’t collect any information about your collection. | No analytics or advertising, and nothing records what you open. |
 
 This website sets no cookies and has no accounts or forms. Its [Privacy Policy](https://avenegtechnologies.com/privacy/) gives the detail.
 
@@ -85,7 +101,7 @@ _Products_
 
 # What we publish.
 
-Aveneg Technologies is building two products for watch collectors. They are separate products, and neither requires the other.
+Aveneg Technologies is building three products for watch collectors. They are separate products, and none requires another.
 
 ## Watch Vault Archive
 
@@ -130,6 +146,28 @@ The Watch Vault Tracker Today screen on an iPhone: a grid of drawn watches under
 
 An illustration, not a screenshot. The watches are drawn; in the app they are your own photographs.
 
+## Watch Vault Media
+
+_Coming soon_
+
+Watch Vault Media is a reader for watch news and video, for iPhone, iPad and Mac, and on the web.
+
+It gathers the latest stories and videos from sites and channels chosen for watch collectors into one list, newest first. Each story opens where its publisher put it: linked, never republished. It needs no account and has no tracking, analytics or advertising; your saved stories and settings stay on your iPhone, iPad or Mac. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
+
+- For: iPhone, iPad, Mac and the web
+- Reads: News and video from sources chosen for watch collectors
+- Kept: Saved stories and settings, on your iPhone, iPad or Mac
+- Privacy: No account with us. No tracking or advertising.
+- Cost: Free
+
+[Visit watchvaultmedia.com](https://watchvaultmedia.com)
+
+[Watch Vault Media Terms of Service](https://watchvaultmedia.com/terms) [Watch Vault Media Privacy Policy](https://watchvaultmedia.com/privacy)
+
+The Watch Vault Media Settings screen on an iPhone: appearance, text size, the sources switched on, and optional tips.
+
+A screenshot of the app’s Settings.
+
 Each product is licensed under its own documents, published on its own site, and those documents can differ from one product to the next. This website’s own [Terms of Service](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
 
 ---
@@ -148,11 +186,11 @@ A record of something valuable is worth protecting like the thing itself. Held o
 
 ## How we build
 
-Privacy comes first. In every product the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection.
+Privacy comes first. In every product the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media needs no account, and nothing in it records what you read.
 
 ## What we publish
 
-The company is building two products for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears. They are separate products, and neither requires the other.
+The company is building three products for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears; Watch Vault Media gathers the watch news a collector reads. They are separate products, and none requires another.
 
 [See the products](https://avenegtechnologies.com/products/)
 
@@ -162,7 +200,7 @@ The products today are for watch collectors. The same approach will serve other 
 
 ## Particulars
 
-Aveneg Technologies, LLC is the publisher of both products. The company’s address, registration and email addresses are on the [Contact](https://avenegtechnologies.com/contact/) page.
+Aveneg Technologies, LLC is the publisher of all three products. The company’s address, registration and email addresses are on the [Contact](https://avenegtechnologies.com/contact/) page.
 
 ---
 
@@ -186,7 +224,7 @@ Licensing, partnerships and legal correspondence.
 
 Everything else, including press.
 
-For a question about a product, see that product’s own site: [watchvaultarchive.com](https://watchvaultarchive.com) or [watchvaulttracker.com](https://watchvaulttracker.com).
+For a question about a product, see that product’s own site: [watchvaultarchive.com](https://watchvaultarchive.com), [watchvaulttracker.com](https://watchvaulttracker.com) or [watchvaultmedia.com](https://watchvaultmedia.com).
 
 ## Company particulars
 

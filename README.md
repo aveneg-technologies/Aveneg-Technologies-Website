@@ -29,7 +29,8 @@ When a fact about the company or a product changes, change it in the page **and*
 ## Rules the copy follows
 
 - The company is privacy first. "Encrypted" is said only of Watch Vault Archive.
-- Both products are in development, coming Early 2027. Neither is available.
+- All three products are in development. The Archive and the Tracker are coming Early 2027; Watch Vault
+  Media has no date given, so none is stated. None is available.
 - No personal names, no phone number, no price, no tip amounts.
 - Trademark (Brad, 2026-10-23): the brand is "Watch Vault"; the TM goes after "Vault", never
   after the product name ("Watch Vault™ Archive"). In the lockups, a superscript TM after

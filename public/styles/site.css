@@ -1087,6 +1087,29 @@ svg {
 }
 
 
+/* 4.9b Our ethos (About): the company's statement of intent, in the owner's
+        words, unchanged. A labelled Title, three paragraphs in the reading
+        column, and its closing line in the Line role. */
+
+.ethos-text {
+  max-width: 38rem;
+  margin: var(--s-4) 0 0;
+  color: var(--prose);
+  text-wrap: pretty;
+}
+
+.ethos-text:first-of-type {
+  margin-top: var(--s-5);
+}
+
+.ethos-motto {
+  margin: var(--s-6) 0 0;
+  font-size: var(--fs-line);
+  line-height: 1.3;
+  color: var(--text);
+  text-wrap: balance;
+}
+
 /* 4.10 Rows: brass label left, text right (About, Products) */
 
 .rows {

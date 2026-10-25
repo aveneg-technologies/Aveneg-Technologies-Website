@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-24. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-25. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -179,6 +179,18 @@ _About_
 # A software company built around one idea.
 
 The idea is that a record of something valuable stays where its owner put it, and nowhere else.
+
+_Our ethos_
+
+## We believe technology should make knowledge easier to reach, not harder to use.
+
+We respect the privacy, independence, and opinions of every person who uses our products. We design to reduce friction, remove unnecessary complexity, and minimize the mental fatigue that too often comes with technology.
+
+Our goal is simple: create thoughtful tools that help people explore, understand, preserve, and enjoy the subjects they care about.
+
+For Watch Vault, that means making the world of horology more approachable without making it shallow — welcoming newcomers while respecting experienced collectors, and helping preserve the knowledge, stories, and enthusiasm of watch collecting for future generations.
+
+Private by principle. Simple by design. Built for curiosity.
 
 ## Why
 

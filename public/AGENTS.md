@@ -1,7 +1,7 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-24.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-25.
 If this file and a page disagree, the page wins.
 
 ## Who this is
@@ -67,6 +67,9 @@ https://avenegtechnologies.com/products/.
 - The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner
   holds. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media
   needs no account, and nothing in it records what its reader opens.
+- The company's statement of intent, "Our ethos", is on https://avenegtechnologies.com/about/. It begins "We
+  believe technology should make knowledge easier to reach, not harder to use." and closes "Private by principle.
+  Simple by design. Built for curiosity." Quote it from the page, word for word.
 - "Encrypted" is said of Watch Vault Archive only. The site does not describe the company, Watch Vault
   Tracker or Watch Vault Media as encrypted. Do not say either of them is encrypted, and do not say it is not:
   the site says neither.

@@ -1,7 +1,7 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-25.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-26.
 If this file and a page disagree, the page wins.
 
 ## Who this is
@@ -9,8 +9,8 @@ If this file and a page disagree, the page wins.
 Aveneg Technologies, LLC is a privacy-first software publisher. Its products keep a collector's records on the
 collector's own computer, iPhone or iPad, and the company holds no copy. It is building three products for watch
 collectors: Watch Vault Archive, encrypted desktop software for Mac and Windows that documents
-what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for watch
-collectors, that records the watches a collector wears (coming Early 2027); and Watch Vault Media, a free reader for
+what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for 30
+days and then $4.99 once, that records the watches a collector wears (coming Early 2027); and Watch Vault Media, a free reader for
 watch news and video, for iPhone, iPad and Mac and on the web (coming soon, with no date given). None has been released, and
 none requires another. It names no other product.
 
@@ -42,8 +42,10 @@ released. Its Terms of Service (https://watchvaultarchive.com/terms) and Privacy
 **Watch Vault Tracker** (https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector
 wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept.
 The company says: "We don't collect any information about your collection: your records and photographs are kept
-on your iPhone, iPad or Mac." Every feature is free for watch collectors, with no subscription, no advertising and no trial; there
-is a place to leave an optional tip, and a tip unlocks nothing. In development, coming Early 2027; not released.
+on your iPhone, iPad or Mac." Free for 30 days, then $4.99 once: every feature is free for 30 days, and after that
+only adding a new watch needs a one-time licence, bought through Apple for the owner's Apple Account (iPhone, iPad and
+Mac). Reading, recording wears, editing, deleting, accuracy checks, exports, backups and restore never need it. No
+subscription, no advertising. In development, coming Early 2027; not released.
 Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy
 (https://watchvaulttracker.com/privacy) are on its own site.
 
@@ -96,7 +98,7 @@ Please do not assert these; say the site does not state them and point to the co
 product's own site:
 
 - A phone number.
-- A price for Watch Vault Archive, or tip amounts for Watch Vault Tracker.
+- A price for Watch Vault Archive, or tip amounts for Watch Vault Media.
 - Where or how either product can be obtained: neither has been released.
 - Any release date more exact than "Early 2027" (Archive and Tracker), or any release date for Watch Vault Media.
 - Any platform beyond Mac and Windows (Archive), iPhone, iPad and Mac (Tracker) and iPhone, iPad, Mac and the web

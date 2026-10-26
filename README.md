@@ -31,7 +31,9 @@ When a fact about the company or a product changes, change it in the page **and*
 - The company is privacy first. "Encrypted" is said only of Watch Vault Archive.
 - All three products are in development. The Archive and the Tracker are coming Early 2027; Watch Vault
   Media has no date given, so none is stated. None is available.
-- No personal names, no phone number, no price, no tip amounts.
+- No personal names, no phone number. No price for Watch Vault Archive and no tip amounts for Watch Vault
+  Media. Watch Vault Tracker's price is stated in its agreed words only: "Free for 30 days, then $4.99 once"
+  (its roadmap, decision 53). It has no tips.
 - Trademark (Brad, 2026-10-23): the brand is "Watch Vault"; the TM goes after "Vault", never
   after the product name ("Watch Vault™ Archive"). In the lockups, a superscript TM after
   VAULT and nothing after ARCHIVE or TRACKER. "Logo only" (Brad, 2026-10-23): running text

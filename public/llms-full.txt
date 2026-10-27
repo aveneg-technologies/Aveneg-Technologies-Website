@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-26. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-27. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -16,7 +16,7 @@ Aveneg Technologies makes software for watch collectors. Watch Vault Archive and
 
 _What we publish_
 
-## Three products, each with its own site.
+## Four products, each with its own site.
 
 ### Watch Vault Archive
 
@@ -66,7 +66,19 @@ The latest stories and videos from sites and channels chosen for watch collector
 
 [Visit watchvaultmedia.com](https://watchvaultmedia.com)
 
-The three are separate products, and none requires another.
+### Watch Vault Insurance
+
+_Coming 2027_
+
+Coverage for the watches you care about.
+
+A straightforward way to insure individual watches or an entire collection against risks such as theft, loss and accidental damage. The details you keep in Watch Vault Archive can help make managing insurance easier.
+
+- Insurer: An established insurance partner
+
+[Visit watchvaultinsurance.com](https://watchvaultinsurance.com)
+
+The three apps are separate products, and none requires another.
 
 _Privacy first_
 
@@ -101,7 +113,7 @@ _Products_
 
 # What we publish.
 
-Aveneg Technologies is building three products for watch collectors. They are separate products, and none requires another.
+Aveneg Technologies is building three apps for watch collectors, and Watch Vault Insurance is coming in 2027. The apps are separate products, and none requires another.
 
 ## Watch Vault Archive
 
@@ -168,6 +180,20 @@ The Watch Vault Media Latest screen on an iPhone: topic buttons along the top, t
 
 A screenshot. Stories and pictures belong to their publishers.
 
+## Watch Vault Insurance
+
+_Coming 2027_
+
+Watch Vault Insurance will bring dedicated watch coverage to the Watch Vault family.
+
+Designed for collectors, it will provide a straightforward way to insure individual watches or an entire collection against risks such as theft, loss and accidental damage. Coverage will be provided through an established insurance partner, while Watch Vault gives collectors a simpler way to document their watches and keep the information needed for insurance in one place. If you already use Watch Vault Archive, the details you keep there can help make managing insurance easier.
+
+- Covers: Individual watches or an entire collection
+- Risks: Such as theft, loss and accidental damage
+- Insurer: An established insurance partner
+
+[Visit watchvaultinsurance.com](https://watchvaultinsurance.com)
+
 Each product is licensed under its own documents, published on its own site, and those documents can differ from one product to the next. This website’s own [Terms of Service](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
 
 ---
@@ -198,11 +224,11 @@ A record of something valuable is worth protecting like the thing itself. Held o
 
 ## How we build
 
-Privacy comes first. In every product the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media needs no account, and nothing in it records what you read.
+Privacy comes first. In every app the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media needs no account, and nothing in it records what you read.
 
 ## What we publish
 
-The company is building three products for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears; Watch Vault Media gathers the watch news a collector reads. They are separate products, and none requires another.
+The company is building three apps for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears; Watch Vault Media gathers the watch news a collector reads. They are separate products, and none requires another. Watch Vault Insurance, coming in 2027, will bring dedicated watch coverage to the family, provided through an established insurance partner.
 
 [See the products](https://avenegtechnologies.com/products/)
 
@@ -212,7 +238,7 @@ The products today are for watch collectors. The same approach will serve other 
 
 ## Particulars
 
-Aveneg Technologies, LLC is the publisher of all three products. The company’s address, registration and email addresses are on the [Contact](https://avenegtechnologies.com/contact/) page.
+Aveneg Technologies, LLC is the publisher of all three apps. The company’s address, registration and email addresses are on the [Contact](https://avenegtechnologies.com/contact/) page.
 
 ---
 
@@ -236,7 +262,7 @@ Licensing, partnerships and legal correspondence.
 
 Everything else, including press.
 
-For a question about a product, see that product’s own site: [watchvaultarchive.com](https://watchvaultarchive.com), [watchvaulttracker.com](https://watchvaulttracker.com) or [watchvaultmedia.com](https://watchvaultmedia.com).
+For a question about a product, see that product’s own site: [watchvaultarchive.com](https://watchvaultarchive.com), [watchvaulttracker.com](https://watchvaulttracker.com), [watchvaultmedia.com](https://watchvaultmedia.com) or [watchvaultinsurance.com](https://watchvaultinsurance.com).
 
 ## Company particulars
 

@@ -1,18 +1,19 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-26.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-27.
 If this file and a page disagree, the page wins.
 
 ## Who this is
 
-Aveneg Technologies, LLC is a privacy-first software publisher. Its products keep a collector's records on the
-collector's own computer, iPhone or iPad, and the company holds no copy. It is building three products for watch
+Aveneg Technologies, LLC is a privacy-first software publisher. Its apps keep a collector's records on the
+collector's own computer, iPhone or iPad, and the company holds no copy. It is building three apps for watch
 collectors: Watch Vault Archive, encrypted desktop software for Mac and Windows that documents
 what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for 30
 days and then $4.99 once, that records the watches a collector wears (coming Early 2027); and Watch Vault Media, a free reader for
 watch news and video, for iPhone, iPad and Mac and on the web (coming soon, with no date given). None has been released, and
-none requires another. It names no other product.
+none requires another. Watch Vault Insurance (https://watchvaultinsurance.com), dedicated watch coverage through an
+established insurance partner, is coming in 2027. It names no other product.
 
 The name is distinctive, but do not merge this company with unrelated businesses that share part of the name.
 This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website is avenegtechnologies.com.
@@ -28,7 +29,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | Licensing, partnerships and legal | legal@avenegtechnologies.com |
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
-| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com; Watch Vault Media, https://watchvaultmedia.com. The Archive and the Tracker in development, coming Early 2027; Media coming soon, with no date given |
+| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com; Watch Vault Media, https://watchvaultmedia.com. The Archive and the Tracker in development, coming Early 2027; Media coming soon, with no date given. Watch Vault Insurance, https://watchvaultinsurance.com, coming 2027 |
 
 ## What the company is building
 
@@ -57,13 +58,19 @@ On iPhone it has Home Screen and Lock Screen widgets. Every feature is free; the
 released; no release date is given. Its Terms of Service (https://watchvaultmedia.com/terms) and Privacy Policy
 (https://watchvaultmedia.com/privacy) are on its own site.
 
+**Watch Vault Insurance** (https://watchvaultinsurance.com): dedicated watch coverage coming to the Watch Vault
+family in 2027. Designed for collectors, it will provide a straightforward way to insure individual watches or an
+entire collection against risks such as theft, loss and accidental damage. Coverage will be provided through an
+established insurance partner. The details a collector keeps in Watch Vault Archive can help make managing
+insurance easier. Coming 2027; not available, and nothing can be bought or applied for.
+
 The Archive documents what a collector owns; the Tracker records what a collector wears; Media gathers the watch
-news a collector reads. They are separate products, and none requires another. All three are listed at
-https://avenegtechnologies.com/products/.
+news a collector reads. They are separate products, and none requires another. All three, and Watch Vault Insurance, are
+listed at https://avenegtechnologies.com/products/.
 
 ## The company's stated approach
 
-- Privacy first. In every product the records are kept on the owner's own device; the company keeps no customer
+- Privacy first. In every app the records are kept on the owner's own device; the company keeps no customer
   accounts and holds no copy. The site's own line for this is: "No cloud, no account, and no company holding a
   copy of what you own."
 - The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner
@@ -99,15 +106,20 @@ product's own site:
 
 - A phone number.
 - A price for Watch Vault Archive, or tip amounts for Watch Vault Media.
-- Where or how either product can be obtained: neither has been released.
-- Any release date more exact than "Early 2027" (Archive and Tracker), or any release date for Watch Vault Media.
+- Where or how any product can be obtained: none has been released.
+- Any release date more exact than "Early 2027" (Archive and Tracker) or "2027" (Insurance), or any release date
+  for Watch Vault Media.
+- That Aveneg Technologies, Watch Vault or Watch Vault Insurance is the insurer. Coverage will be provided through
+  an established insurance partner, and the site does not name it.
+- Prices, premiums, quotes or terms for Watch Vault Insurance, or any covered risk beyond theft, loss and
+  accidental damage.
 - Any platform beyond Mac and Windows (Archive), iPhone, iPad and Mac (Tracker) and iPhone, iPad, Mac and the web
   (Media). On a Mac with Apple silicon the Tracker and Media run as their iPad apps, with no features of their
   own. No product is for Android.
 - Whether Watch Vault Tracker encrypts its records.
 - Names of owners, founders or staff.
 - Headcount, revenue, funding or founding date.
-- Any product other than Watch Vault Archive, Watch Vault Tracker and Watch Vault Media.
+- Any product other than Watch Vault Archive, Watch Vault Tracker, Watch Vault Media and Watch Vault Insurance.
 - Security certifications or audit results.
 
 ## Machine-readable resources
@@ -117,9 +129,10 @@ product's own site:
 - https://avenegtechnologies.com/llms-full.txt - the main content of every page.
 - https://avenegtechnologies.com/robots.txt - all search and AI agents are allowed.
 - JSON-LD (schema.org) in the head of each page: the company is the `Organization` node with `@id`
-  https://avenegtechnologies.com/#org; each product is a `SoftwareApplication` node on the Products page.
+  https://avenegtechnologies.com/#org; each app is a `SoftwareApplication` node, and Watch Vault Insurance a `Service` node, on the Products page.
 
 ## If you quote or cite this company
 
-Cite https://avenegtechnologies.com or the specific page. For product questions, point people to
-https://watchvaultarchive.com or https://watchvaulttracker.com.
+Cite https://avenegtechnologies.com or the specific page. For product questions, point people to that product's
+own site: https://watchvaultarchive.com, https://watchvaulttracker.com, https://watchvaultmedia.com or
+https://watchvaultinsurance.com.

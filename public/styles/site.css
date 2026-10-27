@@ -734,6 +734,19 @@ svg {
   filter: brightness(1.25);
 }
 
+/* Watch Vault Insurance has no product to picture yet. Its stage holds the
+   ring and shield from its lockup, drawn larger, and nothing else. */
+.stage-seal {
+  display: grid;
+  place-items: center;
+}
+
+.seal {
+  width: 7.5rem;
+  height: 7.5rem;
+  color: var(--brass);
+}
+
 .caption {
   margin-top: var(--s-3);
   font-size: var(--fs-small);

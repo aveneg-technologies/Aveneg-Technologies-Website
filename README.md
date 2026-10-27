@@ -30,7 +30,13 @@ When a fact about the company or a product changes, change it in the page **and*
 
 - The company is privacy first. "Encrypted" is said only of Watch Vault Archive.
 - All three products are in development. The Archive and the Tracker are coming Early 2027; Watch Vault
-  Media has no date given, so none is stated. None is available.
+  Media has no date given, so none is stated. None is available. Watch Vault Insurance is
+  coming in 2027 and is never called available.
+- Watch Vault Insurance (Brad, 2026-10-27): quote or shorten the front copy on
+  watchvaultinsurance.com, never add to it. Aveneg, Watch Vault and Watch Vault Insurance are
+  never the insurer: coverage is "provided through an established insurance partner", unnamed.
+  No prices, quotes, premiums or terms; the only risks named are theft, loss and accidental
+  damage. It is not in the Home privacy ledger, because its privacy claims are not decided.
 - No personal names, no phone number. No price for Watch Vault Archive and no tip amounts for Watch Vault
   Media. Watch Vault Tracker's price is stated in its agreed words only: "Free for 30 days, then $4.99 once"
   (its roadmap, decision 53). It has no tips.
@@ -65,6 +71,10 @@ When a fact about the company or a product changes, change it in the page **and*
   captured whole at 2x (680 x 1427) from that site's own build. Re-take it when their hero
   phone changes; its corner is 56px on a 340 x 713 phone, which is the `16.5% / 7.85%` radius
   in the stylesheet.
+- `src/partials/lockup-insurance.html` is the Insurance site's lockup (its
+  `src/partials/lockup.html`): the ring and shield unchanged, the words set in this site's lockup
+  classes the way the Archive's are. `src/partials/seal-insurance.html` is the same ring and
+  shield, shown larger in Home's stage: Insurance has no product to picture yet.
 - `src/partials/lockup-tracker.html` is the Tracker's lockup artwork, copied from the Tracker
   site's own page (its TM included); its colours come from the stylesheet (`.lk-*`). Replace
   it from the Tracker's page when theirs changes; never redraw a shape.

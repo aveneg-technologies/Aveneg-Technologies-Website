@@ -62,7 +62,8 @@ Gathers the watch news a collector reads.
 
 The latest stories and videos from sites and channels chosen for watch collectors, in one list, newest first. Each story opens where its publisher put it. Every feature is free: no account, no advertising, no tracking.
 
-- For: iPhone, iPad, Mac and the web
+- For: iPhone, iPad and Mac
+- Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
 
 [Visit watchvaultmedia.com](https://watchvaultmedia.com)
 
@@ -162,11 +163,12 @@ An illustration, not a screenshot. The watches are drawn; in the app they are yo
 
 _Coming soon_
 
-Watch Vault Media is a reader for watch news and video, for iPhone, iPad and Mac, and on the web.
+Watch Vault Media is a reader for watch news and video, for iPhone, iPad and Mac. It is also on the web.
 
 It gathers the latest stories and videos from sites and channels chosen for watch collectors into one list, newest first. Each story opens where its publisher put it: linked, never republished. It needs no account and has no tracking, analytics or advertising; your saved stories and settings stay on your iPhone, iPad or Mac. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
 
-- For: iPhone, iPad, Mac and the web
+- For: iPhone, iPad and Mac
+- Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
 - Reads: News and video from sources chosen for watch collectors
 - Kept: Saved stories and settings, on your iPhone, iPad or Mac
 - Privacy: No account with us. No tracking or advertising.

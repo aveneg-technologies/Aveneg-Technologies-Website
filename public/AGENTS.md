@@ -11,8 +11,8 @@ collector's own computer, iPhone or iPad, and the company holds no copy. It is b
 collectors: Watch Vault Archive, encrypted desktop software for Mac and Windows that documents
 what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for 30
 days and then $4.99 once, that records the watches a collector wears (coming Early 2027); and Watch Vault Media, a free reader for
-watch news and video, for iPhone, iPad and Mac and on the web (coming soon, with no date given). None has been released, and
-none requires another. Watch Vault Insurance (https://watchvaultinsurance.com), dedicated watch coverage through an
+watch news and video, for iPhone, iPad and Mac (coming soon, with no date given) and already online at
+https://watchvaultmedia.app. No app has been released, and none requires another. Watch Vault Insurance (https://watchvaultinsurance.com), dedicated watch coverage through an
 established insurance partner, is coming in 2027. It names no other product.
 
 The name is distinctive, but do not merge this company with unrelated businesses that share part of the name.
@@ -29,7 +29,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | Licensing, partnerships and legal | legal@avenegtechnologies.com |
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
-| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com; Watch Vault Media, https://watchvaultmedia.com. The Archive and the Tracker in development, coming Early 2027; Media coming soon, with no date given. Watch Vault Insurance, https://watchvaultinsurance.com, coming 2027 |
+| Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com; Watch Vault Media, https://watchvaultmedia.com. The Archive and the Tracker in development, coming Early 2027; Media's apps coming soon, with no date given, and its web version already online at https://watchvaultmedia.app. Watch Vault Insurance, https://watchvaultinsurance.com, coming 2027 |
 
 ## What the company is building
 
@@ -54,8 +54,8 @@ Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy
 and on the web at https://watchvaultmedia.app. It gathers the latest stories and videos from sites and channels
 chosen for watch collectors into one list, newest first; each story is linked to its publisher, never republished.
 It needs no account and has no tracking, analytics or advertising; saved stories and settings stay on the device.
-On iPhone it has Home Screen and Lock Screen widgets. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing. Coming soon; not
-released; no release date is given. Its Terms of Service (https://watchvaultmedia.com/terms) and Privacy Policy
+On iPhone it has Home Screen and Lock Screen widgets. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing. The apps are coming
+soon; not released; no release date is given. The web version is already online at https://watchvaultmedia.app. Its Terms of Service (https://watchvaultmedia.com/terms) and Privacy Policy
 (https://watchvaultmedia.com/privacy) are on its own site.
 
 **Watch Vault Insurance** (https://watchvaultinsurance.com): dedicated watch coverage coming to the Watch Vault
@@ -106,9 +106,10 @@ product's own site:
 
 - A phone number.
 - A price for Watch Vault Archive, or tip amounts for Watch Vault Media.
-- Where or how any product can be obtained: none has been released.
+- Where or how any app can be obtained: none has been released. (Watch Vault Media's web version is online at
+  https://watchvaultmedia.app.)
 - Any release date more exact than "Early 2027" (Archive and Tracker) or "2027" (Insurance), or any release date
-  for Watch Vault Media.
+  for Watch Vault Media's apps.
 - That Aveneg Technologies, Watch Vault or Watch Vault Insurance is the insurer. Coverage will be provided through
   an established insurance partner, and the site does not name it.
 - Prices, premiums, quotes or terms for Watch Vault Insurance, or any covered risk beyond theft, loss and

@@ -30,7 +30,9 @@ When a fact about the company or a product changes, change it in the page **and*
 
 - The company is privacy first. "Encrypted" is said only of Watch Vault Archive.
 - All three products are in development. The Archive and the Tracker are coming Early 2027; Watch Vault
-  Media has no date given, so none is stated. None is available. Watch Vault Insurance is
+  Media has no date given, so none is stated. None is available. Watch Vault Media's web
+  version is already online at watchvaultmedia.app (its app's FACTS.json, 2026-10-27): say so,
+  and never put the web under "Coming soon"; the Mac is the iPad app on Apple silicon. Watch Vault Insurance is
   coming in 2027 and is never called available.
 - Watch Vault Insurance (Brad, 2026-10-27): quote or shorten the front copy on
   watchvaultinsurance.com, never add to it. Aveneg, Watch Vault and Watch Vault Insurance are

@@ -37,8 +37,8 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 a collector owns: appraisals, service history, provenance and succession. Its records are encrypted at rest with
 a key only their owner holds, the software works offline, and the records are held on the owner's own computer.
 The company says it cannot read, recover or hand over that data. In development, coming Early 2027; not
-released. Its Terms of Service (https://watchvaultarchive.com/terms) and Privacy Policy
-(https://watchvaultarchive.com/privacy) are on its own site.
+released. Its Terms of Service (https://watchvaultarchive.com/terms/) and Privacy Policy
+(https://watchvaultarchive.com/privacy/) are on its own site.
 
 **Watch Vault Tracker** (https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector
 wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept.

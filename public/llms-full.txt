@@ -131,7 +131,7 @@ It is built for record-keeping over the long term. Its records are encrypted at 
 
 [Visit watchvaultarchive.com](https://watchvaultarchive.com)
 
-[Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms) [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy)
+[Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms/) [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy/)
 
 The Watch Vault Archive application: a list of watches on the left, and one watch’s record open on the right showing its identification and acquisition details.
 

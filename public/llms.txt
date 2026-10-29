@@ -21,8 +21,8 @@
 ## Products
 
 - [Watch Vault Archive](https://watchvaultarchive.com): encrypted, offline desktop software for Mac and Windows that documents what a collector owns; in development, coming Early 2027; on its own site
-- [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms): the terms published on the Archive's own site
-- [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy): how the Archive handles data
+- [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms/): the terms published on the Archive's own site
+- [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy/): how the Archive handles data
 - [Watch Vault Tracker](https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector wears; free for 30 days, then $4.99 once; in development, coming Early 2027; on its own site
 - [Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms): the terms published for the Tracker's website; the app's own terms are promised before release
 - [Watch Vault Tracker Privacy Policy](https://watchvaulttracker.com/privacy): how the Tracker's website and app handle data

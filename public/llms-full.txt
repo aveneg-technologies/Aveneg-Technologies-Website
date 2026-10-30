@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-27. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-30. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -60,7 +60,7 @@ A screenshot. Stories and pictures belong to their publishers.
 
 Gathers the watch news a collector reads.
 
-The latest stories and videos from sites and channels chosen for watch collectors, in one list, newest first. Each story opens where its publisher put it. Every feature is free: no account, no advertising, no tracking.
+Watch news, videos and podcasts from sources curated for watch collectors, in one list, newest first. In the app you can add any RSS or Atom feed of your own. Each story opens where its publisher put it. Every feature is free: no account, no advertising, no tracking.
 
 - For: iPhone, iPad and Mac
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
@@ -163,13 +163,13 @@ An illustration, not a screenshot. The watches are drawn; in the app they are yo
 
 _Coming soon_
 
-Watch Vault Media is a reader for watch news and video, for iPhone, iPad and Mac. It is also on the web.
+Watch Vault Media is a reader for watch news, videos and podcasts, for iPhone, iPad and Mac. It is also on the web.
 
-It gathers the latest stories and videos from sites and channels chosen for watch collectors into one list, newest first. Each story opens where its publisher put it: linked, never republished. It needs no account and has no tracking, analytics or advertising; your saved stories and settings stay on your iPhone, iPad or Mac. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
+It gathers watch news, videos and podcasts from sources curated for watch collectors into one list, newest first. In the app you can add any RSS or Atom feed of your own: a site’s, a YouTube channel’s or a podcast’s. Each story opens where its publisher put it: linked, never republished. It needs no account and has no tracking, analytics or advertising; your saved stories and settings stay on your iPhone, iPad or Mac. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
 
 - For: iPhone, iPad and Mac
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
-- Reads: News and video from sources chosen for watch collectors
+- Reads: News, videos and podcasts from curated sources, and any feed you add
 - Kept: Saved stories and settings, on your iPhone, iPad or Mac
 - Privacy: No account with us. No tracking or advertising.
 - Cost: Free

@@ -1,7 +1,7 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-27.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-30.
 If this file and a page disagree, the page wins.
 
 ## Who this is
@@ -11,7 +11,7 @@ collector's own computer, iPhone or iPad, and the company holds no copy. It is b
 collectors: Watch Vault Archive, encrypted desktop software for Mac and Windows that documents
 what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for 30
 days and then $4.99 once, that records the watches a collector wears (coming Early 2027); and Watch Vault Media, a free reader for
-watch news and video, for iPhone, iPad and Mac (coming soon, with no date given) and already online at
+watch news, videos and podcasts, for iPhone, iPad and Mac (coming soon, with no date given) and already online at
 https://watchvaultmedia.app. No app has been released, and none requires another. Watch Vault Insurance (https://watchvaultinsurance.com), dedicated watch coverage through an
 established insurance partner, is coming in 2027. It names no other product.
 
@@ -50,9 +50,10 @@ subscription, no advertising. In development, coming Early 2027; not released.
 Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy
 (https://watchvaulttracker.com/privacy) are on its own site.
 
-**Watch Vault Media** (https://watchvaultmedia.com): a reader for watch news and video, for iPhone, iPad and Mac,
-and on the web at https://watchvaultmedia.app. It gathers the latest stories and videos from sites and channels
-chosen for watch collectors into one list, newest first; each story is linked to its publisher, never republished.
+**Watch Vault Media** (https://watchvaultmedia.com): a reader for watch news, videos and podcasts, for iPhone, iPad
+and Mac, and on the web at https://watchvaultmedia.app. It gathers watch news, videos and podcasts from sources
+curated for watch collectors into one list, newest first; each story is linked to its publisher, never republished.
+In the app the reader can add any RSS or Atom feed of their own: a site's, a YouTube channel's or a podcast's.
 It needs no account and has no tracking, analytics or advertising; saved stories and settings stay on the device.
 On iPhone it has Home Screen and Lock Screen widgets. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing. The apps are coming
 soon; not released; no release date is given. The web version is already online at https://watchvaultmedia.app. Its Terms of Service (https://watchvaultmedia.com/terms) and Privacy Policy
@@ -106,6 +107,7 @@ product's own site:
 
 - A phone number.
 - A price for Watch Vault Archive, or tip amounts for Watch Vault Media.
+- How many sources Watch Vault Media reads: the list changes, and the site gives no count.
 - Where or how any app can be obtained: none has been released. (Watch Vault Media's web version is online at
   https://watchvaultmedia.app.)
 - Any release date more exact than "Early 2027" (Archive and Tracker) or "2027" (Insurance), or any release date

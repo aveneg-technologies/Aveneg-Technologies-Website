@@ -1,7 +1,7 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-10-30.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-11-04.
 If this file and a page disagree, the page wins.
 
 ## Who this is
@@ -36,6 +36,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 **Watch Vault Archive** (https://watchvaultarchive.com): desktop software for Mac and Windows that documents what
 a collector owns: appraisals, service history, provenance and succession. Its records are encrypted at rest with
 a key only their owner holds, the software works offline, and the records are held on the owner's own computer.
+Copies leave the computer only as files the owner saves, including encrypted backups in a folder the owner picks.
 The company says it cannot read, recover or hand over that data. In development, coming Early 2027; not
 released. Its Terms of Service (https://watchvaultarchive.com/terms/) and Privacy Policy
 (https://watchvaultarchive.com/privacy/) are on its own site.
@@ -43,7 +44,8 @@ released. Its Terms of Service (https://watchvaultarchive.com/terms/) and Privac
 **Watch Vault Tracker** (https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector
 wears. Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept.
 The company says: "We don't collect any information about your collection: your records and photographs are kept
-on your iPhone, iPad or Mac." Free for 30 days, then $4.99 once: every feature is free for 30 days, and after that
+on your iPhone, iPad or Mac, and in your own iCloud if you turn on Sync across devices. If your device backs up to
+iCloud, Apple's backup includes them." Free for 30 days, then $4.99 once: every feature is free for 30 days, and after that
 only adding a new watch needs a one-time licence, bought through Apple for the owner's Apple Account (iPhone, iPad and
 Mac). Reading, recording wears, editing, deleting, accuracy checks, exports, backups and restore never need it. No
 subscription, no advertising. In development, coming Early 2027; not released.
@@ -71,9 +73,12 @@ listed at https://avenegtechnologies.com/products/.
 
 ## The company's stated approach
 
-- Privacy first. In every app the records are kept on the owner's own device; the company keeps no customer
-  accounts and holds no copy. The site's own line for this is: "No cloud, no account, and no company holding a
-  copy of what you own."
+- Privacy first. In every app the records are kept on the owner's own device. The company runs no cloud service,
+  keeps no customer accounts and holds no copy. Any copy elsewhere is the owner's: a backup in a folder they pick,
+  or their own iCloud. The site's own lines for this are: "Your records are never sent to us." and "No cloud
+  service of ours, no account with us, and no company holding a copy of what you own."
+- Do not say that records can never leave the device or that no cloud is ever involved. The company runs no cloud
+  service, but a backup or sync the owner sets up can go to a service the owner chooses.
 - The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner
   holds. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media
   needs no account, and nothing in it records what its reader opens.

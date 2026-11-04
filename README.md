@@ -29,6 +29,9 @@ When a fact about the company or a product changes, change it in the page **and*
 ## Rules the copy follows
 
 - The company is privacy first. "Encrypted" is said only of Watch Vault Archive.
+- No absolute claim about where records go (Brad, 2026-11-04): never "no cloud", "never leave" or "only copy" without
+  saying whose. Say "no cloud service of ours", "no account with us", "your records are never sent to us". Backups and
+  sync an owner sets up can reach a service the owner chooses; each product's facts come from its app.
 - All three products are in development. The Archive and the Tracker are coming Early 2027; Watch Vault
   Media has no date given, so none is stated. None is available. Watch Vault Media's web
   version is already online at watchvaultmedia.app (its app's FACTS.json, 2026-10-27): say so,

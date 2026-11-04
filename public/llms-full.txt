@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-10-30. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-11-04. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -8,7 +8,7 @@ Source: https://avenegtechnologies.com/
 
 _Privacy first, on your own devices, no copy held_
 
-# Your records never leave the room.
+# Your records are never sent to us.
 
 Aveneg Technologies makes software for watch collectors. Watch Vault Archive and Watch Vault Tracker keep your records on your own computer, iPhone or iPad.
 
@@ -83,13 +83,14 @@ The three apps are separate products, and none requires another.
 
 _Privacy first_
 
-## No cloud, no account, and no company holding a copy of what you own.
+## No cloud service of ours, no account with us, and no company holding a copy of what you own.
 
 Where your records are, product by product.
 
 | Question | Watch Vault Archive | Watch Vault Tracker | Watch Vault Media |
 |---|---|---|---|
 | Records kept | On your own computer | On your iPhone, iPad or Mac | On your iPhone, iPad or Mac |
+| Copies elsewhere | Only files you save, including encrypted backups in a folder you pick | Your own iCloud if you turn on sync or your device backs up there, and backups in a folder you pick | The app sends nothing you save or type |
 | Account with us | None | None | None |
 | Copy held by Aveneg | None | None | None |
 | In addition | Encrypted at rest, with a key only you hold. | We don’t collect any information about your collection. | No analytics or advertising, and nothing records what you open. |
@@ -122,7 +123,7 @@ _In development, coming Early 2027_
 
 Watch Vault Archive is desktop software that documents what a collector owns.
 
-It is built for record-keeping over the long term. Its records are encrypted at rest with a key only their owner holds, and the software works offline. Aveneg Technologies cannot read, recover or hand over that data.
+It is built for record-keeping over the long term. Its records are encrypted at rest with a key only their owner holds, and the software works offline. Copies leave the computer only as files you save, including encrypted backups in a folder you pick. Aveneg Technologies cannot read, recover or hand over that data.
 
 - For: Mac and Windows
 - Records: Appraisals, service history, provenance and succession
@@ -143,7 +144,7 @@ _In development, coming Early 2027_
 
 Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears.
 
-Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs are kept on your iPhone, iPad or Mac. Every feature is free for 30 days, then $4.99 once: after that, only adding a new watch needs a one-time licence, bought through Apple for your Apple Account. Recording wears, editing, accuracy checks, exports and backups never need it. No subscription, no advertising.
+Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs are kept on your iPhone, iPad or Mac, and in your own iCloud if you turn on Sync across devices. If your device backs up to iCloud, Apple’s backup includes them. Every feature is free for 30 days, then $4.99 once: after that, only adding a new watch needs a one-time licence, bought through Apple for your Apple Account. Recording wears, editing, accuracy checks, exports and backups never need it. No subscription, no advertising.
 
 - For: iPhone, iPad and Mac
 - Records: Each watch worn, with its date and time
@@ -222,11 +223,11 @@ Private by principle. Simple by design. Built for curiosity.
 
 ## Why
 
-A record of something valuable is worth protecting like the thing itself. Held on a company’s server, it can be exposed in ways its owner never sees: a breach at the provider, a demand served on the company instead of the person, a service that closes and takes years of entries with it. Software that keeps the record on the owner’s own device removes those risks by removing the server.
+A record of something valuable is worth protecting like the thing itself. Held on a company’s server, it can be exposed in ways its owner never sees: a breach at the provider, a demand served on the company instead of the person, a service that closes and takes years of entries with it. Software that keeps the record on the owner’s own device, with no server of ours, leaves us nothing to lose, hand over or shut down.
 
 ## How we build
 
-Privacy comes first. In every app the records are kept on the owner’s own device; the company keeps no customer accounts and holds no copy. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media needs no account, and nothing in it records what you read.
+Privacy comes first. In every app the records are kept on the owner’s own device. The company runs no cloud service, keeps no customer accounts and holds no copy. Any copy elsewhere is the owner’s: a backup in a folder they pick, or their own iCloud. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media needs no account, and nothing in it records what you read.
 
 ## What we publish
 

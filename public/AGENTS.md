@@ -56,7 +56,9 @@ Its Terms of Service (https://watchvaulttracker.com/terms) and Privacy Policy
 and Mac, and on the web at https://watchvaultmedia.app. It gathers watch news, videos and podcasts from sources
 curated for watch collectors into one list, newest first; each story is linked to its publisher, never republished.
 In the app the reader can add any RSS or Atom feed of their own: a site's, a YouTube channel's or a podcast's.
-It needs no account and has no tracking, analytics or advertising; saved stories and settings stay on the device.
+It needs no account and adds no tracking, analytics or advertising of its own; a publisher's page shows its own.
+Saved stories and settings are kept on the device, and in the reader's own iCloud if they turn on Sync across devices.
+If the device is backed up, Apple's backup may include them.
 On iPhone it has Home Screen and Lock Screen widgets. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing. The apps are coming
 soon; not released; no release date is given. The web version is already online at https://watchvaultmedia.app. Its Terms of Service (https://watchvaultmedia.com/terms) and Privacy Policy
 (https://watchvaultmedia.com/privacy) are on its own site.
@@ -73,15 +75,15 @@ listed at https://avenegtechnologies.com/products/.
 
 ## The company's stated approach
 
-- Privacy first. In every app the records are kept on the owner's own device. The company runs no cloud service,
-  keeps no customer accounts and holds no copy. Any copy elsewhere is the owner's: a backup in a folder they pick,
+- Privacy first. In every app the records are kept on the owner's own device. The company runs no cloud service
+  that holds them, keeps no customer accounts and holds no copy. Any copy elsewhere is the owner's: a backup in a folder they pick,
   or their own iCloud. The site's own lines for this are: "Your records are never sent to us." and "No cloud
   service of ours, no account with us, and no company holding a copy of what you own."
 - Do not say that records can never leave the device or that no cloud is ever involved. The company runs no cloud
-  service, but a backup or sync the owner sets up can go to a service the owner chooses.
+  service that holds records, but a backup or sync the owner sets up can go to a service the owner chooses.
 - The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner
   holds. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media
-  needs no account, and nothing in it records what its reader opens.
+  needs no account, and it sends the company nothing about what its reader opens.
 - The company's statement of intent, "Our ethos", is on https://avenegtechnologies.com/about/. It begins "We
   believe technology should make knowledge easier to reach, not harder to use." and closes "Private by principle.
   Simple by design. Built for curiosity." Quote it from the page, word for word.

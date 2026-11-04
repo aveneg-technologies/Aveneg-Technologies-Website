@@ -60,7 +60,7 @@ A screenshot. Stories and pictures belong to their publishers.
 
 Gathers the watch news a collector reads.
 
-Watch news, videos and podcasts from sources curated for watch collectors, in one list, newest first. In the app you can add any RSS or Atom feed of your own. Each story opens where its publisher put it. Every feature is free: no account, no advertising, no tracking.
+Watch news, videos and podcasts from sources curated for watch collectors, in one list, newest first. In the app you can add any RSS or Atom feed of your own. Each story opens where its publisher put it. Every feature is free: no account, and no advertising or tracking of its own.
 
 - For: iPhone, iPad and Mac
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
@@ -90,10 +90,10 @@ Where your records are, product by product.
 | Question | Watch Vault Archive | Watch Vault Tracker | Watch Vault Media |
 |---|---|---|---|
 | Records kept | On your own computer | On your iPhone, iPad or Mac | On your iPhone, iPad or Mac |
-| Copies elsewhere | Only files you save, including encrypted backups in a folder you pick | Your own iCloud if you turn on sync or your device backs up there, and backups in a folder you pick | The app sends nothing you save or type |
+| Copies elsewhere | Only files you save, including encrypted backups in a folder you pick | Your own iCloud if you turn on sync or your device backs up there, and backups in a folder you pick | Your own iCloud if you turn on Sync or your device backs up there. The app sends us nothing you save or type. |
 | Account with us | None | None | None |
 | Copy held by Aveneg | None | None | None |
-| In addition | Encrypted at rest, with a key only you hold. | We don’t collect any information about your collection. | No analytics or advertising, and nothing records what you open. |
+| In addition | Encrypted at rest, with a key only you hold. | We don’t collect any information about your collection. | No analytics or advertising of its own, and it sends us nothing about what you open. |
 
 This website sets no cookies and has no accounts or forms. Its [Privacy Policy](https://avenegtechnologies.com/privacy/) gives the detail.
 
@@ -166,13 +166,13 @@ _Coming soon_
 
 Watch Vault Media is a reader for watch news, videos and podcasts, for iPhone, iPad and Mac. It is also on the web.
 
-It gathers watch news, videos and podcasts from sources curated for watch collectors into one list, newest first. In the app you can add any RSS or Atom feed of your own: a site’s, a YouTube channel’s or a podcast’s. Each story opens where its publisher put it: linked, never republished. It needs no account and has no tracking, analytics or advertising; your saved stories and settings stay on your iPhone, iPad or Mac. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
+It gathers watch news, videos and podcasts from sources curated for watch collectors into one list, newest first. In the app you can add any RSS or Atom feed of your own: a site’s, a YouTube channel’s or a podcast’s. Each story opens where its publisher put it: linked, never republished. It needs no account and adds no tracking, analytics or advertising of its own; a publisher’s page shows its own. Your saved stories and settings are kept on your iPhone, iPad or Mac, and in your own iCloud if you turn on Sync across devices. If your device is backed up, Apple’s backup may include them. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
 
 - For: iPhone, iPad and Mac
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
 - Reads: News, videos and podcasts from curated sources, and any feed you add
 - Kept: Saved stories and settings, on your iPhone, iPad or Mac
-- Privacy: No account with us. No tracking or advertising.
+- Privacy: No account with us. No tracking or advertising of its own.
 - Cost: Free
 
 [Visit watchvaultmedia.com](https://watchvaultmedia.com)
@@ -227,7 +227,7 @@ A record of something valuable is worth protecting like the thing itself. Held o
 
 ## How we build
 
-Privacy comes first. In every app the records are kept on the owner’s own device. The company runs no cloud service, keeps no customer accounts and holds no copy. Any copy elsewhere is the owner’s: a backup in a folder they pick, or their own iCloud. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media needs no account, and nothing in it records what you read.
+Privacy comes first. In every app the records are kept on the owner’s own device. The company runs no cloud service that holds them, keeps no customer accounts and holds no copy. Any copy elsewhere is the owner’s: a backup in a folder they pick, or their own iCloud. The rest is particular to each product. Watch Vault Archive is encrypted at rest with a key only its owner holds, so the company cannot read, recover or hand over that data. With Watch Vault Tracker, the company collects no information about a collection. Watch Vault Media needs no account, and it sends us nothing about what you open.
 
 ## What we publish
 

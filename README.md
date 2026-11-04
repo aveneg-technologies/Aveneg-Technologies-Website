@@ -35,7 +35,7 @@ When a fact about the company or a product changes, change it in the page **and*
 - All three products are in development. The Archive and the Tracker are coming Early 2027; Watch Vault
   Media has no date given, so none is stated. None is available. Watch Vault Media's web
   version is already online at watchvaultmedia.app (its app's FACTS.json, 2026-10-27): say so,
-  and never put the web under "Coming soon"; the Mac is the iPad app on Apple silicon.
+  and never put the web under "Coming soon"; the Mac is macOS 14 or later.
 - Watch Vault Media is sold by curation and your own feeds, never by source counts (Brad,
   2026-10-30, via WV Media Site): "news, videos and podcasts from sources curated for watch
   collectors", and in the app "any RSS or Atom feed of your own". No "N sites, N channels".

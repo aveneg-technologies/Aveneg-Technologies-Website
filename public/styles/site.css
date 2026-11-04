@@ -1379,18 +1379,6 @@ svg {
   color: var(--prose);
 }
 
-.colophon-credit {
-  color: var(--text);
-  text-decoration: underline;
-  text-decoration-color: var(--brass);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.22em;
-}
-
-.colophon-credit:hover {
-  color: var(--brass);
-}
-
 @media (min-width: 45em) and (max-width: 59.99em) {
   .colophon-grid {
     grid-template-columns: repeat(3, 1fr);

@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-11-04. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-11-05. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -36,7 +36,7 @@ Desktop software for a collection’s appraisals, service history, provenance an
 
 ### Watch Vault Tracker
 
-_In development, coming Early 2027_
+_On the App Store_
 
 The Watch Vault Tracker Today screen on an iPhone: a grid of drawn watches under the line “Tap the watch you’re wearing”, with the first watch ticked.
 
@@ -47,6 +47,7 @@ Records the watches a collector wears.
 Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Free for 30 days, then $4.99 once: after that, only adding a new watch needs the licence. No subscription, no advertising.
 
 - For: iPhone, iPad and Mac
+- Get it: On the [App Store](https://apps.apple.com/app/watch-vault-tracker/id6823708613)
 
 [Visit watchvaulttracker.com](https://watchvaulttracker.com)
 
@@ -115,7 +116,7 @@ _Products_
 
 # What we publish.
 
-Aveneg Technologies is building three apps for watch collectors, and Watch Vault Insurance is coming in 2027. The apps are separate products, and none requires another.
+Aveneg Technologies makes three apps for watch collectors, and Watch Vault Insurance is coming in 2027. The apps are separate products, and none requires another.
 
 ## Watch Vault Archive
 
@@ -140,7 +141,7 @@ Illustrative data, not a real collection.
 
 ## Watch Vault Tracker
 
-_In development, coming Early 2027_
+_On the App Store_
 
 Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears.
 
@@ -151,6 +152,7 @@ Open it, tap the photograph of the watch on your wrist, and the watch, the date 
 - Kept: On your iPhone, iPad or Mac
 - Privacy: No account with us. No copy held by Aveneg.
 - Cost: Free for 30 days, then $4.99 once
+- Get it: On the [App Store](https://apps.apple.com/app/watch-vault-tracker/id6823708613)
 
 [Visit watchvaulttracker.com](https://watchvaulttracker.com)
 
@@ -231,7 +233,7 @@ Privacy comes first. In every app the records are kept on the owner’s own devi
 
 ## What we publish
 
-The company is building three apps for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears; Watch Vault Media gathers the watch news a collector reads. They are separate products, and none requires another. Watch Vault Insurance, coming in 2027, will bring dedicated watch coverage to the family, provided through an established insurance partner.
+The company makes three apps for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears; Watch Vault Media gathers the watch news a collector reads. They are separate products, and none requires another. Watch Vault Insurance, coming in 2027, will bring dedicated watch coverage to the family, provided through an established insurance partner.
 
 [See the products](https://avenegtechnologies.com/products/)
 

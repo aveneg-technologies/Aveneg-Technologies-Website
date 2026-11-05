@@ -32,8 +32,9 @@ When a fact about the company or a product changes, change it in the page **and*
 - No absolute claim about where records go (Brad, 2026-11-04): never "no cloud", "never leave" or "only copy" without
   saying whose. Say "no cloud service of ours", "no account with us", "your records are never sent to us". Backups and
   sync an owner sets up can reach a service the owner chooses; each product's facts come from its app.
-- All three products are in development. The Archive and the Tracker are coming Early 2027; Watch Vault
-  Media has no date given, so none is stated. None is available. Watch Vault Media's web
+- Watch Vault Tracker is on the App Store (released 2026-11-05, version 1.9; WV Tracker Site): say "On the App Store",
+  never "in development" or "coming Early 2027", and name no Android plan. The Archive is coming Early 2027; Watch Vault
+  Media's apps have no date given, so none is stated, and neither is available. Watch Vault Media's web
   version is already online at watchvaultmedia.app (its app's FACTS.json, 2026-10-27): say so,
   and never put the web under "Coming soon"; the Mac is macOS 14 or later.
 - Watch Vault Media is sold by curation and your own feeds, never by source counts (Brad,

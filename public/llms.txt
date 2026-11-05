@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC
 
-> Aveneg Technologies, LLC is a privacy-first software publisher. It is building three apps for watch collectors; none of the apps has been released. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline; coming Early 2027. Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears; it is free for 30 days, then $4.99 once; coming Early 2027. Watch Vault Media is a free reader for watch news, videos and podcasts from curated sources, with any RSS or Atom feed the reader adds, for iPhone, iPad and Mac, coming soon, and already online at watchvaultmedia.app; it needs no account and adds no tracking of its own. Each keeps what it holds on the owner's own device. The company runs no cloud service that holds them and holds no copy; any copy elsewhere is the owner's, such as a backup in a folder they pick or their own iCloud. Watch Vault Insurance, dedicated watch coverage through an established insurance partner, is coming in 2027. Contact is by email only.
+> Aveneg Technologies, LLC is a privacy-first software publisher. It makes three apps for watch collectors; Watch Vault Tracker is on the App Store, and the others are not released yet. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline; coming Early 2027. Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears; it is free for 30 days, then $4.99 once; on the App Store since 2026-11-05 (https://apps.apple.com/app/watch-vault-tracker/id6823708613). Watch Vault Media is a free reader for watch news, videos and podcasts from curated sources, with any RSS or Atom feed the reader adds, for iPhone, iPad and Mac, coming soon, and already online at watchvaultmedia.app; it needs no account and adds no tracking of its own. Each keeps what it holds on the owner's own device. The company runs no cloud service that holds them and holds no copy; any copy elsewhere is the owner's, such as a backup in a folder they pick or their own iCloud. Watch Vault Insurance, dedicated watch coverage through an established insurance partner, is coming in 2027. Contact is by email only.
 
 - Address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350, United States
 - Commercial licensing and legal: legal@avenegtechnologies.com
@@ -8,7 +8,7 @@
 
 ## Start here
 
-- [Agent fact sheet](https://avenegtechnologies.com/AGENTS.md): who the company is, what it is building, how to reach it, and what the site does not say
+- [Agent fact sheet](https://avenegtechnologies.com/AGENTS.md): who the company is, what it makes, how to reach it, and what the site does not say
 - [Full text of the site](https://avenegtechnologies.com/llms-full.txt): the main content of every page in one file
 
 ## Company
@@ -23,8 +23,8 @@
 - [Watch Vault Archive](https://watchvaultarchive.com): encrypted, offline desktop software for Mac and Windows that documents what a collector owns; in development, coming Early 2027; on its own site
 - [Watch Vault Archive Terms of Service](https://watchvaultarchive.com/terms/): the terms published on the Archive's own site
 - [Watch Vault Archive Privacy Policy](https://watchvaultarchive.com/privacy/): how the Archive handles data
-- [Watch Vault Tracker](https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector wears; free for 30 days, then $4.99 once; in development, coming Early 2027; on its own site
-- [Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms): the terms published for the Tracker's website; the app's own terms are promised before release
+- [Watch Vault Tracker](https://watchvaulttracker.com): an app for iPhone, iPad and Mac that records the watches a collector wears; free for 30 days, then $4.99 once; on the App Store (https://apps.apple.com/app/watch-vault-tracker/id6823708613); on its own site
+- [Watch Vault Tracker Terms of Service](https://watchvaulttracker.com/terms): the terms published on the Tracker's own site
 - [Watch Vault Tracker Privacy Policy](https://watchvaulttracker.com/privacy): how the Tracker's website and app handle data
 - [Watch Vault Media](https://watchvaultmedia.com): a reader for watch news, videos and podcasts from curated sources, plus any RSS or Atom feed you add in the app, for iPhone, iPad and Mac and on the web (watchvaultmedia.app); stories are linked, never republished; free; no account, no tracking of its own; the apps coming soon, the web version already online; on its own site
 - [Watch Vault Media Terms of Service](https://watchvaultmedia.com/terms): the terms published on the Media site

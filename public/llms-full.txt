@@ -46,8 +46,9 @@ Records the watches a collector wears.
 
 Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. Free for 30 days, then $4.99 once: after that, only adding a new watch needs the licence. No subscription, no advertising.
 
+[Download on the App Store](https://apps.apple.com/app/watch-vault-tracker/id6823708613)
+
 - For: iPhone, iPad and Mac
-- Get it: On the [App Store](https://apps.apple.com/app/watch-vault-tracker/id6823708613)
 
 [Visit watchvaulttracker.com](https://watchvaulttracker.com)
 
@@ -147,12 +148,13 @@ Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches 
 
 Open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs are kept on your iPhone, iPad or Mac, and in your own iCloud if you turn on Sync across devices. If your device backs up to iCloud, Apple’s backup includes them. Every feature is free for 30 days, then $4.99 once: after that, only adding a new watch needs a one-time licence, bought through Apple for your Apple Account. Recording wears, editing, accuracy checks, exports and backups never need it. No subscription, no advertising.
 
+[Download on the App Store](https://apps.apple.com/app/watch-vault-tracker/id6823708613)
+
 - For: iPhone, iPad and Mac
 - Records: Each watch worn, with its date and time
 - Kept: On your iPhone, iPad or Mac
 - Privacy: No account with us. No copy held by Aveneg.
 - Cost: Free for 30 days, then $4.99 once
-- Get it: On the [App Store](https://apps.apple.com/app/watch-vault-tracker/id6823708613)
 
 [Visit watchvaulttracker.com](https://watchvaulttracker.com)
 

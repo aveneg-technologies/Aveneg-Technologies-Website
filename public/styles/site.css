@@ -804,6 +804,24 @@ svg {
   margin-top: var(--s-6);
 }
 
+/* Apple's App Store badge, its own artwork unmodified (black, en-us, as
+   watchvaulttracker.com serves it). 48px tall, above Apple's 40px minimum;
+   the padding keeps the quarter-height clear space Apple asks for. */
+.store-badge {
+  margin: var(--s-4) 0 0;
+}
+
+.store-badge a {
+  display: inline-block;
+  padding: 12px 12px 12px 0;
+}
+
+.store-badge img {
+  display: block;
+  height: 48px;
+  width: auto;
+}
+
 /* Phones. Pictures sit in the flow and are shown complete.
    Archive: the left 40% of the published image, three rows of the list.
    Source 1024 x 942; window x 15 to 430, y 604 to 914: rows four to six.

@@ -1,6 +1,6 @@
 # Aveneg Technologies, LLC — full text of avenegtechnologies.com
 
-> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-11-05. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
+> The main content of every page on https://avenegtechnologies.com (the repeated header and footer are omitted), generated from the pages themselves; content last changed 2026-11-06. If this file and a page disagree, the page wins. Short index: https://avenegtechnologies.com/llms.txt. Fact sheet: https://avenegtechnologies.com/AGENTS.md.
 
 ---
 
@@ -54,7 +54,7 @@ Open it, tap the photograph of the watch on your wrist, and the watch, the date 
 
 ### Watch Vault Media
 
-_Coming soon_
+_On the App Store_
 
 The Watch Vault Media Latest screen on an iPhone: topic buttons along the top, then today’s stories, newest first, each with its publisher’s picture, headline and short summary.
 
@@ -64,7 +64,9 @@ Gathers the watch news a collector reads.
 
 Watch news, videos and podcasts from sources curated for watch collectors, in one list, newest first. In the app you can add any RSS or Atom feed of your own. Each story opens where its publisher put it. Every feature is free: no account, and no advertising or tracking of its own.
 
-- For: iPhone, iPad and Mac
+[Download on the App Store](https://apps.apple.com/app/watch-vault-media/id6826581152)
+
+- For: iPhone and iPad; Mac coming soon
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
 
 [Visit watchvaultmedia.com](https://watchvaultmedia.com)
@@ -166,16 +168,18 @@ An illustration, not a screenshot. The watches are drawn; in the app they are yo
 
 ## Watch Vault Media
 
-_Coming soon_
+_On the App Store_
 
-Watch Vault Media is a reader for watch news, videos and podcasts, for iPhone, iPad and Mac. It is also on the web.
+Watch Vault Media is a reader for watch news, videos and podcasts, for iPhone and iPad, with the Mac version coming soon. It is also on the web.
 
-It gathers watch news, videos and podcasts from sources curated for watch collectors into one list, newest first. In the app you can add any RSS or Atom feed of your own: a site’s, a YouTube channel’s or a podcast’s. Each story opens where its publisher put it: linked, never republished. It needs no account and adds no tracking, analytics or advertising of its own; a publisher’s page shows its own. Your saved stories and settings are kept on your iPhone, iPad or Mac, and in your own iCloud if you turn on Sync across devices. If your device is backed up, Apple’s backup may include them. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
+It gathers watch news, videos and podcasts from sources curated for watch collectors into one list, newest first. In the app you can add any RSS or Atom feed of your own: a site’s, a YouTube channel’s or a podcast’s. Each story opens where its publisher put it: linked, never republished. It needs no account and adds no tracking, analytics or advertising of its own; a publisher’s page shows its own. Your saved stories and settings are kept on your iPhone or iPad, and in your own iCloud if you turn on Sync across devices. If your device is backed up, Apple’s backup may include them. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
 
-- For: iPhone, iPad and Mac
+[Download on the App Store](https://apps.apple.com/app/watch-vault-media/id6826581152)
+
+- For: iPhone and iPad; Mac coming soon
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
 - Reads: News, videos and podcasts from curated sources, and any feed you add
-- Kept: Saved stories and settings, on your iPhone, iPad or Mac
+- Kept: Saved stories and settings, on your iPhone or iPad
 - Privacy: No account with us. No tracking or advertising of its own.
 - Cost: Free
 

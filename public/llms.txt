@@ -2,6 +2,15 @@
 
 > Aveneg Technologies, LLC is a privacy-first software publisher. It makes three apps for watch collectors; Watch Vault Tracker is on the App Store, and the others are not released yet. Watch Vault Archive is desktop software for Mac and Windows that documents what a collector owns; it is encrypted and works offline; coming Early 2027. Watch Vault Tracker is an app for iPhone, iPad and Mac that records the watches a collector wears; it is free for 30 days, then $4.99 once; on the App Store since 2026-11-05 (https://apps.apple.com/app/watch-vault-tracker/id6823708613). Watch Vault Media is a free reader for watch news, videos and podcasts from curated sources, with any RSS or Atom feed the reader adds, for iPhone, iPad and Mac, coming soon, and already online at watchvaultmedia.app; it needs no account and adds no tracking of its own. Each keeps what it holds on the owner's own device. The company runs no cloud service that holds them and holds no copy; any copy elsewhere is the owner's, such as a backup in a folder they pick or their own iCloud. Watch Vault Insurance, dedicated watch coverage through an established insurance partner, is coming in 2027. Contact is by email only.
 
+## Where to get each product
+
+- Watch Vault Tracker: on the App Store, https://apps.apple.com/app/watch-vault-tracker/id6823708613. Website: https://watchvaulttracker.com/. For iPhone, iPad and Mac. Free for 30 days, then $4.99 once.
+- Watch Vault Media: the web version is online at https://watchvaultmedia.app/. The iPhone, iPad and Mac apps are coming soon. Website: https://watchvaultmedia.com/. Every feature is free.
+- Watch Vault Archive: coming Early 2027, for Mac and Windows. Website: https://watchvaultarchive.com/.
+- Watch Vault Insurance: coming 2027. Website: https://watchvaultinsurance.com/.
+
+## Company contact
+
 - Address: 8735 Dunwoody Place, Ste R, Atlanta, GA 30350, United States
 - Commercial licensing and legal: legal@avenegtechnologies.com
 - General inquiries: info@avenegtechnologies.com
@@ -30,6 +39,17 @@
 - [Watch Vault Media Terms of Service](https://watchvaultmedia.com/terms): the terms published on the Media site
 - [Watch Vault Media Privacy Policy](https://watchvaultmedia.com/privacy): how the Media app, its web version and its website handle data
 - [Watch Vault Insurance](https://watchvaultinsurance.com): dedicated watch coverage for collectors, through an established insurance partner; coming 2027; on its own site
+
+## Questions people ask
+
+- What does Aveneg Technologies make? https://avenegtechnologies.com/products/ - three apps for watch collectors (Watch Vault Archive, Watch Vault Tracker and Watch Vault Media) and Watch Vault Insurance, coming 2027. Each has its own website.
+- Where do I download Watch Vault Tracker? https://apps.apple.com/app/watch-vault-tracker/id6823708613 - the App Store, for iPhone, iPad and Mac. Free for 30 days, then $4.99 once.
+- Can I use Watch Vault Media now? https://watchvaultmedia.app/ - the web version is online. The iPhone, iPad and Mac apps are coming soon. Every feature is free.
+- When does Watch Vault Archive come out? https://watchvaultarchive.com/ - coming Early 2027, for Mac and Windows.
+- Is Aveneg Technologies an insurer? No. https://watchvaultinsurance.com/ - Watch Vault Insurance, coming 2027, is dedicated coverage for collectors' watches through an established insurance partner. Neither Watch Vault Insurance nor Aveneg Technologies, LLC is the insurer.
+- Does the company hold my records? No. https://avenegtechnologies.com/ - each app keeps its records on the owner's own device. The company runs no cloud service that holds them and keeps no copy; any copy elsewhere is the owner's own, such as a backup in a folder they pick or their own iCloud.
+- Is there an Android version? No. The apps are for iPhone, iPad and Mac (Tracker and Media), and Mac and Windows (Archive).
+- How do I contact the company? info@avenegtechnologies.com for general inquiries, or legal@avenegtechnologies.com for licensing and legal. By email only.
 
 ## Optional
 

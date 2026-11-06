@@ -29,6 +29,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | Licensing, partnerships and legal | legal@avenegtechnologies.com |
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
+| Structured data | The company is https://avenegtechnologies.com/#org on every family site. The products are https://watchvaultarchive.com/#app, https://watchvaulttracker.com/#app, https://watchvaultmedia.com/#app and https://watchvaultinsurance.com/#service |
 | Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com; Watch Vault Media, https://watchvaultmedia.com. The Archive in development, coming Early 2027; the Tracker on the App Store, https://apps.apple.com/app/watch-vault-tracker/id6823708613; Media's apps coming soon, with no date given, and its web version already online at https://watchvaultmedia.app. Watch Vault Insurance, https://watchvaultinsurance.com, coming 2027 |
 
 ## What the company makes

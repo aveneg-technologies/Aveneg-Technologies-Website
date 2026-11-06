@@ -13,6 +13,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/styles/site.css">
+<link rel="alternate" type="text/markdown" href="/llms.txt" title="Site summary for language models">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Aveneg Technologies">
@@ -42,47 +43,63 @@
       "isPartOf": { "@id": "https://avenegtechnologies.com/#site" },
       "about": { "@id": "https://avenegtechnologies.com/#org" },
       "mainEntity": [
-        { "@id": "https://avenegtechnologies.com/products/#watch-vault-archive" },
-        { "@id": "https://avenegtechnologies.com/products/#watch-vault-tracker" },
-        { "@id": "https://avenegtechnologies.com/products/#watch-vault-media" },
-        { "@id": "https://avenegtechnologies.com/products/#watch-vault-insurance" }
+        { "@id": "https://watchvaultarchive.com/#app" },
+        { "@id": "https://watchvaulttracker.com/#app" },
+        { "@id": "https://watchvaultmedia.com/#app" },
+        { "@id": "https://watchvaultinsurance.com/#service" }
       ]
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://avenegtechnologies.com/products/#watch-vault-archive",
+      "@id": "https://watchvaultarchive.com/#app",
       "name": "Watch Vault Archive",
       "url": "https://watchvaultarchive.com",
       "operatingSystem": "macOS, Windows",
+      "applicationCategory": "LifestyleApplication",
       "creativeWorkStatus": "In development",
+      "image": "https://avenegtechnologies.com/img/watch-vault-archive.webp",
       "description": "Desktop software for Mac and Windows that documents what a collector owns: appraisals, service history, provenance and succession. Encrypted at rest with a key only its owner holds, offline, with records held on the owner’s own computer. Copies leave the computer only as files the owner saves, including encrypted backups in a folder the owner picks. In development. Coming Early 2027.",
       "publisher": { "@id": "https://avenegtechnologies.com/#org" }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://avenegtechnologies.com/products/#watch-vault-tracker",
+      "@id": "https://watchvaulttracker.com/#app",
       "name": "Watch Vault Tracker",
       "url": "https://watchvaulttracker.com",
       "operatingSystem": "iOS, iPadOS, macOS",
-      "creativeWorkStatus": "Released",
+      "applicationCategory": "LifestyleApplication",
+      "creativeWorkStatus": "Published",
       "datePublished": "2026-11-05",
       "downloadUrl": "https://apps.apple.com/app/watch-vault-tracker/id6823708613",
+      "installUrl": "https://apps.apple.com/app/watch-vault-tracker/id6823708613",
+      "sameAs": ["https://apps.apple.com/app/watch-vault-tracker/id6823708613"],
+      "image": "https://avenegtechnologies.com/img/watch-vault-tracker.webp",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "url": "https://apps.apple.com/app/watch-vault-tracker/id6823708613",
+        "description": "Free for 30 days, then $4.99 once: after that, only adding a new watch needs the licence."
+      },
       "description": "An app for iPhone, iPad and Mac that records the watches a collector wears: open it, tap the photograph of the watch on your wrist, and the watch, the date and the time are kept. We don’t collect any information about your collection: your records and photographs are kept on your iPhone, iPad or Mac, and in your own iCloud if you turn on Sync across devices. If your device backs up to iCloud, Apple’s backup includes them. Free for 30 days, then $4.99 once. On the App Store.",
       "publisher": { "@id": "https://avenegtechnologies.com/#org" }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://avenegtechnologies.com/products/#watch-vault-media",
+      "@id": "https://watchvaultmedia.com/#app",
       "name": "Watch Vault Media",
       "url": "https://watchvaultmedia.com",
       "operatingSystem": "iOS, iPadOS, macOS, Web",
+      "applicationCategory": "NewsApplication",
       "creativeWorkStatus": "Coming soon",
+      "isAccessibleForFree": true,
+      "screenshot": "https://avenegtechnologies.com/img/watch-vault-media.webp",
       "description": "A reader for watch news, videos and podcasts, for iPhone, iPad and Mac, and on the web: watch news, videos and podcasts from sources curated for watch collectors, in one list, newest first, each linked to its publisher, never republished. In the app the reader can add any RSS or Atom feed of their own. No account, and no tracking, analytics or advertising of its own; saved stories and settings are kept on the device, and in the reader’s own iCloud if they turn on Sync across devices. If the device is backed up, Apple’s backup may include them. Free. The apps are coming soon; the web version is already online at https://watchvaultmedia.app.",
       "publisher": { "@id": "https://avenegtechnologies.com/#org" }
     },
     {
       "@type": "Service",
-      "@id": "https://avenegtechnologies.com/products/#watch-vault-insurance",
+      "@id": "https://watchvaultinsurance.com/#service",
       "name": "Watch Vault Insurance",
       "url": "https://watchvaultinsurance.com",
       "serviceType": "Watch insurance",

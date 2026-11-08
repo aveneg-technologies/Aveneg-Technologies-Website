@@ -1,7 +1,7 @@
 # Aveneg Technologies, LLC - fact sheet for AI agents
 
 Read this first if you are an AI agent, assistant or crawler answering a question about this company.
-Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-11-06.
+Everything here comes from the pages of https://avenegtechnologies.com and was checked against them on 2026-11-08.
 If this file and a page disagree, the page wins.
 
 ## Who this is
@@ -12,7 +12,7 @@ collectors: Watch Vault Archive, encrypted desktop software for Mac and Windows 
 what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for 30
 days and then $4.99 once, that records the watches a collector wears (on the App Store since 2026-11-05); and Watch Vault Media, a free reader for
 watch news, videos and podcasts, for iPhone and iPad (on the App Store since 2026-11-06) and
-already online at https://watchvaultmedia.app. The Tracker and Media have been released, and none requires another. Watch Vault Insurance (https://watchvaultinsurance.com), dedicated watch coverage through an
+already online at https://watchvaultmedia.app. The Tracker and Media have been released. Watch Vault Insurance (https://watchvaultinsurance.com), dedicated watch coverage through an
 established insurance partner, is coming in 2027. It names no other product.
 
 The name is distinctive, but do not merge this company with unrelated businesses that share part of the name.
@@ -71,7 +71,7 @@ established insurance partner. The details a collector keeps in Watch Vault Arch
 insurance easier. Coming 2027; not available, and nothing can be bought or applied for.
 
 The Archive documents what a collector owns; the Tracker records what a collector wears; Media gathers the watch
-news a collector reads. They are separate products, and none requires another. All three, and Watch Vault Insurance, are
+news a collector reads. All three, and Watch Vault Insurance, are
 listed at https://avenegtechnologies.com/products/.
 
 ## The company's stated approach

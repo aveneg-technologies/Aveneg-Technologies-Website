@@ -508,12 +508,6 @@ svg {
   text-wrap: balance;
 }
 
-.aside-line {
-  max-width: 38rem;
-  margin: var(--s-5) 0 0;
-  color: var(--prose);
-}
-
 .footnote {
   max-width: 46rem;
   margin: var(--s-5) 0 0;

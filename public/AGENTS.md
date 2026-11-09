@@ -7,8 +7,8 @@ If this file and a page disagree, the page wins.
 ## Who this is
 
 Aveneg Technologies, LLC is a privacy-first software publisher. Its apps keep a collector's records on the
-collector's own computer, iPhone or iPad, and the company holds no copy. It makes three apps for watch
-collectors: Watch Vault Archive, encrypted desktop software for Mac and Windows that documents
+collector's own computer, iPhone or iPad, and the company holds no copy. It makes four products for watch
+collectors, three of them apps: Watch Vault Archive, encrypted desktop software for Mac and Windows that documents
 what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhone, iPad and Mac, free for 30
 days and then $4.99 once, that records the watches a collector wears (on the App Store since 2026-11-05); and Watch Vault Media, a free reader for
 watch news, videos and podcasts, for iPhone, iPad and Mac (on the App Store since 2026-11-06; Mac since 2026-11-08) and
@@ -71,7 +71,7 @@ established insurance partner. The details a collector keeps in Watch Vault Arch
 insurance easier. Coming 2027; not available, and nothing can be bought or applied for.
 
 The Archive documents what a collector owns; the Tracker records what a collector wears; Media gathers the watch
-news a collector reads. All three, and Watch Vault Insurance, are
+news a collector reads. All four products are
 listed at https://avenegtechnologies.com/products/.
 
 ## The company's stated approach

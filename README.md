@@ -34,8 +34,8 @@ When a fact about the company or a product changes, change it in the page **and*
   sync an owner sets up can reach a service the owner chooses; each product's facts come from its app.
 - Watch Vault Tracker is on the App Store (released 2026-11-05, version 1.9; WV Tracker Site): say "On the App Store",
   never "in development" or "coming Early 2027", and name no Android plan. Watch Vault Media is on the App
-  Store for iPhone and iPad (released 2026-11-06, version 1.37; WV Media App); its Mac version is in Apple's review, so
-  name no Mac for Media until WV Media App says it is approved, as Media's own site does. The Archive is coming Early 2027, and is not available. Watch Vault Media's web
+  Store for iPhone, iPad and Mac (iPhone and iPad released 2026-11-06, version 1.37; Mac 2026-11-08; WV Media App):
+  one listing for all three. The Archive is coming Early 2027, and is not available. Watch Vault Media's web
   version is already online at watchvaultmedia.app (its app's FACTS.json, 2026-10-27): say so,
   and never put the web under "Coming soon"; the Mac is macOS 14 or later.
 - No line whose only job is to say the products are separate or that none requires another (Brad, 2026-11-08:

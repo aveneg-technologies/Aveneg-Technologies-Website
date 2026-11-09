@@ -66,7 +66,7 @@ Watch news, videos and podcasts from sources curated for watch collectors, in on
 
 [Download on the App Store](https://apps.apple.com/app/watch-vault-media/id6826581152)
 
-- For: iPhone and iPad
+- For: iPhone, iPad and Mac
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
 
 [Visit watchvaultmedia.com](https://watchvaultmedia.com)
@@ -168,16 +168,16 @@ An illustration, not a screenshot. The watches are drawn; in the app they are yo
 
 _On the App Store_
 
-Watch Vault Media is a reader for watch news, videos and podcasts, for iPhone and iPad. It is also on the web.
+Watch Vault Media is a reader for watch news, videos and podcasts, for iPhone, iPad and Mac. It is also on the web.
 
-It gathers watch news, videos and podcasts from sources curated for watch collectors into one list, newest first. In the app you can add any RSS or Atom feed of your own: a site’s, a YouTube channel’s or a podcast’s. Each story opens where its publisher put it: linked, never republished. It needs no account and adds no tracking, analytics or advertising of its own; a publisher’s page shows its own. Your saved stories and settings are kept on your iPhone or iPad, and in your own iCloud if you turn on Sync across devices. If your device is backed up, Apple’s backup may include them. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
+It gathers watch news, videos and podcasts from sources curated for watch collectors into one list, newest first. In the app you can add any RSS or Atom feed of your own: a site’s, a YouTube channel’s or a podcast’s. Each story opens where its publisher put it: linked, never republished. It needs no account and adds no tracking, analytics or advertising of its own; a publisher’s page shows its own. Your saved stories and settings are kept on your iPhone, iPad or Mac, and in your own iCloud if you turn on Sync across devices. If your device is backed up, Apple’s backup may include them. On iPhone, Home Screen and Lock Screen widgets show the newest stories. Every feature is free; there is a place to leave an optional tip, and a tip unlocks nothing.
 
 [Download on the App Store](https://apps.apple.com/app/watch-vault-media/id6826581152)
 
-- For: iPhone and iPad
+- For: iPhone, iPad and Mac
 - Web: Already online at [watchvaultmedia.app](https://watchvaultmedia.app)
 - Reads: News, videos and podcasts from curated sources, and any feed you add
-- Kept: Saved stories and settings, on your iPhone or iPad
+- Kept: Saved stories and settings, on your iPhone, iPad or Mac
 - Privacy: No account with us. No tracking or advertising of its own.
 - Cost: Free
 

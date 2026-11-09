@@ -10,7 +10,7 @@ _Privacy first, on your own devices, no copy held_
 
 # Your records are never sent to us.
 
-Aveneg Technologies makes software for watch collectors. Watch Vault Archive and Watch Vault Tracker keep your records on your own computer, iPhone or iPad.
+Aveneg Technologies makes software for watch collectors. Watch Vault Archive and Watch Vault Tracker keep your records on your own computer, iPhone, iPad or Mac.
 
 [See the products](https://avenegtechnologies.com/products/) [About the company](https://avenegtechnologies.com/about/)
 

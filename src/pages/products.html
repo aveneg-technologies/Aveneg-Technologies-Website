@@ -1,7 +1,7 @@
 <!--
 path: /products/
 title: Products · Aveneg Technologies, LLC
-description: The four products Aveneg Technologies, LLC makes for watch collectors: Watch Vault Archive, for Mac and Windows; Watch Vault Tracker, for iPhone, iPad and Mac, on the App Store; Watch Vault Media, for iPhone, iPad and Mac, on the App Store, and on the web; and Watch Vault Insurance, coming in 2027.
+description: The four products Aveneg Technologies, LLC makes for watch collectors: Watch Vault Archive, for Mac and Windows; Watch Vault Tracker, for iPhone, iPad and Mac, on the App Store; Watch Vault Media, for iPhone, iPad and Mac, on the App Store, and on the web; and Watch Vault Insurance, coming in 2027. It also publishes Watch Vault History, a free reference website on the history of watchmaking.
 nav: products
 modified: 2026-11-08
 -->
@@ -14,7 +14,7 @@ modified: 2026-11-08
       "@id": "https://avenegtechnologies.com/products/#page",
       "url": "https://avenegtechnologies.com/products/",
       "name": "Products · Aveneg Technologies, LLC",
-      "description": "The four products Aveneg Technologies, LLC makes for watch collectors: Watch Vault Archive, for Mac and Windows; Watch Vault Tracker, for iPhone, iPad and Mac, on the App Store; Watch Vault Media, for iPhone, iPad and Mac, on the App Store, and on the web; and Watch Vault Insurance, coming in 2027.",
+      "description": "The four products Aveneg Technologies, LLC makes for watch collectors: Watch Vault Archive, for Mac and Windows; Watch Vault Tracker, for iPhone, iPad and Mac, on the App Store; Watch Vault Media, for iPhone, iPad and Mac, on the App Store, and on the web; and Watch Vault Insurance, coming in 2027. It also publishes Watch Vault History, a free reference website on the history of watchmaking.",
       "dateModified": "2026-11-08",
       "inLanguage": "en",
       "isPartOf": { "@id": "https://avenegtechnologies.com/#site" },
@@ -24,7 +24,8 @@ modified: 2026-11-08
         { "@id": "https://watchvaulttracker.com/#app" },
         { "@id": "https://watchvaultmedia.com/#app" },
         { "@id": "https://watchvaultinsurance.com/#service" }
-      ]
+      ],
+      "mentions": [{ "@id": "https://watchvaulthistory.com/#site" }]
     },
     {
       "@type": "SoftwareApplication",
@@ -92,6 +93,16 @@ modified: 2026-11-08
       "url": "https://watchvaultinsurance.com/",
       "serviceType": "Watch insurance",
       "description": "Dedicated watch coverage for the Watch Vault family, coming in 2027. Designed for collectors, it will provide a straightforward way to insure individual watches or an entire collection against risks such as theft, loss and accidental damage. Coverage will be provided through an established insurance partner. Coming 2027."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://watchvaulthistory.com/#site",
+      "name": "Watch Vault History",
+      "url": "https://watchvaulthistory.com/",
+      "description": "Watch Vault History tells the history of watchmaking as one connected story, in five eras: through the companies, people, places, technologies, objects and events it is made of, each written from cited sources.",
+      "isAccessibleForFree": true,
+      "inLanguage": "en",
+      "publisher": { "@id": "https://avenegtechnologies.com/#org" }
     }
   ]
 }
@@ -101,7 +112,7 @@ modified: 2026-11-08
   <div class="wrap">
     <p class="label">Products</p>
     <h1 class="display">What we publish.</h1>
-    <p class="lead">Aveneg Technologies makes four products for watch collectors: three apps, and Watch Vault Insurance, coming in 2027.</p>
+    <p class="lead">Aveneg Technologies makes four products for watch collectors: three apps, and Watch Vault Insurance, coming in 2027. It also publishes Watch Vault History, a free reference website.</p>
   </div>
 </section>
 
@@ -202,6 +213,23 @@ modified: 2026-11-08
         <div class="fact"><dt class="fact-term">Insurer</dt><dd class="fact-value">An established insurance partner</dd></div>
       </dl>
       <a class="button button-brass entry-link" href="https://watchvaultinsurance.com">Visit watchvaultinsurance.com</a>
+    </div>
+  </div>
+</section>
+
+<section class="section section-ruled">
+  <div class="wrap product">
+    <div class="product-copy col-8">
+      <h2 class="entry-name">
+        {{include:lockup-history}}
+      </h2>
+      <p class="entry-line">Watch Vault History is a free reference website on the history of watchmaking.</p>
+      <p class="entry-text">It tells the history of watchmaking as one connected story, in five eras: through the companies, people, places, technologies, objects and events it is made of, each written from cited sources. It is a website, with no app.</p>
+      <dl class="facts">
+        <div class="fact"><dt class="fact-term">Read</dt><dd class="fact-value">Free, on the web</dd></div>
+        <div class="fact"><dt class="fact-term">Sources</dt><dd class="fact-value">Every page cites what it was written from</dd></div>
+      </dl>
+      <a class="button button-brass entry-link" href="https://watchvaulthistory.com">Visit watchvaulthistory.com</a>
     </div>
   </div>
 </section>

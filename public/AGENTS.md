@@ -13,7 +13,8 @@ what a collector owns (coming Early 2027); Watch Vault Tracker, an app for iPhon
 days and then $4.99 once, that records the watches a collector wears (on the App Store since 2026-11-05); and Watch Vault Media, a free reader for
 watch news, videos and podcasts, for iPhone, iPad and Mac (on the App Store since 2026-11-06; Mac since 2026-11-08) and
 already online at https://watchvaultmedia.app. The Tracker and Media have been released. Watch Vault Insurance (https://watchvaultinsurance.com), dedicated watch coverage through an
-established insurance partner, is coming in 2027. It names no other product.
+established insurance partner, is coming in 2027. It names no other product. The company also publishes Watch Vault History
+(https://watchvaulthistory.com), a free reference website on the history of watchmaking.
 
 The name is distinctive, but do not merge this company with unrelated businesses that share part of the name.
 This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website is avenegtechnologies.com.
@@ -29,7 +30,7 @@ This company is at 8735 Dunwoody Place, Ste R, Atlanta, GA 30350 and its website
 | Licensing, partnerships and legal | legal@avenegtechnologies.com |
 | General inquiries | info@avenegtechnologies.com |
 | Website | https://avenegtechnologies.com |
-| Structured data | The company is https://avenegtechnologies.com/#org on every family site. The products are https://watchvaultarchive.com/#app, https://watchvaulttracker.com/#app, https://watchvaultmedia.com/#app and https://watchvaultinsurance.com/#service |
+| Structured data | The company is https://avenegtechnologies.com/#org on every family site. The products are https://watchvaultarchive.com/#app, https://watchvaulttracker.com/#app, https://watchvaultmedia.com/#app and https://watchvaultinsurance.com/#service; the website Watch Vault History is https://watchvaulthistory.com/#site |
 | Products | Watch Vault Archive, https://watchvaultarchive.com; Watch Vault Tracker, https://watchvaulttracker.com; Watch Vault Media, https://watchvaultmedia.com. The Archive in development, coming Early 2027; the Tracker on the App Store, https://apps.apple.com/app/watch-vault-tracker/id6823708613; Media on the App Store, https://apps.apple.com/app/watch-vault-media/id6826581152, for iPhone, iPad and Mac, and its web version already online at https://watchvaultmedia.app. Watch Vault Insurance, https://watchvaultinsurance.com, coming 2027 |
 
 ## What the company makes
@@ -70,8 +71,14 @@ entire collection against risks such as theft, loss and accidental damage. Cover
 established insurance partner. The details a collector keeps in Watch Vault Archive can help make managing
 insurance easier. Coming 2027; not available, and nothing can be bought or applied for.
 
+**Watch Vault History** (https://watchvaulthistory.com): a free reference website, with no app. It tells the history
+of watchmaking as one connected story, in five eras: through the companies, people, places, technologies, objects
+and events it is made of, each written from cited sources. Live since 2026-11-12; until 2026-11-11 it was called
+Watch Vault Brands. It has no status, price or App Store listing. Its own guide for language models is
+https://watchvaulthistory.com/llms.txt.
+
 The Archive documents what a collector owns; the Tracker records what a collector wears; Media gathers the watch
-news a collector reads. All four products are
+news a collector reads. All four products, and Watch Vault History, are
 listed at https://avenegtechnologies.com/products/.
 
 ## The company's stated approach
@@ -128,6 +135,8 @@ product's own site:
   (Media). On a Mac with Apple silicon the Tracker runs as its iPad app, with no features of its own;
   Watch Vault Media's Mac app needs macOS 14 or later. No product is for Android.
 - Whether Watch Vault Tracker encrypts its records.
+- A status, release date, price, app or App Store link for Watch Vault History: it is a website, free to read.
+- The name "Watch Vault Brands": the site has been Watch Vault History since 2026-11-11.
 - Names of owners, founders or staff.
 - Headcount, revenue, funding or founding date.
 - Any product other than Watch Vault Archive, Watch Vault Tracker, Watch Vault Media and Watch Vault Insurance.

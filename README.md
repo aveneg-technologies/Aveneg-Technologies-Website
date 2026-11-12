@@ -38,6 +38,11 @@ When a fact about the company or a product changes, change it in the page **and*
   one listing for all three. The Archive is coming Early 2027, and is not available. Watch Vault Media's web
   version is already online at watchvaultmedia.app (its app's FACTS.json, 2026-10-27): say so,
   and never put the web under "Coming soon"; the Mac is macOS 14 or later.
+- Watch Vault History (https://watchvaulthistory.com, live 2026-11-12; "Watch Vault Brands" until 2026-11-11) is a
+  website, not a product: free to read, no app, no status, no App Store badge, and not counted among the four
+  products. Its facts come from its repo's site.config.js at origin/main (session "Watch Vault History"); its
+  structured-data @id is https://watchvaulthistory.com/#site. Its mark on this site is its own, copied from its
+  src/partials/lockup-mark.svg.
 - Count the products as four (Brad, 2026-11-08: "there are 4 apps"): "four products for watch collectors", three
   apps and Watch Vault Insurance. Never "three apps" as the company's total.
 - No line whose only job is to say the products are separate or that none requires another (Brad, 2026-11-08:

@@ -280,6 +280,14 @@ svg {
   fill: var(--muted);
 }
 
+/* The Watch Vault History mark is the History site's own (src/partials/lockup-history.html),
+   with the History site's own class names. */
+.mk-brass { fill: var(--brass); }
+.mk-brass-line { stroke: var(--brass); }
+.mk-ivory { fill: var(--lockup); }
+.mk-ink { fill: var(--ink); }
+.mk-ink-line { stroke: var(--ink); }
+
 .lk-tm {
   fill: var(--text);
   font-family: var(--sans);

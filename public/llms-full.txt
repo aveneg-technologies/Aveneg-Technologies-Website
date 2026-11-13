@@ -85,7 +85,7 @@ A straightforward way to insure individual watches or an entire collection again
 
 _Also published_
 
-## A reference website, free to read.
+## Reference websites, free to read.
 
 ### Watch Vault History
 
@@ -96,6 +96,16 @@ Watch Vault History tells it in five eras, through the companies, people, places
 - Read: Free, on the web
 
 [Visit watchvaulthistory.com](https://watchvaulthistory.com)
+
+### Watch Vault Vintage
+
+The watches and references that shaped modern watchmaking, through 1999.
+
+Watch Vault Vintage follows important watch lines reference by reference, through 1999: what came before, what changed and what came next, with every claim cited.
+
+- Read: Free, on the web
+
+[Visit watchvaultvintage.com](https://watchvaultvintage.com)
 
 _Privacy first_
 
@@ -131,7 +141,7 @@ _Products_
 
 # What we publish.
 
-Aveneg Technologies makes four products for watch collectors: three apps, and Watch Vault Insurance, coming in 2027. It also publishes Watch Vault History, a free reference website.
+Aveneg Technologies makes four products for watch collectors: three apps, and Watch Vault Insurance, coming in 2027. It also publishes two free reference websites, Watch Vault History and Watch Vault Vintage.
 
 ## Watch Vault Archive
 
@@ -228,6 +238,17 @@ It tells the history of watchmaking as one connected story, in five eras: throug
 
 [Visit watchvaulthistory.com](https://watchvaulthistory.com)
 
+## Watch Vault Vintage
+
+Watch Vault Vintage is a free reference website on the watches and references that shaped modern watchmaking, through 1999.
+
+It follows important watch lines reference by reference: what came before, what changed and what came next, maker by maker and line by line. Watch Vault History covers the companies, people and technologies; Watch Vault Vintage follows the watches themselves. It is a website, with no app.
+
+- Read: Free, on the web
+- Sources: Every claim cites its source
+
+[Visit watchvaultvintage.com](https://watchvaultvintage.com)
+
 Each product is licensed under its own documents, published on its own site, and those documents can differ from one product to the next. This website’s own [Terms of Service](https://avenegtechnologies.com/terms/) and [Privacy Policy](https://avenegtechnologies.com/privacy/) cover avenegtechnologies.com only.
 
 ---
@@ -262,7 +283,7 @@ Privacy comes first. In every app the records are kept on the owner’s own devi
 
 ## What we publish
 
-The company makes four products for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears; Watch Vault Media gathers the watch news a collector reads. Watch Vault Insurance, coming in 2027, will bring dedicated watch coverage to the family, provided through an established insurance partner. It also publishes Watch Vault History, a free website that tells the history of watchmaking as one connected story.
+The company makes four products for watch collectors. Watch Vault Archive documents what a collector owns; Watch Vault Tracker records what a collector wears; Watch Vault Media gathers the watch news a collector reads. Watch Vault Insurance, coming in 2027, will bring dedicated watch coverage to the family, provided through an established insurance partner. It also publishes two free reference websites: Watch Vault History, which tells the history of watchmaking as one connected story, and Watch Vault Vintage, which follows the watches and references that shaped modern watchmaking, through 1999.
 
 [See the products](https://avenegtechnologies.com/products/)
 

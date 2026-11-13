@@ -43,6 +43,11 @@ When a fact about the company or a product changes, change it in the page **and*
   products. Its facts come from its repo's site.config.js at origin/main (session "Watch Vault History"); its
   structured-data @id is https://watchvaulthistory.com/#site. Its mark on this site is its own, copied from its
   src/partials/lockup-mark.svg.
+- Watch Vault Vintage (https://watchvaultvintage.com, session "Watch Vault Vintage feasibility study", repo
+  ~/Projects/watch-vault-vintage-site, read-only) is a website, not a product, the same way as History: free to
+  read, no app, no status, no badge, not counted among the four. Its line is "The watches and references that
+  shaped modern watchmaking, through 1999."; its @id is https://watchvaultvintage.com/#site. Its mark is copied
+  from its src/partials/lockup-mark.svg. Never print its maker, line or reference counts: they grow weekly.
 - Count the products as four (Brad, 2026-11-08: "there are 4 apps"): "four products for watch collectors", three
   apps and Watch Vault Insurance. Never "three apps" as the company's total.
 - No line whose only job is to say the products are separate or that none requires another (Brad, 2026-11-08:

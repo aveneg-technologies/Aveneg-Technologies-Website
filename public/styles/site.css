@@ -667,8 +667,9 @@ svg {
 
 
 /* 4.7 Plate, entries and pictures.
-       One bordered plate, one entry per product, a hairline between (the
-       plate's own ground showing through a 1px gap). On phones each entry
+       One card per product: its own border, corners and surface, with 2rem
+       of page ground between cards, so each reads as a separate thing
+       (Brad, 2026-11-13; guide 1.33). On phones each entry
        is one column with its picture in the flow. From 720 each entry is a
        row: text left, the picture in a column at the right. Three products
        made the rows the layout at every width; side by side they would not
@@ -676,17 +677,16 @@ svg {
 
 .plate {
   display: grid;
-  gap: 1px;
-  overflow: hidden;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: var(--line);
+  gap: 2rem;
 }
 
 .entry {
   display: grid;
   align-content: start;
+  overflow: hidden;
   padding: var(--s-6) var(--pad) var(--pad);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
   background: var(--surface);
 }
 

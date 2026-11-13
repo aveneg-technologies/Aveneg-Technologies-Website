@@ -866,7 +866,9 @@ svg {
 
 /* From 720. Pictures become objects standing in a stage and running off
    its lower edge. Archive: the list pane of the published image,
-   window x 15 to 513 from y 604 down. Tracker: the phone from its top. */
+   window x 15 to 513 from y 604 down. Tracker and Media: the phone, its
+   lower 4rem running off the stage at every width (design review,
+   2026-11-13: a phone ending just short of the edge read as a mistake). */
 @media (min-width: 45em) {
   .stage {
     min-height: 20rem;
@@ -889,7 +891,7 @@ svg {
 
   .phone {
     position: absolute;
-    top: 3.5rem;
+    bottom: calc(var(--s-8) * -1);
     left: calc(50% - 7.5rem);
     width: 15rem;
     max-width: none;
@@ -910,18 +912,21 @@ svg {
     column-gap: var(--pad);
   }
 
+  /* The picture column spans more rows than any card has (Tracker and Media
+     have seven, with the App Store badge), so its divider always reaches the
+     card's bottom edge. Spare rows are empty and take no height. */
   .figure {
     display: grid;
     grid-template-rows: 1fr auto;
-    grid-row: 1 / span 6;
+    grid-row: 1 / span 12;
     grid-column: 2;
     margin: calc(var(--s-6) * -1) calc(var(--pad) * -1) calc(var(--pad) * -1) 0;
     border-left: 1px solid var(--line);
   }
 
-  .stage {
-    border-bottom: 1px solid var(--line);
-  }
+  /* No rule between the stage and its caption: the stage's darker ground
+     separates them, and a rule there met the divider in a T and never lined
+     up with the copy column (design review, 2026-11-13). */
 
   .shot {
     top: 50%;

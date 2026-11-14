@@ -104,3 +104,16 @@ When a fact about the company or a product changes, change it in the page **and*
 - `src/partials/lockup-tracker.html` is the Tracker's lockup artwork, copied from the Tracker
   site's own page (its TM included); its colours come from the stylesheet (`.lk-*`). Replace
   it from the Tracker's page when theirs changes; never redraw a shape.
+## Promotion plumbing (family guide 1.34, 2026-11-14)
+
+- **IndexNow:** the key is the name of the one `public/<32-hex>.txt` file, and that file holds
+  the key. After each push, once the deploy is live (about 90 s), run
+  `python3 tools/indexnow.py --since <previous live SHA>`. It sends the pages whose built HTML
+  changed, plus the sitemap, to api.indexnow.org, which shares them with Bing, Yandex and the
+  other IndexNow engines. `--all` sends every page in the sitemap, and `--dry` only lists them.
+  The first submit can answer 403 until the key file has been fetched; retry until 200 or 202.
+- **Feed:** none. This site adds no dated items of its own (no news, no releases list).
+- **Deep links (/go/…):** none. They belong to sites that apps link into.
+- **Analytics:** Cloudflare Web Analytics only, cookie-free, enabled in the Cloudflare
+  dashboard. `public/_headers` allows its beacon (static.cloudflareinsights.com) and endpoint
+  (cloudflareinsights.com) and nothing else from outside. The Privacy Policy already says so.
